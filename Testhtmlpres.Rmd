@@ -12,8 +12,8 @@ output:
 ---
 
 
-## **Dog Bites in New York Dataset Exercise** {data-background-size=40% }
-
+## **Dog Bites in New York Dataset Exercise** {data-background="DogCOV.jpg" data-background-size=40% }
+Tijana Blagojev R-Ladies Belgrade
 <style type="text/css">
   .reveal p {
     text-align: justify;
@@ -26,10 +26,6 @@ output:
   }
   
 </style>
-
-<section>
-    <img class="center" height="400" src="DogCOV.jpg">
-</section>
 
 
 
@@ -161,13 +157,12 @@ Categorical:
 - **Factor (Ordinal)**: Cold, mild, warm, hot
 
 
-## Creating R markdown dashboard presentation 
+## Creating R markdown dashboard presentation {data-background="tempflexchoos.png" data-background-size=40% background-position=bottom }
 
 In top left corner press a document with the plus sign icon and choose R Markdown. Then open Flex Dashboard template.
 
-<IMG STYLE="position:relative; bottom:0; LEFT:170px; HEIGHT:300" SRC="tempflexchoos.png">
 
-## Flexdashboard Template {data-background="flexdashboardtemplate.png" data-background-size=65% background-position=bottom }
+## Flexdashboard Template {data-background="flexdashboardtemplate.png" data-background-size=50% background-position=center }
 
 ## Setting up the Appearance of Flexdashboard 
 ```{r,eval=FALSE}
@@ -434,6 +429,6 @@ p1<-ggplotly(p1, tooltip = "Info")
 p1
 ```
 
-## Dashboard Completed {data-background="Completedashboard.png" data-background-size=70% }
+## Dashboard Completed {data-background="Completedashboard.png" data-background-size=65% }
 
 ## Great Work and Thank you!{data-background="endgiphy.gif" data-background-size=40% }
