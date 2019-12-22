@@ -1,0 +1,3073 @@
+date_of_bite,breed,gender,spay_neuter,borough,zip_code
+2017-01-02,Labrador Retriever Crossbreed,Male,No,Brooklyn,11231
+2017-01-02,Lhasa Apso,Male,Yes,Brooklyn,11211
+2017-01-04,Pit Bull,Unknown,No,Brooklyn,11219
+2017-01-07,American Pit Bull Mix - Pit Bull Mix,Unknown,No,Brooklyn,11216
+2017-01-10,Jack Russ,Male,Yes,Brooklyn,11216
+2017-01-06,American Pit Bull Terrier-Pit Bull,Unknown,No,Brooklyn,11229
+2017-01-10,Pit Bull,Unknown,No,Brooklyn,11216
+2017-01-09,Pit Bull,Unknown,No,Brooklyn,11206
+2017-01-02,Shih Tzu,Male,No,Brooklyn,11218
+2017-01-11,Maltese - Shih Tzu Mix,Female,Yes,Brooklyn,11229
+2017-01-10,Pit Bull,Unknown,No,Brooklyn,11221
+2017-01-12,Pit Bull,Male,No,Brooklyn,11231
+2017-01-12,Pit Bull,Female,Yes,Brooklyn,11225
+2017-01-16,Pit Bull,Female,No,Brooklyn,11212
+2017-01-17,Jack Russ,Female,No,Brooklyn,11233
+2017-01-16,Labrador-Pit Bull X,Male,Yes,Brooklyn,11215
+2017-01-15,Shih Tzu,Male,No,Brooklyn,11212
+2017-01-14,Pit Bull,Male,No,Brooklyn,11203
+2017-01-14,Shih Tzu,Female,No,Brooklyn,11207
+2017-01-14,Boxer,Male,Yes,Brooklyn,NA
+2017-01-19,Mixed,Female,No,Brooklyn,11238
+2017-01-18,Doberman Pinscher,Male,Yes,Brooklyn,11223
+2017-01-13,Bull Dog-English,Male,No,Brooklyn,11234
+2017-01-22,Pit Bull,Female,No,Brooklyn,11208
+2017-01-15,Toy Fox Terrier,Male,Yes,Brooklyn,11222
+2017-01-23,Mixed,Unknown,No,Brooklyn,NA
+2017-01-21,Pit Bull,Unknown,No,Brooklyn,11215
+2017-01-25,Australian Cattle,Male,Yes,Brooklyn,11230
+2017-01-25,American Pit Bull Terrier-Pit Bull,Female,No,Brooklyn,11208
+2017-01-25,German Shepherd,Male,No,Brooklyn,11229
+2017-01-28,Beagle Crossbreed,Female,No,Brooklyn,11229
+2017-01-27,Pit Bull,Male,Yes,Brooklyn,11221
+2017-01-25,American Pit Bull Terrier-Pit Bull,Male,Yes,Brooklyn,11215
+2017-01-28,Jack Russell X,Male,Yes,Brooklyn,11221
+2017-01-19,Labrador Retriever Crossbreed,Unknown,No,Brooklyn,11228
+2017-01-31,German Shepherd Crossbreed,Female,Yes,Brooklyn,11218
+2017-01-30,Shih Tzu,Male,Yes,Brooklyn,11236
+2017-01-27,Pit Bull,Male,No,Brooklyn,11233
+2017-02-01,Maltese,Unknown,No,Brooklyn,11216
+2017-02-01,Pit Bull,Unknown,No,Brooklyn,11208
+2017-02-04,Rat Terrier,Male,No,Brooklyn,NA
+2017-02-04,Poodle X,Male,No,Brooklyn,11215
+2017-02-06,Siberian Husky,Male,Yes,Brooklyn,NA
+2017-02-06,Mutt,Male,No,Brooklyn,11209
+2017-02-06,German Shepherd-Pitbull,Male,Yes,Brooklyn,11225
+2017-02-07,Blue Heeler,Unknown,No,Brooklyn,11218
+2017-01-31,Pit Bull,Male,No,Brooklyn,11229
+2017-02-08,Pit Bull,Female,Yes,Brooklyn,11233
+2017-02-03,Corgi,Unknown,No,Brooklyn,11214
+2017-02-07,Mixed-Other,Male,No,Brooklyn,NA
+2017-02-08,German Shepherd,Male,Yes,Brooklyn,11235
+2017-02-10,Goldendoodle,Male,Yes,Brooklyn,11228
+2017-02-11,Yorkie Poo- Yorkshire Terrier-Maltese-Poodle,Female,Yes,Brooklyn,11209
+2017-02-12,American Pit Bull Terrier-Pit Bull,Male,No,Brooklyn,11208
+2017-02-06,Australian Cattledog X,Male,Yes,Brooklyn,11201
+2017-01-01,Pit Bull,Female,No,Brooklyn,11226
+2017-02-15,American Pit Bull Mix - Pit Bull Mix,Male,Yes,Brooklyn,11233
+2017-02-15,Schnauzer-Giant,Unknown,No,Brooklyn,11219
+2017-02-16,Great Dane,Unknown,No,Brooklyn,11249
+2017-02-16,Rottweiler X,Male,Yes,Brooklyn,11208
+2017-02-17,American Pit Bull Terrier-Pit Bull,Male,No,Brooklyn,11207
+2017-02-19,American Staffordshire Terrier,Male,No,Brooklyn,11224
+2017-02-18,American Pit Bull Mix - Pit Bull Mix,Male,Yes,Brooklyn,11233
+2017-02-21,Cock-A-Poo,Male,No,Brooklyn,11229
+2017-02-21,German Shepherd,Unknown,No,Brooklyn,11229
+2017-02-20,Yorkshire Terrier Crossbreed,Male,No,Brooklyn,11211
+2017-02-09,Chihuahua,Unknown,No,Brooklyn,11203
+2017-02-21,Pit Bull Mix,Male,Yes,Brooklyn,11205
+2017-02-19,Hound-Pit Bull X,Male,Yes,Brooklyn,11238
+2017-02-19,Shih Tzu,Male,No,Brooklyn,11236
+2017-02-12,Rottweiler X,Male,Yes,Brooklyn,11231
+2017-02-17,Pit Bull,Unknown,No,Brooklyn,11212
+2017-02-25,Jack Russ,Female,No,Brooklyn,11221
+2017-02-25,German Shepherd,Male,Yes,Brooklyn,11226
+2017-02-26,American Pit Bull Terrier-Pit Bull,Male,Yes,Brooklyn,11208
+2017-02-23,Pit Bull,Unknown,No,Brooklyn,NA
+2017-02-06,Siberian Husky,Unknown,No,Brooklyn,11232
+2017-02-24,Yorkshire Terrier,Male,Yes,Brooklyn,11236
+2017-02-20,Rottweiler,Unknown,No,Brooklyn,11204
+2017-02-08,Pit Bull,Unknown,No,Brooklyn,11232
+2017-02-28,American Pit Bull Mix - Pit Bull Mix,Female,No,Brooklyn,11208
+2017-03-01,Pit Bull,Female,Yes,Brooklyn,11217
+2017-02-25,Shih Tzu,Male,No,Brooklyn,11224
+2017-02-25,Exotic American Bully,Male,No,Brooklyn,NA
+2017-03-03,Silky Terrier,Male,No,Brooklyn,11225
+2017-03-05,Pit Bull,Unknown,No,Brooklyn,11221
+2017-03-04,Cane Corso,Male,Yes,Brooklyn,11210
+2017-03-07,American Pit Bull Terrier-Pit Bull,Male,Yes,Brooklyn,NA
+2017-03-07,American Pit Bull Terrier-Pit Bull,Male,Yes,Brooklyn,11221
+2017-02-22,Pekingese,Male,No,Brooklyn,NA
+2017-02-25,Pit Bull,Unknown,No,Brooklyn,11207
+2017-03-05,Chihuahua,Unknown,No,Brooklyn,11221
+2017-03-06,Pit Bull,Unknown,No,Brooklyn,NA
+2017-02-25,Pit Bull,Unknown,No,Brooklyn,11207
+2017-03-09,American Pit Bull Terrier-Pit Bull,Female,Yes,Brooklyn,11222
+2017-02-05,Pit Bull,Unknown,No,Brooklyn,11236
+2017-03-09,American Pit Bull Terrier-Pit Bull,Female,Yes,Brooklyn,11222
+2017-03-09,Coonhound-Black And Tan,Male,Yes,Brooklyn,11222
+2017-02-26,Yorkshire Terrier,Female,Yes,Brooklyn,11213
+2017-03-12,American Pit Bull Terrier-Pit Bull,Male,No,Brooklyn,11221
+2017-03-12,American Pit Bull Terrier-Pit Bull,Male,No,Brooklyn,11221
+2017-03-12,Schnauzer-Standard,Unknown,No,Brooklyn,11222
+2017-03-12,Bull Dog-French,Male,Yes,Brooklyn,11221
+2017-03-11,Brussels Griffon,Male,Yes,Brooklyn,11218
+2017-02-20,Newfoundland,Unknown,No,Brooklyn,NA
+2017-03-14,American Pit Bull Terrier-Pit Bull,Male,No,Brooklyn,11225
+2017-03-16,Siberian Husky,Male,No,Brooklyn,11237
+2017-03-08,Maltese,Unknown,No,Brooklyn,11236
+2017-03-17,Shih Tzu,Female,Yes,Brooklyn,11223
+2017-03-17,Mastiff Mix,Male,Yes,Brooklyn,11225
+2017-03-17,Pit Bull,Male,No,Brooklyn,11233
+2017-03-20,Golden Retriever,Female,Yes,Brooklyn,11201
+2017-03-18,Beagle Crossbreed,Female,Yes,Brooklyn,11231
+2017-03-19,Pit Bull,Unknown,No,Brooklyn,11233
+2017-03-21,American Pit Bull Mix - Pit Bull Mix,Male,Yes,Brooklyn,11215
+2017-03-16,Pit Bull,Unknown,No,Brooklyn,11215
+2017-03-12,Mini Australian Shepherd,Male,Yes,Brooklyn,11212
+2017-03-22,Shih Tzu,Female,Yes,Brooklyn,11233
+2017-03-22,Shih Tzu,Male,No,Brooklyn,11208
+2017-03-22,Mixed,Male,Yes,Brooklyn,11204
+2017-03-23,Labrador Mix,Female,Yes,Brooklyn,11215
+2017-03-23,Chihuahua Crossbreed,Male,Yes,Brooklyn,11222
+2017-03-26,American Pit Bull Mix - Pit Bull Mix,Male,No,Brooklyn,11211
+2017-03-22,Mixed,Male,Yes,Brooklyn,11212
+2017-03-19,Pekingese,Male,No,Brooklyn,11237
+2017-03-03,Maltese,Male,Yes,Brooklyn,11204
+2017-03-24,Jack Russell-Chihuahua X,Male,Yes,Brooklyn,11213
+2017-03-27,Cane Corso,Male,No,Brooklyn,11207
+2017-03-22,Rottweiler,Unknown,No,Brooklyn,11234
+2017-03-30,American Pit Bull Mix - Pit Bull Mix,Male,No,Brooklyn,11228
+2017-03-30,American Pit Bull Mix - Pit Bull Mix,Male,No,Brooklyn,11228
+2017-03-29,Poodle-Standard,Female,Yes,Brooklyn,11209
+2017-03-30,Miniature Pinscher,Unknown,No,Brooklyn,11225
+2017-03-30,Pit Bull,Unknown,No,Brooklyn,11205
+2017-03-20,German Shepherd,Unknown,No,Brooklyn,11238
+2017-03-31,American Pit Bull Terrier-Pit Bull,Male,Yes,Brooklyn,11225
+2017-04-02,American Pit Bull Mix - Pit Bull Mix,Male,Yes,Brooklyn,11208
+2017-03-30,Labradoodle,Male,Yes,Brooklyn,NA
+2017-03-30,Pit Bull,Unknown,No,Brooklyn,11235
+2017-03-21,Staffordshire-Pit Bull X,Unknown,No,Brooklyn,11201
+2017-03-30,Jack Russell X,Male,Yes,Brooklyn,11221
+2017-04-04,Pit Bull,Unknown,No,Brooklyn,NA
+2017-04-01,Yorkshire Terrier,Unknown,No,Brooklyn,NA
+2017-04-06,Rottweiler,Female,Yes,Brooklyn,11214
+2017-04-07,Pit Bull,Male,Yes,Brooklyn,11228
+2017-04-08,Japanese Chin-Spaniel,Male,No,Brooklyn,11213
+2017-04-09,Pit Bull,Male,Yes,Brooklyn,11221
+2017-04-09,Pit Bull,Female,No,Brooklyn,11221
+2017-04-01,Pit Bull,Male,Yes,Brooklyn,11221
+2017-03-01,American Pit Bull Mix - Pit Bull Mix,Unknown,No,Brooklyn,11201
+2017-04-10,German Shepherd Crossbreed,Female,Yes,Brooklyn,11215
+2017-04-08,Bull Dog-English,Male,Yes,Brooklyn,NA
+2017-04-11,Rottweiler,Unknown,No,Brooklyn,11226
+2017-04-12,Bull Dog-French,Male,Yes,Brooklyn,11249
+2017-04-12,German Shepherd,Male,Yes,Brooklyn,11209
+2017-03-25,Pit Bull,Male,No,Brooklyn,11236
+2017-03-30,Pit Bull,Male,No,Brooklyn,11236
+2017-04-13,Rottweiler,Unknown,No,Brooklyn,11229
+2017-04-13,Bull Dog-English,Male,No,Brooklyn,11216
+2017-04-12,German Shepherd,Unknown,No,Brooklyn,11216
+2017-04-12,Pit Bull,Male,Yes,Brooklyn,11212
+2017-04-16,American Pit Bull Terrier-Pit Bull,Female,No,Brooklyn,11207
+2017-04-13,Labrador Retriever,Unknown,No,Brooklyn,11211
+2017-04-09,Labrador Retriever Crossbreed,Male,Yes,Brooklyn,NA
+2017-04-17,Pit Bull,Unknown,No,Brooklyn,11216
+2017-04-14,Pit Bull,Unknown,No,Brooklyn,11222
+2017-04-16,Terrier,Unknown,No,Brooklyn,11211
+2017-04-15,Sheperd,Unknown,No,Brooklyn,NA
+2017-04-19,Boxer,Female,Yes,Brooklyn,11208
+2017-04-17,Maltese-Shih Tzu X,Male,No,Brooklyn,11212
+2017-04-20,Pit Bull,Female,No,Brooklyn,11208
+2017-04-20,Pit Bull Mix,Female,No,Brooklyn,11208
+2017-04-20,American Staffordshire Terrier,Male,No,Brooklyn,11203
+2017-04-20,Shih Tzu-Dachshund  X,Female,Yes,Brooklyn,11221
+2017-04-20,Chihuahua,Male,No,Brooklyn,11208
+2017-04-20,Pit Bull,Male,No,Brooklyn,11234
+2017-04-20,Pit Bull,Male,No,Brooklyn,11234
+2017-04-22,Pit Bull,Unknown,No,Brooklyn,NA
+2017-04-22,Sharpei,Female,Yes,Brooklyn,11221
+2017-04-23,Pomeranian,Unknown,No,Brooklyn,NA
+2017-04-21,Pit Bull,Female,Yes,Brooklyn,11207
+2017-04-22,Pit Bull,Unknown,No,Brooklyn,11235
+2017-04-17,Pit Bull-Lab X,Unknown,No,Brooklyn,11237
+2017-03-07,Cocker Spaniel,Male,Yes,Brooklyn,11217
+2017-04-24,Alaskan Klee Kai,Male,Yes,Brooklyn,11237
+2017-04-25,Shih Tzu,Unknown,No,Brooklyn,11211
+2017-04-28,Pit Bull,Female,Yes,Brooklyn,11237
+2017-04-29,Labrador Retriever Crossbreed,Male,No,Brooklyn,11217
+2017-04-29,Pit Bull,Unknown,No,Brooklyn,11231
+2017-04-29,American Pit Bull Terrier-Pit Bull,Unknown,No,Brooklyn,11216
+2017-03-30,Chihuahua,Female,No,Brooklyn,11212
+2017-04-28,Staffordshire Bull Terrier,Male,No,Brooklyn,11221
+2017-05-02,Golden Retriever,Unknown,No,Brooklyn,11228
+2017-05-03,Mixed-Other,Male,Yes,Brooklyn,11217
+2017-05-03,Pit Bull-Lab X,Male,Yes,Brooklyn,11205
+2017-05-02,Sheperd,Unknown,No,Brooklyn,11211
+2017-05-07,Pug Mix,Male,Yes,Brooklyn,11238
+2017-05-09,Ridgeback Pit Bull Boxer X,Unknown,No,Brooklyn,11221
+2017-05-09,American Pit Bull Terrier-Pit Bull,Male,No,Brooklyn,11230
+2017-05-10,Pit Bull,Unknown,No,Brooklyn,11249
+2017-05-11,Boston Terrier,Male,Yes,Brooklyn,11216
+2017-05-17,Pit Bull,Unknown,No,Brooklyn,NA
+2017-05-17,Mixed Breed,Male,Yes,Brooklyn,11222
+2017-05-18,Hound,Unknown,No,Brooklyn,11206
+2017-05-17,Rottweiler,Male,Yes,Brooklyn,11234
+2017-05-18,German Shepherd,Male,Yes,Brooklyn,11208
+2017-05-20,Mixed Breed,Unknown,No,Brooklyn,11205
+2017-05-21,Maltese-Shih Tzu X,Female,No,Brooklyn,11212
+2017-05-15,Chihuahua Crossbreed,Male,Yes,Brooklyn,11207
+2017-05-22,Yorkshire Terrier,Male,No,Brooklyn,11226
+2017-05-21,Pit Bull,Female,No,Brooklyn,11224
+2017-05-22,Labradoodle,Male,Yes,Brooklyn,11205
+2017-05-20,Dachshund Smooth Coat,Female,Yes,Brooklyn,11206
+2017-05-18,Poodle-Toy,Male,Yes,Brooklyn,11214
+2017-05-24,Siberian Husky,Unknown,No,Brooklyn,NA
+2017-05-12,American Pit Bull Terrier-Pit Bull,Unknown,No,Brooklyn,11216
+2017-05-13,American Pit Bull Mix - Pit Bull Mix,Male,Yes,Brooklyn,11217
+2017-05-15,Chihuahua,Male,Yes,Brooklyn,11204
+2017-05-21,Pit Bull,Male,No,Brooklyn,11208
+2017-05-27,Labrador Retriever,Male,No,Brooklyn,NA
+2017-06-02,Pit Bull,Male,Yes,Bronx,NA
+2017-06-01,Cocker Spaniel,Unknown,No,Brooklyn,11222
+2017-05-29,Labrador Retriever Crossbreed,Female,Yes,Brooklyn,11201
+2017-05-28,Chihuahua,Unknown,No,Brooklyn,11207
+2017-05-24,Chihuahua,Female,Yes,Brooklyn,11213
+2017-05-25,American Pit Bull Mix - Pit Bull Mix,Unknown,No,Brooklyn,11224
+2017-06-01,Pomeranian,Unknown,No,Brooklyn,11220
+2017-05-27,American Pit Bull Terrier-Pit Bull,Male,No,Brooklyn,11212
+2017-05-29,French Bull - Boxer Mix,Male,Yes,Brooklyn,11238
+2017-05-28,Mixed Breed,Male,Yes,Brooklyn,11201
+2017-06-02,Boxer,Unknown,No,Brooklyn,11238
+2017-05-27,American Pit Bull Terrier-Pit Bull,Unknown,No,Brooklyn,NA
+2017-06-01,Maltese,Female,Yes,Brooklyn,11224
+2017-05-28,Cane Corso,Male,Yes,Brooklyn,11231
+2017-05-28,Rat Terrier,Male,Yes,Brooklyn,NA
+2017-05-31,Shih Tzu,Female,No,Brooklyn,11224
+2017-06-01,Belgian Malinois,Male,No,Brooklyn,11220
+2017-04-15,American Pit Bull Terrier-Pit Bull,Male,Yes,Brooklyn,11201
+2017-06-04,Labrador Retriever,Male,Yes,Brooklyn,11215
+2017-06-04,Pit Bull,Unknown,No,Brooklyn,11234
+2017-06-03,Siberian Husky,Male,Yes,Brooklyn,11207
+2017-06-03,Maltese,Male,No,Brooklyn,11204
+2017-06-03,German Shepherd,Female,Yes,Brooklyn,11218
+2017-06-04,Unknown,Unknown,No,Brooklyn,NA
+2017-06-03,Maltese-Yorkshire X,Male,Yes,Brooklyn,11221
+2017-06-02,Labrador Retriever Crossbreed,Unknown,No,Brooklyn,11209
+2017-06-02,Unknown,Unknown,No,Brooklyn,11211
+2017-06-03,Shih Tzu,Male,Yes,Brooklyn,11225
+2017-06-06,Dalmatian Crossbreed,Male,No,Brooklyn,11233
+2017-06-03,Chihuahua,Unknown,No,Brooklyn,11214
+2017-06-06,Akita,Unknown,No,Brooklyn,11223
+2017-06-05,Boxer,Male,Yes,Brooklyn,NA
+2017-05-28,Terrier Mix-Hound,Male,Yes,Brooklyn,11230
+2017-06-05,American Pit Bull Terrier-Pit Bull,Unknown,No,Brooklyn,11212
+2017-06-08,American Pit Bull Terrier-Pit Bull,Unknown,No,Brooklyn,11228
+2017-06-05,Mixed,Unknown,No,Brooklyn,NA
+2017-06-04,Chihuahua,Male,Yes,Brooklyn,11238
+2017-06-04,American Pit Bull Terrier-Pit Bull,Unknown,No,Brooklyn,11230
+2017-06-09,Shihtzu Mix,Male,No,Brooklyn,11237
+2017-06-11,Unknown,Unknown,No,Brooklyn,11211
+2017-06-07,Poodle-Standard,Male,No,Brooklyn,11229
+2017-06-09,Dachshund X,Female,Yes,Brooklyn,NA
+2017-06-11,American Pit Bull Terrier-Pit Bull,Female,No,Brooklyn,11224
+2017-06-13,American Pit Bull Terrier-Pit Bull,Male,No,Brooklyn,NA
+2017-06-13,Terrier,Unknown,No,Brooklyn,11216
+2017-06-11,Mixed,Unknown,No,Brooklyn,11221
+2017-06-09,Siberian Husky,Unknown,No,Brooklyn,11226
+2017-06-14,Great Pyreenes X,Female,Yes,Brooklyn,NA
+2017-06-13,Shih Tzu,Male,No,Brooklyn,11214
+2017-06-14,Terrier Mix,Female,Yes,Brooklyn,11223
+2017-06-15,Pitbull,Unknown,No,Brooklyn,11225
+2017-06-14,American Pit Bull Terrier-Pit Bull,Unknown,No,Brooklyn,NA
+2017-06-16,American Staffordshire Terrier,Female,No,Brooklyn,11224
+2017-06-18,American Pit Bull Terrier-Pit Bull,Unknown,No,Brooklyn,11238
+2017-06-18,Unknown,Unknown,No,Brooklyn,11238
+2017-06-18,American Pit Bull Terrier-Pit Bull,Unknown,No,Brooklyn,NA
+2017-06-18,American Pit Bull Terrier-Pit Bull,Male,Yes,Brooklyn,11231
+2017-06-19,Bull Dog,Unknown,No,Brooklyn,11206
+2017-06-18,Cane Corso,Male,No,Brooklyn,11222
+2017-06-18,Mixed,Female,Yes,Brooklyn,11201
+2017-06-12,Pit Bull,Unknown,No,Brooklyn,11213
+2017-06-16,American Pit Bull Mix - Pit Bull Mix,Female,No,Brooklyn,11208
+2017-06-17,Terrier,Unknown,No,Brooklyn,NA
+2017-06-20,Pit Bull,Male,Yes,Brooklyn,11223
+2017-06-19,Yorkshire Terrier Crossbreed,Male,Yes,Brooklyn,11236
+2017-06-22,Pit Bull,Female,No,Brooklyn,11231
+2017-06-22,Pit Bull,Male,No,Brooklyn,11231
+2017-06-22,Unknown,Unknown,No,Brooklyn,NA
+2017-06-03,Pit Bull,Unknown,No,Brooklyn,11236
+2017-06-22,Pit Bull,Female,No,Brooklyn,11208
+2017-06-25,Rottweiler X,Male,No,Brooklyn,11214
+2017-06-26,Labrador Retriever Crossbreed,Male,Yes,Brooklyn,11234
+2017-06-26,Labrador Retriever,Unknown,No,Brooklyn,11238
+2017-06-24,Terrier,Female,No,Brooklyn,11228
+2017-06-26,German Shepherd Crossbreed,Male,No,Brooklyn,11226
+2017-06-26,American Pit Bull Terrier-Pit Bull,Male,Yes,Brooklyn,11218
+2017-06-23,Alaskan Klee Kai,Male,Yes,Brooklyn,NA
+2017-06-26,Doberman Pinscher,Unknown,No,Brooklyn,11211
+2017-06-27,Maltese,Female,Yes,Brooklyn,11237
+2017-06-29,Pit Bull,Female,No,Brooklyn,11228
+2017-06-29,Blue Tick Hound,Male,Yes,Brooklyn,11225
+2017-06-27,Unknown,Unknown,No,Brooklyn,11229
+2017-06-29,Pitbull Mix,Female,Yes,Brooklyn,11215
+2017-06-28,Pit Bull,Unknown,No,Brooklyn,11228
+2017-06-29,Siberian Husky,Unknown,No,Brooklyn,11223
+2017-06-29,Pit Bull,Unknown,No,Brooklyn,11222
+2017-07-01,Buddhist,Male,No,Brooklyn,11205
+2017-07-01,Pit Bull,Female,Yes,Brooklyn,11209
+2017-07-02,Labrador Retriever,Male,Yes,Brooklyn,11220
+2017-07-04,Pit Bull,Male,No,Brooklyn,NA
+2017-06-28,Cock-A-Poo,Unknown,No,Brooklyn,11214
+2017-07-04,American Pit Bull Terrier-Pit Bull,Unknown,No,Brooklyn,11221
+2017-07-06,American Pit Bull Terrier-Pit Bull,Unknown,No,Brooklyn,11236
+2017-07-01,American Pit Bull Terrier-Pit Bull,Female,No,Brooklyn,11223
+2017-07-04,American Pit Bull Terrier-Pit Bull,Unknown,No,Brooklyn,11226
+2017-07-07,Maltese,Male,Yes,Brooklyn,NA
+2017-07-05,Dachshund Smooth Coat,Female,Yes,Brooklyn,11204
+2017-07-05,Pit Bull,Unknown,No,Brooklyn,11204
+2017-07-09,American Pit Bull Mix - Pit Bull Mix,Male,No,Brooklyn,11218
+2017-07-07,Pit Bull,Unknown,No,Brooklyn,11224
+2017-07-07,Pit Bull,Unknown,No,Brooklyn,11224
+2017-07-07,Pit Bull,Unknown,No,Brooklyn,11224
+2017-07-06,American Pit Bull Mix - Pit Bull Mix,Female,Yes,Brooklyn,11206
+2017-07-10,Labrador Retriever,Unknown,No,Brooklyn,11214
+2017-07-07,Siberian Husky,Unknown,No,Brooklyn,11211
+2017-07-08,Pit Bull,Unknown,No,Brooklyn,NA
+2017-07-11,Rhodesian Ridgeback,Male,Yes,Brooklyn,11201
+2017-07-12,Mixed,Unknown,No,Brooklyn,11208
+2017-07-12,Labrador,Male,No,Brooklyn,11207
+2017-07-12,Rottweiler,Male,Yes,Brooklyn,11234
+2017-07-02,Cock-A-Poo,Male,No,Brooklyn,11220
+2017-07-10,American Pit Bull Mix - Pit Bull Mix,Male,Yes,Brooklyn,NA
+2017-07-14,Pit Bull Mix,Male,Yes,Brooklyn,11226
+2017-07-02,Unknown,Unknown,No,Brooklyn,11208
+2017-07-13,Pit Bull,Unknown,No,Brooklyn,11233
+2017-07-12,Unknown,Unknown,No,Brooklyn,11237
+2017-07-15,Labrador Retriever,Male,No,Brooklyn,11234
+2017-07-12,American Pit Bull Terrier-Pit Bull,Male,Yes,Brooklyn,11226
+2017-07-17,American Pit Bull Terrier-Pit Bull,Male,Yes,Brooklyn,11208
+2017-07-15,American Pit Bull Terrier-Pit Bull,Unknown,No,Brooklyn,11221
+2017-07-15,Pit Bull,Unknown,No,Brooklyn,11238
+2017-06-02,Pit Bull-Lab X,Unknown,No,Brooklyn,11249
+2017-07-16,American Pit Bull Terrier-Pit Bull,Unknown,No,Brooklyn,11221
+2017-07-20,Lab-Italian Greyhound X,Male,Yes,Brooklyn,11215
+2017-07-19,Rottweiler,Unknown,No,Brooklyn,11226
+2017-07-20,Unknown,Unknown,No,Brooklyn,11238
+2017-07-20,Pit Bull,Unknown,No,Brooklyn,11206
+2017-07-19,Unknown,Unknown,No,Brooklyn,NA
+2017-07-11,Unknown,Unknown,No,Brooklyn,11205
+2017-07-10,Pit Bull,Unknown,No,Brooklyn,11223
+2017-07-16,Boston Terrier X,Male,Yes,Brooklyn,11222
+2017-07-18,Pit Bull,Unknown,No,Brooklyn,11216
+2017-07-19,Cattle Dog-Blue Heeler,Female,No,Brooklyn,11231
+2017-07-21,Bull Dog,Unknown,No,Brooklyn,11206
+2017-07-22,Husky X,Male,Yes,Brooklyn,11207
+2017-07-24,Boxer,Unknown,No,Brooklyn,11223
+2017-07-23,Rottweiler,Male,No,Brooklyn,NA
+2017-07-20,Yorkshire Terrier,Unknown,No,Brooklyn,11236
+2017-07-18,Unknown,Unknown,No,Brooklyn,11249
+2017-07-18,Terrier,Unknown,No,Brooklyn,11249
+2017-07-25,Golden Retriever,Male,Yes,Brooklyn,NA
+2017-07-23,Sheperd,Unknown,No,Brooklyn,11229
+2017-07-24,Shih Tzu,Female,Yes,Brooklyn,11221
+2017-07-25,Mixed-Other,Unknown,No,Brooklyn,11233
+2017-07-22,Lhasa Apso,Male,No,Brooklyn,11236
+2017-07-14,Pit Bull,Unknown,No,Brooklyn,11236
+2017-07-21,Cane Corso,Male,No,Brooklyn,11231
+2017-07-24,German Shepherd,Male,Yes,Brooklyn,11223
+2017-07-25,Havanese,Male,No,Brooklyn,11234
+2017-07-19,Uncertain,Unknown,No,Brooklyn,11217
+2017-07-27,Terrier Mix,Male,Yes,Brooklyn,11214
+2017-07-26,American Pit Bull Terrier-Pit Bull,Male,Yes,Brooklyn,11208
+2017-07-22,Jack Russ,Male,No,Brooklyn,11237
+2017-07-23,Cockanese,Male,Yes,Brooklyn,NA
+2017-07-21,Rottweiler,Unknown,No,Brooklyn,NA
+2017-07-21,Mixed,Unknown,No,Brooklyn,11238
+2017-07-26,Unknown,Unknown,No,Brooklyn,11235
+2017-07-28,Yorkshire Terrier,Female,No,Brooklyn,11213
+2017-07-28,Pit Bull,Unknown,No,Brooklyn,11238
+2017-06-11,Siberian Husky,Unknown,No,Brooklyn,NA
+2017-07-27,Pit Bull,Female,Yes,Brooklyn,11211
+2017-07-29,American Staffordshire X,Male,No,Brooklyn,11229
+2017-07-29,Boston Terrier,Male,No,Brooklyn,11237
+2017-08-02,Shih Tzu,Unknown,No,Brooklyn,NA
+2017-08-02,Unknown,Unknown,No,Brooklyn,11226
+2017-07-30,Pug,Male,No,Brooklyn,11214
+2017-07-31,Boxer,Female,No,Brooklyn,11207
+2017-08-01,Boxer-Pitbull,Unknown,No,Brooklyn,NA
+2017-07-31,Belgian Malinois,Female,No,Brooklyn,11220
+2017-06-25,Rottweiler,Male,Yes,Brooklyn,11230
+2017-06-19,Terrier,Male,Yes,Brooklyn,11222
+2017-07-24,Rottweiler,Unknown,No,Brooklyn,11207
+2017-07-28,Cocker Spaniel,Female,Yes,Brooklyn,11222
+2017-07-28,Boston Terrier X,Male,Yes,Brooklyn,11221
+2017-08-03,American Pit Bull Terrier-Pit Bull,Unknown,No,Brooklyn,11233
+2017-08-04,American Pit Bull Mix - Pit Bull Mix,Male,Yes,Brooklyn,11209
+2017-08-07,American Pit Bull Terrier-Pit Bull,Female,Yes,Brooklyn,11204
+2017-07-19,Maltese X,Male,No,Brooklyn,11224
+2017-08-03,Pit Bull,Unknown,No,Brooklyn,11207
+2017-08-05,Labrador-Sheep Dog X,Male,No,Brooklyn,11233
+2017-08-06,Labrador-Sheep Dog X,Male,No,Brooklyn,11233
+2017-08-05,Yorkshire Terrier,Male,No,Brooklyn,11204
+2017-08-08,Chihuahua,Unknown,No,Brooklyn,11211
+2017-08-08,Pit Bull,Unknown,No,Brooklyn,NA
+2017-08-08,Pit Bull,Unknown,No,Brooklyn,11231
+2017-07-20,Shih Tzu,Male,Yes,Brooklyn,11236
+2017-07-25,Mixed,Unknown,No,Brooklyn,11215
+2017-08-09,Beagle Crossbreed,Male,Yes,Brooklyn,11221
+2017-08-09,Chihuahua,Male,No,Brooklyn,11205
+2017-08-09,Black Russian Terrier,Female,Yes,Brooklyn,11249
+2017-07-13,Pit Bull,Female,Yes,Brooklyn,NA
+2017-08-11,Chihuahua,Male,Yes,Brooklyn,11223
+2017-08-13,American Pit Bull Mix - Pit Bull Mix,Female,Yes,Brooklyn,NA
+2017-08-14,Spaniel X Terrier,Male,Yes,Brooklyn,11238
+2017-08-14,Shih Tzu,Male,Yes,Brooklyn,11238
+2017-08-12,Unknown,Unknown,No,Brooklyn,11204
+2017-07-29,Yorkshire Terrier,Male,No,Brooklyn,NA
+2017-07-30,American Pit Bull Mix - Pit Bull Mix,Male,Yes,Brooklyn,11225
+2017-08-15,Yorkshire Terrier,Unknown,No,Brooklyn,11220
+2017-08-15,Poodle-Standard,Male,No,Brooklyn,11217
+2017-08-16,Bull Dog,Unknown,No,Brooklyn,NA
+2017-08-12,American Pit Bull Terrier-Pit Bull,Male,No,Brooklyn,11209
+2017-08-18,Chihuahua Crossbreed,Male,Yes,Brooklyn,11221
+2017-08-19,German Shepherd,Male,No,Brooklyn,11211
+2017-08-14,Unknown,Unknown,No,Brooklyn,11223
+2017-08-20,American Staffordshire Terrier,Female,No,Brooklyn,11230
+2017-08-21,Unknown,Unknown,No,Brooklyn,11249
+2017-08-18,German Shepherd,Unknown,No,Brooklyn,11220
+2017-08-20,Chihuahua,Male,No,Brooklyn,11206
+2017-08-23,Pit Bull,Unknown,No,Brooklyn,11236
+2017-08-24,Pit Bull,Unknown,No,Brooklyn,11216
+2017-08-25,Labrador Retriever,Unknown,No,Brooklyn,11234
+2017-08-28,American Staffordshire Terrier,Male,Yes,Brooklyn,11211
+2017-08-27,Cocker Spaniel,Unknown,No,Brooklyn,NA
+2017-08-26,Maltese,Unknown,No,Brooklyn,NA
+2017-08-26,American Pit Bull Terrier-Pit Bull,Female,Yes,Brooklyn,11234
+2017-08-21,Doberman Pinscher,Female,No,Brooklyn,11229
+2017-08-28,Pit Bull,Unknown,No,Brooklyn,11225
+2017-08-28,Chihuahua,Unknown,No,Brooklyn,11228
+2017-08-30,Labrador Mix,Male,Yes,Brooklyn,11223
+2017-08-28,American Pit Bull Mix - Pit Bull Mix,Male,Yes,Brooklyn,11205
+2017-08-23,Unknown,Unknown,No,Brooklyn,11221
+2017-08-28,Yorkshire- Tibetan Terrier,Male,Yes,Brooklyn,11238
+2017-08-30,Bichon Frise,Male,Yes,Brooklyn,11220
+2017-08-31,German Shepherd,Female,Yes,Brooklyn,11224
+2017-08-30,Pit Bull,Male,No,Brooklyn,11207
+2017-09-01,Border Collie Mix,Male,Yes,Brooklyn,11234
+2017-08-30,Pit Bull,Unknown,No,Brooklyn,NA
+2017-08-29,Cock-A-Poo,Male,No,Brooklyn,11220
+2017-08-01,Unknown,Unknown,No,Brooklyn,11236
+2017-07-25,Pit Bull Terrier Mix,Female,Yes,Brooklyn,11215
+2017-09-03,Wire Fox Terrier,Male,Yes,Brooklyn,11209
+2017-09-02,American Pit Bull Mix - Pit Bull Mix,Male,No,Brooklyn,11216
+2017-09-04,American Pit Bull Terrier-Pit Bull,Male,Yes,Brooklyn,11206
+2017-09-04,German Shepherd- Keeshound Mix,Male,Yes,Brooklyn,11224
+2017-09-01,Rottweiler,Male,Yes,Brooklyn,11236
+2017-09-05,Shiba Inu,Female,Yes,Brooklyn,11230
+2017-09-04,Mixed,Unknown,No,Brooklyn,11211
+2017-09-07,American Pit Bull Mix - Pit Bull Mix,Male,Yes,Brooklyn,11219
+2017-09-02,Pit Bull,Unknown,No,Brooklyn,NA
+2017-08-23,Pit Bull,Unknown,No,Brooklyn,11207
+2017-09-04,Australian Cattle Dog,Female,Yes,Brooklyn,11204
+2017-09-06,American Pit Bull Terrier-Pit Bull,Unknown,No,Brooklyn,NA
+2017-09-06,German Shepherd Crossbreed,Female,Yes,Brooklyn,11216
+2017-09-07,Heeler X,Female,Yes,Brooklyn,11238
+2017-09-06,Border Terrier,Male,Yes,Brooklyn,NA
+2017-09-08,Bull Dog-English,Male,No,Brooklyn,11224
+2017-08-16,Rottweiler,Unknown,No,Brooklyn,11230
+2017-09-08,Yorkshire Terrier,Male,Yes,Brooklyn,11214
+2017-09-07,Maltese,Male,No,Brooklyn,11220
+2017-09-09,Shih Tzu,Unknown,No,Brooklyn,11231
+2017-09-09,Mixed,Male,Yes,Brooklyn,11209
+2017-09-09,Chihuahua,Unknown,No,Brooklyn,NA
+2017-09-08,Miniature Pinscher,Unknown,No,Brooklyn,11237
+2017-09-12,Shih Tzu,Male,No,Brooklyn,11204
+2017-08-03,Labrador Retriever Crossbreed,Unknown,No,Brooklyn,11233
+2017-09-11,Not Given,Unknown,No,Brooklyn,NA
+2017-09-13,Yorkshire Terrier,Male,Yes,Brooklyn,11208
+2017-09-12,Pit Bull,Unknown,No,Brooklyn,11212
+2017-09-13,Pit Bull,Unknown,No,Brooklyn,11231
+2017-09-13,Schnauzer-Standard,Male,Yes,Brooklyn,11235
+2017-09-13,Poodle-Standard,Unknown,No,Brooklyn,11228
+2017-09-13,Yorkshire Terrier,Female,Yes,Brooklyn,11224
+2017-09-13,Terrier,Unknown,No,Brooklyn,11215
+2017-09-15,Labrador Retriever,Male,Yes,Brooklyn,NA
+2017-09-17,Pit Bull,Male,Yes,Brooklyn,11209
+2017-09-15,Pit Bull,Male,No,Brooklyn,11210
+2017-09-17,Chow Chow X,Male,Yes,Brooklyn,11215
+2017-09-12,Rottweiler,Unknown,No,Brooklyn,11213
+2017-09-17,Miniature Pinscher,Male,No,Brooklyn,11233
+2017-09-16,Puggle,Male,Yes,Brooklyn,11218
+2017-09-16,Pit Bull Mix,Unknown,No,Brooklyn,11225
+2017-09-16,Yorkshire Terrier,Unknown,No,Brooklyn,NA
+2017-09-15,Beagle Mix,Male,Yes,Brooklyn,11226
+2017-09-11,German Shepherd,Male,Yes,Brooklyn,11220
+2017-09-17,Mastiff,Unknown,No,Brooklyn,11225
+2017-09-16,Mastiff-Bull,Unknown,No,Brooklyn,11211
+2017-09-15,American Bull - Stafford Terrier,Male,Yes,Brooklyn,11201
+2017-09-19,American Pit Bull Mix - Pit Bull Mix,Female,No,Brooklyn,11201
+2017-09-20,Mixed,Unknown,No,Brooklyn,NA
+2017-09-17,German Shepherd Crossbreed,Male,Yes,Brooklyn,11208
+2017-09-20,Shiba Inu,Male,No,Brooklyn,11249
+2017-09-21,Labrador Retriever,Male,Yes,Brooklyn,11231
+2017-09-20,Labrador - Hound Mix,Male,Yes,Brooklyn,11233
+2017-09-21,Bull Terrier,Male,No,Brooklyn,NA
+2017-09-16,Pit Bull,Unknown,No,Brooklyn,11237
+2017-09-16,Pit Bull,Unknown,No,Brooklyn,11207
+2017-09-23,Unknown,Unknown,No,Brooklyn,11235
+2017-09-23,German Shepherd,Unknown,No,Brooklyn,11235
+2017-09-24,Pit Bull,Female,Yes,Brooklyn,11234
+2017-09-24,Mixed,Unknown,No,Brooklyn,11215
+2017-09-23,Pekingese,Female,Yes,Brooklyn,11221
+2017-09-25,Dachshund Smooth Coat Miniature,Female,Yes,Brooklyn,11249
+2017-09-25,German Shepherd,Male,Yes,Brooklyn,11201
+2017-09-27,American Pit Bull Mix - Pit Bull Mix,Unknown,No,Brooklyn,11206
+2017-09-26,Siberian Husky,Female,No,Brooklyn,11209
+2017-09-27,German Shepherd,Female,No,Brooklyn,11208
+2017-09-23,Bichon Frise,Unknown,No,Brooklyn,NA
+2017-09-28,Unknown,Unknown,No,Brooklyn,11226
+2017-09-24,Pit Bull,Male,Yes,Brooklyn,11234
+2017-09-26,Schnauzer-Miniature,Male,No,Brooklyn,11226
+2017-09-29,Rottweiler Mix,Male,Yes,Brooklyn,11206
+2017-09-29,Shih Tzu Mix,Male,Yes,Brooklyn,11236
+2017-09-29,Shih Tzu Mix,Male,Yes,Brooklyn,11236
+2017-09-30,German Shepherd,Female,No,Brooklyn,11237
+2017-09-19,Pit Bull,Male,No,Brooklyn,11212
+2017-09-30,Golden Retriever,Unknown,No,Brooklyn,11216
+2017-08-28,Rottweiler- German Shepherd Mix,Male,Yes,Brooklyn,11206
+2017-09-16,Pit Bull,Unknown,No,Brooklyn,11220
+2017-10-04,Saint Bernard,Male,Yes,Brooklyn,11211
+2017-10-03,Pit Bull - German Shepherd Mix,Male,Yes,Brooklyn,11234
+2017-09-25,Pomeranian,Male,No,Brooklyn,11229
+2017-10-04,Poodle-Standard,Female,Yes,Brooklyn,11234
+2017-10-05,Boston Border Terrier,Female,Yes,Brooklyn,11210
+2017-09-30,Pit Bull,Unknown,No,Brooklyn,11215
+2017-10-05,Pit Bull,Unknown,No,Brooklyn,NA
+2017-09-16,Unknown,Unknown,No,Brooklyn,NA
+2017-10-05,German Shepherd,Male,Yes,Brooklyn,11211
+2017-10-05,Bull Dog,Unknown,No,Brooklyn,11223
+2017-04-11,Pekingese,Male,Yes,Brooklyn,11229
+2017-10-09,Pit Bull,Male,Yes,Brooklyn,11204
+2017-10-05,Shepherd,Unknown,No,Brooklyn,11235
+2017-10-01,Pit Bull,Unknown,No,Brooklyn,11213
+2017-10-11,Yorkshire Terrier,Unknown,No,Brooklyn,11214
+2017-10-07,Maltese,Unknown,No,Brooklyn,11207
+2017-09-17,Pit Bull,Unknown,No,Brooklyn,11208
+2017-10-10,German Shepherd,Male,No,Brooklyn,11215
+2017-10-12,Pit Bull,Unknown,No,Brooklyn,11216
+2017-10-12,Pit Bull,Unknown,No,Brooklyn,11216
+2017-10-10,Terrier Mix,Male,Yes,Brooklyn,11231
+2017-10-10,Collie,Male,Yes,Brooklyn,11231
+2017-10-10,Unknown,Unknown,No,Brooklyn,NA
+2017-10-15,Terrier Mix,Male,Yes,Brooklyn,11215
+2017-10-17,Cocker Spaniel,Male,Yes,Brooklyn,11220
+2017-10-06,Great Dane,Male,No,Brooklyn,11222
+2017-10-06,American Pit Bull Mix - Pit Bull Mix,Male,No,Brooklyn,11218
+2017-10-14,Poodle X,Male,Yes,Brooklyn,11217
+2017-10-13,German Shepherd,Male,Yes,Brooklyn,11231
+2017-10-17,Mixed,Unknown,No,Brooklyn,11215
+2017-10-12,Cavalier King Charles Spaniel,Unknown,No,Brooklyn,11234
+2017-10-17,Labrador Retriever Crossbreed,Male,Yes,Brooklyn,11215
+2017-09-17,Hound X,Male,Yes,Brooklyn,11238
+2017-10-20,Terrier Cross,Male,No,Brooklyn,11208
+2017-10-14,Siberian Husky,Male,No,Brooklyn,11235
+2017-10-22,Pit Bull,Male,Yes,Brooklyn,11209
+2017-09-27,Unknown,Unknown,No,Brooklyn,11249
+2017-10-20,Crossbreed,Male,No,Brooklyn,11239
+2017-10-21,American Pit Bull Terrier-Pit Bull,Male,No,Brooklyn,11207
+2017-10-20,Dachshund X,Male,Yes,Brooklyn,11215
+2017-10-20,Unknown,Male,No,Brooklyn,11218
+2017-10-20,Sheperd,Unknown,No,Brooklyn,NA
+2017-10-22,Bull Dog,Unknown,No,Brooklyn,11222
+2017-10-15,Pit Bull,Unknown,No,Brooklyn,NA
+2017-10-26,Golden Retriever,Male,Yes,Brooklyn,11201
+2017-10-26,Husky X,Female,Yes,Brooklyn,11215
+2017-10-16,American Pit Bull Mix - Pit Bull Mix,Unknown,No,Brooklyn,11213
+2017-10-20,Mixed-Other,Male,No,Brooklyn,NA
+2017-10-28,Mixed,Male,No,Brooklyn,11230
+2017-10-28,Bernese Mountain,Unknown,No,Brooklyn,11216
+2017-10-28,Pit Bull,Unknown,No,Brooklyn,11225
+2017-10-29,German Shepherd,Unknown,No,Brooklyn,11234
+2017-10-31,Labrador Retriever Crossbreed,Male,Yes,Brooklyn,11214
+2017-10-27,Dachshund X,Female,Yes,Brooklyn,11222
+2017-10-21,Schnauzer-Giant,Male,Yes,Brooklyn,11228
+2017-10-28,Mixed,Male,No,Brooklyn,11233
+2017-11-01,Border Collie X,Male,Yes,Brooklyn,11201
+2017-10-31,Mixed,Male,No,Brooklyn,11208
+2017-10-25,Doberman Pinscher,Female,Yes,Brooklyn,11231
+2017-11-01,Shih Tzu,Female,No,Brooklyn,11224
+2017-11-04,American Pit Bull Terrier-Pit Bull,Female,Yes,Brooklyn,11222
+2017-11-04,Dachshund Smooth Coat Miniature,Female,Yes,Brooklyn,11222
+2017-11-03,Siberian Pit Bull,Male,No,Brooklyn,NA
+2017-11-05,Shih Tzu Mix,Unknown,No,Brooklyn,11213
+2017-11-05,Chihuahua,Male,Yes,Brooklyn,11214
+2017-11-05,Jack Russell X,Female,No,Brooklyn,11219
+2017-11-04,German Shepherd Crossbreed,Female,Yes,Brooklyn,11228
+2017-11-07,Mixed,Male,No,Brooklyn,11207
+2017-11-06,Mixed Breed,Male,No,Brooklyn,11237
+2017-11-06,Unknown,Unknown,No,Brooklyn,NA
+2017-11-09,Shepherd-Pit Bull X,Male,Yes,Brooklyn,11219
+2017-11-05,Unknown,Unknown,No,Brooklyn,11208
+2017-11-10,Chihuahua,Female,Yes,Brooklyn,11222
+2017-11-10,American Pit Bull Mix - Pit Bull Mix,Male,No,Brooklyn,11207
+2017-11-11,Pit Bull,Unknown,No,Brooklyn,11213
+2017-11-13,Mutt,Male,Yes,Brooklyn,11238
+2017-11-07,Unknown,Male,No,Brooklyn,NA
+2017-11-10,German Shepherd,Male,Yes,Brooklyn,11235
+2017-11-12,Pit Bull,Male,No,Brooklyn,NA
+2017-11-14,American Pit Bull Terrier-Pit Bull,Unknown,No,Brooklyn,11212
+2017-11-11,Pit Bull,Unknown,No,Brooklyn,11233
+2017-11-09,Unknown,Unknown,No,Brooklyn,11207
+2017-11-15,Cocker Spaniel,Male,Yes,Brooklyn,11207
+2017-11-16,German Shepherd,Male,No,Brooklyn,11235
+2017-11-15,Shiba Inu,Male,Yes,Brooklyn,11230
+2017-11-17,American Pit Bull Mix - Pit Bull Mix,Male,No,Brooklyn,11213
+2017-01-12,Italian Mastiff-Cane Corso X,Male,No,Brooklyn,11201
+2017-11-16,Bull Dog-English,Unknown,No,Brooklyn,11210
+2017-11-19,Basset Hound X,Female,Yes,Brooklyn,NA
+2017-11-14,Labrador Retriever,Male,Yes,Brooklyn,48064
+2017-11-18,American Pit Bull Terrier-Pit Bull,Unknown,No,Brooklyn,11205
+2017-11-18,Beagle,Male,No,Brooklyn,11229
+2017-11-20,American Pit Bull Mix - Pit Bull Mix,Female,Yes,Brooklyn,11210
+2017-11-15,Mixed,Female,Yes,Brooklyn,11231
+2017-11-11,Pit Bull,Unknown,No,Brooklyn,11237
+2017-11-11,Basset Hound X,Male,Yes,Brooklyn,11201
+2017-11-21,Bull Dog-English,Female,Yes,Brooklyn,11228
+2017-11-16,American Pit Bull Terrier-Pit Bull,Unknown,No,Brooklyn,NA
+2017-11-22,American Pit Bull Mix - Pit Bull Mix,Male,Yes,Brooklyn,11201
+2017-11-22,Shih Tzu,Male,No,Brooklyn,11237
+2017-11-25,Maltese-Westie X,Male,Yes,Brooklyn,11214
+2017-11-14,American Pit Bull Terrier-Pit Bull,Unknown,No,Brooklyn,11213
+2017-11-29,American Eskimo,Female,Yes,Brooklyn,11207
+2017-11-15,Mixed Breed,Female,No,Brooklyn,11249
+2017-11-29,Boxer,Unknown,No,Brooklyn,11237
+2017-11-26,Mastiff,Unknown,No,Brooklyn,11209
+2017-11-29,Siberian Husky,Male,Yes,Brooklyn,11234
+2017-12-01,Sheperd,Unknown,No,Brooklyn,11209
+2017-12-01,Unknown,Unknown,No,Brooklyn,11220
+2017-12-02,Labrador Retriever,Male,Yes,Brooklyn,11201
+2017-11-29,Mixed Breed,Male,No,Brooklyn,11206
+2017-12-04,English Cocker Spaniel,Female,No,Brooklyn,11223
+2017-12-05,Eng French Pit Bull,Male,Yes,Brooklyn,11226
+2017-12-05,Bichon Frise- Cavalier Charles Spaniel,Male,Yes,Brooklyn,11209
+2017-12-07,Pit Bull,Male,Yes,Brooklyn,11236
+2017-12-07,Beagle,Female,Yes,Brooklyn,11204
+2017-12-08,Bull Dog,Male,Yes,Brooklyn,11215
+2017-12-08,Unknown,Unknown,No,Brooklyn,11215
+2017-11-01,Unknown,Unknown,No,Brooklyn,11206
+2017-11-05,Maltese,Male,No,Brooklyn,11221
+2017-12-11,Boxer Mix,Male,No,Brooklyn,11209
+2017-12-08,Great Dane,Male,Yes,Brooklyn,11223
+2017-12-11,Pug,Unknown,No,Brooklyn,11234
+2017-12-12,Terrier X,Unknown,No,Brooklyn,11205
+2017-12-12,Great Dane - Hound Mix,Male,Yes,Brooklyn,11209
+2017-12-13,Mixed-Other,Male,No,Brooklyn,11206
+2017-12-15,Mixed Breed,Male,No,Brooklyn,11208
+2017-12-12,Retriever-Australian Cattle Dog X,Male,Yes,Brooklyn,11222
+2017-12-15,Mixed,Unknown,No,Brooklyn,11230
+2017-12-12,Wired Hair Terrier X,Female,Yes,Brooklyn,11214
+2017-12-12,German Shepherd,Unknown,No,Brooklyn,11214
+2017-12-11,Unknown,Unknown,No,Brooklyn,NA
+2017-12-17,Shih Tzu,Unknown,No,Brooklyn,NA
+2017-12-18,Chinese Crested,Male,Yes,Brooklyn,11229
+2017-12-18,Mixed,Male,No,Brooklyn,11205
+2017-03-20,Mutt,Unknown,No,Other,NA
+2017-12-18,Shih Tzu,Male,No,Brooklyn,11236
+2017-11-26,Shih Tzu,Male,Yes,Brooklyn,11223
+2017-12-17,Bolognese Bichon,Male,Yes,Brooklyn,11205
+2017-12-21,Mixed,Male,Yes,Brooklyn,11249
+2017-12-22,Poodle-Toy,Female,Yes,Brooklyn,11235
+2017-12-21,Pit Bull,Unknown,No,Brooklyn,11208
+2017-12-21,Mixed-Other,Male,No,Brooklyn,11207
+2017-12-24,Shih Tzu,Female,No,Brooklyn,11232
+2017-12-22,Yorkshire Terrier,Unknown,No,Brooklyn,11221
+2017-12-26,Yorkshire Terrier,Unknown,No,Brooklyn,11221
+2017-12-21,American Pit Bull Mix - Pit Bull Mix,Female,Yes,Brooklyn,11237
+2017-12-25,Shih Tzu,Male,No,Brooklyn,11212
+2017-12-22,Pit Bull Terrier -Cattle Dogx,Male,Yes,Brooklyn,NA
+2017-12-27,Shiba Inu,Female,No,Brooklyn,11209
+2017-12-20,Chow Chow-Pit Bull,Male,Yes,Brooklyn,11224
+2017-12-28,Bichon Frise,Female,Yes,Brooklyn,11228
+2017-12-20,Chow Chow- Pit Bull,Male,No,Brooklyn,11224
+2017-12-31,Mastiff-Bull,Male,Yes,Brooklyn,11215
+2017-12-26,Unknown,Unknown,No,Brooklyn,11229
+2017-12-30,Jack Russell-Poodle X,Male,No,Brooklyn,11201
+2017-12-31,American Pit Bull Mix - Pit Bull Mix,Unknown,No,Brooklyn,11224
+2017-12-31,Unknown,Unknown,No,Brooklyn,NA
+2017-12-29,Unknown,Unknown,No,Brooklyn,11221
+2017-12-30,Akita,Unknown,No,Brooklyn,NA
+2017-12-19,Pit Bull,Unknown,No,Brooklyn,11237
+2017-12-25,Great Pyrenees,Male,No,Brooklyn,11207
+2017-12-01,Pit Bull,Unknown,No,Brooklyn,11212
+2017-03-19,Pit Bull,Unknown,No,Other,NA
+2017-03-17,Havanese,Male,No,Other,NA
+2017-01-01,Chihuahua,Unknown,No,Bronx,10457
+2017-01-01,Pit Bull,Male,No,Bronx,10465
+2017-01-03,Pit Bull,Unknown,No,Bronx,NA
+2017-01-04,Shih Tzu,Female,No,Bronx,10471
+2017-01-04,Yorkshire Terrier,Unknown,No,Bronx,10453
+2017-01-06,Maltese,Unknown,No,Bronx,NA
+2017-01-06,Pit Bull Mix,Female,Yes,Bronx,10461
+2017-01-06,Chihuahua,Unknown,No,Bronx,10465
+2017-01-11,Cavalier King Charles Spaniel,Male,Yes,Bronx,10465
+2017-01-12,Labrador Retriever Mix,Male,Yes,Bronx,10475
+2017-01-12,Rottweiler,Male,No,Bronx,10457
+2017-01-16,Pit Bull,Male,No,Bronx,10474
+2017-01-16,Chihuahua,Male,No,Bronx,NA
+2017-01-15,Chihuahua,Unknown,No,Bronx,10456
+2017-01-15,Poodle Shihtzu,Male,No,Bronx,NA
+2017-01-17,Chihuahua,Unknown,No,Bronx,NA
+2017-01-14,Pit Bull,Male,No,Bronx,NA
+2017-01-19,Chihuahua,Female,Yes,Bronx,10458
+2017-01-20,Pit Bull Mix,Male,No,Bronx,10459
+2017-01-23,American Pit Bull Mix - Pit Bull Mix,Male,No,Bronx,10452
+2017-01-23,Jack Russ,Unknown,No,Bronx,10465
+2017-01-23,Yorkshire Terrier,Male,Yes,Bronx,NA
+2017-01-20,Labrador Retriever Crossbreed,Male,Yes,Bronx,10461
+2017-01-21,Poodle-Miniature,Male,No,Bronx,10457
+2017-01-19,Rottweiler,Male,No,Bronx,10473
+2017-01-24,Maltese,Unknown,No,Bronx,NA
+2017-01-30,American Pit Bull Mix - Pit Bull Mix,Male,No,Bronx,10453
+2017-01-23,English Bulldog Terrier,Female,No,Bronx,10468
+2017-01-26,Rottweiler,Unknown,No,Bronx,10472
+2017-01-25,Husky,Unknown,No,Bronx,NA
+2017-01-01,Pit Bull,Unknown,No,Bronx,NA
+2017-02-01,American Pit Bull Terrier-Pit Bull,Female,No,Bronx,10456
+2017-02-01,Husky,Female,Yes,Bronx,10472
+2017-02-02,Akita,Male,No,Bronx,10473
+2017-02-04,American Staffordshire Terrier,Female,No,Bronx,10471
+2017-01-24,Pit Bull,Unknown,No,Bronx,10465
+2017-02-08,Pit Bull,Female,No,Bronx,10459
+2017-02-07,Maltese,Male,No,Bronx,10468
+2017-02-09,Pit Bull,Unknown,No,Bronx,NA
+2017-02-02,Shih Tzu,Unknown,No,Bronx,NA
+2017-02-04,Pit Bull,Male,Yes,Bronx,10461
+2017-02-04,Pit Bull,Unknown,No,Bronx,10468
+2017-02-01,Pit Bull,Unknown,No,Bronx,NA
+2017-02-07,Pit Bull,Female,No,Bronx,10462
+2017-02-11,Shih Tzu,Male,Yes,Bronx,10467
+2017-02-11,Pit Bull,Unknown,No,Bronx,NA
+2017-02-10,Terrier,Male,No,Bronx,10459
+2017-02-13,Bull Dog,Unknown,No,Bronx,NA
+2017-02-14,Lhasa Mix Shih Tzu,Male,No,Bronx,10453
+2017-01-31,Pomeranian,Unknown,No,Bronx,10472
+2017-02-06,Pit Bull,Unknown,No,Bronx,10459
+2017-02-15,Pit Bull,Female,No,Bronx,10460
+2017-02-06,Yorkshire Terrier,Male,Yes,Bronx,10465
+2017-02-07,Yorkshire Terrier,Male,No,Bronx,10465
+2017-02-17,American Pit Bull Mix - Pit Bull Mix,Female,Yes,Bronx,10461
+2017-02-19,Schnauzer Stand-Sc Wheat Terr,Male,No,Bronx,10461
+2017-02-21,Pit Bull,Female,No,Bronx,10467
+2017-02-18,American Pit Bull Mix - Pit Bull Mix,Male,No,Bronx,10473
+2017-02-17,American Pit Bull Mix - Pit Bull Mix,Male,Yes,Bronx,10453
+2017-02-17,Pit Bull,Male,No,Bronx,10470
+2017-02-20,Bull Dog,Female,Yes,Bronx,10465
+2017-02-23,Pit Bull,Unknown,No,Bronx,NA
+2017-02-23,Pit Bull,Male,No,Bronx,10468
+2017-02-20,Pit Bull,Unknown,No,Bronx,10452
+2017-02-20,German Shepherd,Unknown,No,Bronx,10458
+2017-02-23,Shih Tzu,Unknown,No,Bronx,10472
+2017-02-25,Pit Bull,Unknown,No,Bronx,10466
+2017-02-26,Pit Bull,Unknown,No,Bronx,10456
+2017-02-25,Rottweiler,Unknown,No,Bronx,10452
+2017-02-27,Chihuahua Crossbreed,Female,No,Bronx,10454
+2017-02-25,American Pit Bull Terrier-Pit Bull,Female,Yes,Bronx,NA
+2017-02-27,Chihuahua Crossbreed,Female,No,Bronx,10454
+2017-03-01,Pit Bull,Unknown,No,Bronx,NA
+2017-02-25,Pit Bull,Unknown,No,Bronx,10454
+2017-03-04,Chihuahua,Unknown,No,Bronx,NA
+2017-03-05,Maltese,Male,Yes,Bronx,10452
+2017-03-05,Pit Bull,Unknown,No,Bronx,10457
+2017-03-05,Chihuahua,Female,Yes,Bronx,10466
+2017-02-22,Pit Bull,Male,No,Bronx,10459
+2017-03-08,Pit Bull,Unknown,No,Bronx,10460
+2017-02-25,Pit Bull,Male,No,Bronx,NA
+2017-03-09,Bull Dog-English,Female,No,Bronx,10461
+2017-03-09,German Shepherd,Male,No,Bronx,10467
+2017-03-11,Pit Bull,Male,Yes,Bronx,10456
+2017-03-11,Shih Tzu,Unknown,No,Bronx,NA
+2017-03-13,Pit Bull,Unknown,No,Bronx,10472
+2017-03-05,American Pit Bull Terrier-Pit Bull,Male,No,Bronx,10461
+2017-03-16,Staffordshire Bull Terrier,Male,No,Bronx,10460
+2017-03-13,Miniature Pinscher,Male,No,Bronx,10461
+2017-03-17,Yorkshire Terrier,Female,Yes,Bronx,10456
+2017-03-16,Pit Bull,Unknown,No,Bronx,10474
+2017-03-20,Pit Bull,Female,No,Bronx,10469
+2017-03-18,American Pit Bull Mix - Pit Bull Mix,Female,Yes,Bronx,10459
+2017-03-19,Golden Retriever,Male,No,Bronx,10462
+2017-03-18,Shih Tzu,Male,No,Bronx,10452
+2017-03-19,Shih Tzu,Unknown,No,Bronx,10467
+2017-03-19,Pit Bull,Unknown,No,Bronx,NA
+2017-03-18,Poodle-Standard,Female,No,Bronx,10463
+2017-03-20,American Staffordshire Terrier,Male,No,Bronx,10460
+2017-03-20,American Pit Bull Mix - Pit Bull Mix,Male,Yes,Bronx,10451
+2017-03-19,Pit Bull,Male,No,Bronx,10458
+2017-03-21,Pit Bull,Male,No,Bronx,10472
+2017-03-26,Pit Bull,Unknown,No,Bronx,NA
+2017-03-24,Pit Bull,Unknown,No,Bronx,NA
+2017-03-24,Pit Bull,Unknown,No,Bronx,NA
+2017-03-18,Yorkshire - Shih Tzu Mix,Male,Yes,Bronx,10473
+2017-03-27,Pit Bull,Unknown,No,Bronx,10452
+2017-03-27,Shih Tzu,Unknown,No,Bronx,NA
+2017-03-28,Poodle-Standard,Male,No,Bronx,10469
+2017-03-24,Siberian Husky,Unknown,No,Bronx,10473
+2017-03-31,Cocker Spaniel,Female,No,Bronx,10459
+2017-03-20,Pit Bull,Unknown,No,Bronx,10456
+2017-03-31,Jack Russell X,Female,No,Bronx,10474
+2017-03-18,Poodle-Standard,Female,Yes,Bronx,10462
+2017-04-03,Pit Bull,Female,No,Bronx,10461
+2017-04-03,Labrador Retriever Crossbreed,Male,No,Bronx,10466
+2017-04-06,Poodle-Standard,Female,No,Bronx,10458
+2017-04-05,Pit Bull,Male,No,Bronx,10459
+2017-04-07,American Pit Bull Terrier-Pit Bull,Male,Yes,Bronx,10469
+2017-04-09,Coonhound-Treeing Walker,Male,Yes,Bronx,10462
+2017-04-05,Poodle-Standard,Male,No,Bronx,10468
+2017-04-08,Pit Bull,Female,No,Bronx,NA
+2017-04-11,Cocker Spaniel,Male,No,Bronx,10460
+2017-04-10,Shih Tzu,Male,Yes,Bronx,10461
+2017-04-13,Shih Tzu,Female,No,Bronx,10462
+2017-04-14,Maltese,Female,Yes,Bronx,NA
+2017-04-16,Chihuahua,Male,No,Bronx,10473
+2017-04-15,Hatchie,Male,No,Bronx,NA
+2017-04-13,German Shepherd,Male,Yes,Bronx,NA
+2017-04-15,Pit Bull,Unknown,No,Bronx,10459
+2017-04-22,American Pit Bull Mix - Pit Bull Mix,Male,Yes,Bronx,10469
+2017-04-18,Pit Bull,Male,Yes,Bronx,10473
+2017-04-17,American Pit Bull Mix - Pit Bull Mix,Male,No,Bronx,NA
+2017-04-17,Pit Bull,Female,Yes,Bronx,10453
+2017-04-23,German Shepherd,Unknown,No,Bronx,10462
+2017-04-25,Jack Russ,Male,No,Bronx,10453
+2017-04-14,Pit Bull,Unknown,No,Bronx,10459
+2017-04-17,Yorkshire Terrier Crossbreed,Male,Yes,Bronx,10473
+2017-04-21,Pit Bull,Unknown,No,Bronx,NA
+2017-04-22,Pit Bull,Male,No,Bronx,10468
+2017-04-21,Shih Tzu,Male,No,Bronx,NA
+2017-04-19,Chihuahua,Female,No,Bronx,10452
+2017-04-21,Shih Tzu,Male,No,Bronx,10467
+2017-04-15,Cotton De Tulear,Unknown,No,Bronx,10471
+2017-04-24,Pit Bull,Unknown,No,Bronx,10072
+2017-04-20,American Pit Bull Mix - Pit Bull Mix,Male,No,Bronx,10460
+2017-04-24,Lhasa Apso,Female,No,Bronx,10455
+2017-04-30,Pit Bull,Male,No,Bronx,10462
+2017-04-29,American Pit Bull Mix - Pit Bull Mix,Male,Yes,Bronx,10453
+2017-05-03,Papillon,Female,No,Bronx,10462
+2017-05-03,Pit Bull,Male,No,Bronx,10473
+2017-05-01,Pit Bull,Unknown,No,Bronx,10458
+2017-04-29,Shih Tzu,Male,Yes,Bronx,10473
+2017-04-23,Terr & Lab,Male,Yes,Bronx,10463
+2017-04-25,Cocker Spaniel,Male,No,Bronx,10453
+2017-04-30,Pit Bull,Male,No,Bronx,10458
+2017-04-29,Pug,Unknown,No,Bronx,10466
+2017-05-08,American Pit Bull Mix - Pit Bull Mix,Male,No,Bronx,10468
+2017-05-05,American Staffordshire Terrier,Female,No,Bronx,10460
+2017-04-30,Pit Bull,Unknown,No,Bronx,10462
+2017-04-24,American Pit Bull Terrier-Pit Bull,Unknown,No,Bronx,10462
+2017-05-10,American Pit Bull Mix - Pit Bull Mix,Male,No,Bronx,10468
+2017-05-10,Pit Bull,Unknown,No,Bronx,10451
+2017-05-09,Siberian Husky,Female,No,Bronx,10457
+2017-05-10,Maltese,Male,Yes,Bronx,NA
+2017-05-12,Stafford -Smar Bully Pit Bull,Male,No,Bronx,10470
+2017-05-11,Pit Bull,Male,No,Bronx,NA
+2017-05-11,Pug & (2) Shih Tzu Mix,Unknown,No,Bronx,10456
+2017-05-15,Shepherd,Unknown,No,Bronx,NA
+2017-05-13,Siberian Husky,Male,No,Bronx,10456
+2017-05-13,Rottweiler,Unknown,No,Bronx,10472
+2017-05-15,Pit Bull,Female,No,Bronx,10461
+2017-05-12,Terrier,Unknown,No,Bronx,NA
+2017-05-08,American Pit Bull Mix - Pit Bull Mix,Male,No,Bronx,10468
+2017-05-16,Cocker Spaniel,Female,No,Bronx,10458
+2017-05-14,Pit Bull,Unknown,No,Bronx,10461
+2017-05-12,Pit Bull,Female,No,Bronx,10462
+2017-05-11,Pit Bull,Male,No,Bronx,10462
+2017-05-17,Pit Bull,Female,Yes,Bronx,10461
+2017-05-18,Yorkshire Terrier,Unknown,No,Bronx,NA
+2017-05-17,Labrador Retriever Crossbreed,Male,Yes,Bronx,10473
+2017-05-15,Pit Bull,Female,Yes,Bronx,10472
+2017-05-15,Pit Bull,Male,No,Bronx,10472
+2017-05-22,Pit Bull,Unknown,No,Bronx,10453
+2017-05-11,American Pit Bull Mix - Pit Bull Mix,Male,No,Bronx,10472
+2017-05-18,Havanese,Male,No,Bronx,NA
+2017-05-21,Pit Bull,Unknown,No,Bronx,10456
+2017-05-20,Cocker Spaniel Crossbreed,Male,No,Bronx,10460
+2017-05-19,Yorkshire Terrier,Male,Yes,Bronx,10471
+2017-05-13,Rottweiler,Unknown,No,Bronx,10472
+2017-05-24,Shih Tzu,Male,No,Bronx,NA
+2017-05-06,Pit Bull,Unknown,No,Bronx,10472
+2017-05-20,Chihuahua,Unknown,No,Bronx,10451
+2017-05-25,Maltese,Unknown,No,Bronx,NA
+2017-05-26,Pit Bull,Unknown,No,Bronx,NA
+2017-05-24,Chihuahua,Unknown,No,Bronx,10467
+2017-05-24,Pit Bull,Unknown,No,Bronx,NA
+2017-05-30,Pit Bull,Unknown,No,Bronx,10456
+2017-05-29,Chow Chow,Male,No,Bronx,10453
+2017-05-31,Chihuahua,Male,Yes,Bronx,10463
+2017-05-28,Pit Bull,Male,No,Bronx,10472
+2017-05-25,Pit Bull,Unknown,No,Bronx,10462
+2017-05-26,Pit Bull,Male,Yes,Bronx,10473
+2017-05-24,Bichon Frise,Unknown,No,Bronx,NA
+2017-05-19,Boxer,Male,No,Bronx,10462
+2017-05-31,Pit Bull,Unknown,No,Bronx,NA
+2017-05-28,Pit Bull Mix,Male,No,Bronx,10472
+2017-05-27,Chihuahua,Male,No,Bronx,NA
+2017-05-12,Pit Bull,Unknown,No,Bronx,NA
+2017-05-05,Shih Tzu,Male,No,Bronx,10458
+2017-06-06,Alaskan Husky Mix,Unknown,No,Bronx,10453
+2017-06-03,German Shepherd Crossbreed,Male,No,Bronx,10466
+2017-06-08,Chihuahua,Male,Yes,Bronx,10458
+2017-06-04,Labrador Retriever Crossbreed,Male,Yes,Bronx,10469
+2017-05-31,Shih Tzu,Male,No,Bronx,NA
+2017-05-31,Pit Bull,Unknown,No,Bronx,10462
+2017-06-02,Pit Bull,Unknown,No,Bronx,NA
+2017-06-08,Pit Bull,Male,No,Bronx,10466
+2017-06-03,Labrador Retriever Crossbreed,Male,Yes,Bronx,10466
+2017-06-06,Labrador Retriever Crossbreed,Male,Yes,Bronx,10466
+2017-06-09,Chihuahua,Unknown,No,Bronx,10463
+2017-06-11,Pit Bull,Unknown,No,Bronx,10453
+2017-06-11,Chihuahua,Male,No,Bronx,10456
+2017-06-11,Yorkshire Terrier,Male,No,Bronx,10451
+2017-06-12,Pit Bull,Female,No,Bronx,10467
+2017-06-14,Beauceron Mix,Male,Yes,Bronx,10453
+2017-06-14,Beauceron X,Male,Yes,Bronx,10453
+2017-06-14,Shih Tzu,Unknown,No,Bronx,10466
+2017-06-16,Pit Bull,Unknown,No,Bronx,NA
+2017-06-20,American Pit Bull Terrier-Pit Bull,Male,No,Bronx,10452
+2017-06-11,Pit Bull,Male,Yes,Bronx,10466
+2017-06-21,Shih Tzu,Female,No,Bronx,NA
+2017-06-20,Pit Bull,Unknown,No,Bronx,10470
+2017-06-20,Cocker Spaniel,Unknown,No,Bronx,10472
+2017-06-15,Pit Bull,Female,Yes,Bronx,10467
+2017-06-21,Akita,Male,No,Bronx,10469
+2017-06-22,Pit Bull,Male,No,Bronx,10467
+2017-06-22,Pomeranian,Male,No,Bronx,10457
+2017-06-26,American Pit Bull Terrier-Pit Bull,Female,No,Bronx,10458
+2017-06-22,Maltese,Female,No,Bronx,10467
+2017-06-13,Pit Bull,Unknown,No,Bronx,10455
+2017-06-26,Poodle Min-Shih Tzu,Male,Yes,Bronx,10452
+2017-06-28,German Shepherd,Male,No,Bronx,10467
+2017-06-28,Shih Tzu,Unknown,No,Bronx,10465
+2017-06-28,Shih Tzu,Unknown,No,Bronx,NA
+2017-06-26,Shih Tzu,Male,No,Bronx,10472
+2017-06-24,Pit Bull,Male,No,Bronx,10466
+2017-06-24,Shih Tzu,Female,Yes,Bronx,10453
+2017-06-19,Labrador Retriever,Female,No,Bronx,10461
+2017-06-16,American Pit Bull Mix - Pit Bull Mix,Male,No,Bronx,10469
+2017-07-03,Pit Bull,Unknown,No,Bronx,10460
+2017-07-01,Poodle-Standard,Unknown,No,Bronx,NA
+2017-06-29,Yorkshire Terrier,Male,No,Bronx,10472
+2017-07-02,Shih Tzu,Male,No,Bronx,10472
+2017-06-28,Rhodesian Ridgeback,Male,Yes,Bronx,NA
+2017-07-01,Yorkshire Terrier,Unknown,No,Bronx,10472
+2017-07-03,Yorkshire Terrier,Unknown,No,Bronx,10459
+2017-06-24,American Pit Bull Terrier-Pit Bull,Unknown,No,Bronx,10465
+2017-07-01,Pomeranian,Unknown,No,Bronx,10462
+2017-07-01,Chihuahua,Female,Yes,Bronx,10465
+2017-07-09,American Pit Bull Mix - Pit Bull Mix,Male,No,Bronx,NA
+2017-07-09,Pit Bull,Male,No,Bronx,NA
+2017-06-26,Pit Bull,Unknown,No,Bronx,NA
+2017-07-07,Yorkie Maltese Mix,Male,No,Bronx,10462
+2017-07-08,American Pit Bull Mix - Pit Bull Mix,Male,No,Bronx,10465
+2017-07-09,American Pit Bull Terrier-Pit Bull,Female,No,Bronx,10466
+2017-07-10,Jack Russ,Female,No,Bronx,10460
+2017-07-01,American Pit Bull Mix - Pit Bull Mix,Male,No,Bronx,NA
+2017-07-11,American Pit Bull Terrier-Pit Bull,Unknown,No,Bronx,10453
+2017-07-04,Beagle,Male,Yes,Bronx,10475
+2017-07-03,Mixed-Other,Unknown,No,Bronx,NA
+2017-07-11,Cane Corso,Male,No,Bronx,10462
+2017-07-10,Lhasa Apso,Male,Yes,Bronx,10463
+2017-07-09,Shih Tzu,Male,No,Bronx,10458
+2017-07-13,American Pit Bull Mix - Pit Bull Mix,Male,No,Bronx,10462
+2017-07-12,American Bully,Male,No,Bronx,10463
+2017-07-07,Pit Bull,Male,No,Bronx,10472
+2017-07-12,Chihuahua,Unknown,No,Bronx,10459
+2017-07-14,American Pit Bull Mix - Pit Bull Mix,Unknown,No,Bronx,10473
+2017-07-15,Pit Bull,Unknown,No,Bronx,NA
+2017-07-17,Pit Bull,Unknown,No,Bronx,10455
+2017-07-15,Pit Bull,Male,No,Bronx,10455
+2017-07-16,Pit Bull,Unknown,No,Bronx,10457
+2017-07-14,Pit Bull,Female,No,Bronx,10467
+2017-07-19,Pit Bull,Unknown,No,Bronx,NA
+2017-07-14,German Shepherd,Male,Yes,Bronx,10459
+2017-07-21,American Pit Bull Terrier-Pit Bull,Male,No,Bronx,10469
+2017-07-22,Pit Bull,Male,No,Bronx,10469
+2017-07-01,Pit Bull,Unknown,No,Bronx,10460
+2017-07-14,Poodle-Standard,Unknown,No,Bronx,10465
+2017-07-23,Mastiff-Bull,Unknown,No,Bronx,10453
+2017-07-22,Pit Bull,Unknown,No,Bronx,10470
+2017-07-17,American Pit Bull Mix - Pit Bull Mix,Unknown,No,Bronx,10472
+2017-07-22,Pit Bull,Male,Yes,Bronx,10462
+2017-07-22,Maltese,Unknown,No,Bronx,10463
+2017-07-22,Siberian Husky,Unknown,No,Bronx,NA
+2017-07-24,Pit Bull,Unknown,No,Bronx,10460
+2017-07-21,German Shepherd,Male,No,Bronx,10462
+2017-07-25,American Staffordshire Terrier,Male,No,Bronx,10459
+2017-07-11,Pit Bull,Unknown,No,Bronx,10453
+2017-07-27,Pit Bull,Male,Yes,Bronx,10465
+2017-07-31,Bull Dog-English,Male,No,Bronx,10472
+2017-08-01,Havanese,Male,No,Bronx,10463
+2017-08-01,Labrador Retriever Crossbreed,Male,Yes,Bronx,10467
+2017-07-24,American Pit Bull Terrier-Pit Bull,Female,Yes,Bronx,10472
+2017-07-30,Pit Bull,Male,No,Bronx,10466
+2017-07-28,Pit Bull,Male,No,Bronx,10458
+2017-08-01,Pit Bull,Unknown,No,Bronx,10463
+2017-07-23,Pit Bull,Unknown,No,Bronx,10456
+2017-07-30,German Shepherd,Unknown,No,Bronx,NA
+2017-08-03,Pit Bull,Male,Yes,Bronx,10473
+2017-08-05,Cocker Spaniel,Unknown,No,Bronx,10473
+2017-08-07,German Shepherd,Male,No,Bronx,10463
+2017-08-06,Pit Bull,Unknown,No,Bronx,10469
+2017-08-05,Pit Bull,Unknown,No,Bronx,10471
+2017-08-04,Pit Bull,Male,No,Bronx,10466
+2017-08-06,Dalmatian,Female,Yes,Bronx,10458
+2017-08-04,Pit Bull,Female,Yes,Bronx,10456
+2017-07-27,Pit Bull,Male,No,Bronx,10457
+2017-08-09,American Pit Bull Terrier-Pit Bull,Male,No,Bronx,10458
+2017-08-06,Bull Terrier,Male,Yes,Bronx,10463
+2017-08-08,Cocker Spaniel,Unknown,No,Bronx,10466
+2017-08-09,Mastiff-Bull,Male,Yes,Bronx,10466
+2017-08-09,Yorkshire Terrier,Male,No,Bronx,10454
+2017-08-09,Pit Bull,Female,Yes,Bronx,10461
+2017-07-22,Pit Bull,Unknown,No,Bronx,10452
+2017-08-08,Yorkshire Terrier,Unknown,No,Bronx,10469
+2017-08-01,Shih Tzu,Male,No,Bronx,10458
+2017-08-05,Pit Bull,Unknown,No,Bronx,10467
+2017-08-10,Pit Bull,Unknown,No,Bronx,10458
+2017-08-12,Mixed Breed,Male,No,Bronx,10452
+2017-08-12,Poodle-Miniature,Male,No,Bronx,10452
+2017-08-10,Pit Bull,Unknown,No,Bronx,10456
+2017-08-10,Maltese,Unknown,No,Bronx,10466
+2017-07-30,Pit Bull,Unknown,No,Bronx,10457
+2017-08-11,American Pit Bull Terrier-Pit Bull,Male,No,Bronx,10453
+2017-08-08,German Shepherd,Male,No,Bronx,10457
+2017-08-07,Pit Bull,Unknown,No,Bronx,NA
+2017-08-16,Pit Bull,Male,No,Bronx,10466
+2017-08-15,Pit Bull,Unknown,No,Bronx,10453
+2017-08-08,Pit Bull,Female,Yes,Bronx,10455
+2017-08-13,Chihuahua,Unknown,No,Bronx,NA
+2017-08-08,Poodle-Miniature,Unknown,No,Bronx,NA
+2017-08-16,Rottweiler,Male,No,Bronx,10461
+2017-08-16,Lhasa Apso,Male,No,Bronx,NA
+2017-08-16,Rottweiler,Unknown,No,Bronx,10462
+2017-08-17,Bull Dog,Male,No,Bronx,10467
+2017-08-20,Bull Terrier,Male,Yes,Bronx,10473
+2017-08-09,Poodle-Miniature,Male,No,Bronx,10469
+2017-08-19,Pit Bull,Female,No,Bronx,NA
+2017-08-22,Siberian Husky,Male,No,Bronx,10473
+2017-08-23,Jack Russ,Male,No,Bronx,10458
+2017-08-23,Shih Tzu,Unknown,No,Bronx,10451
+2017-08-25,American Pit Bull Mix - Pit Bull Mix,Male,No,Bronx,10473
+2017-08-25,German Shepherd,Unknown,No,Bronx,10465
+2017-08-26,Terr X,Male,No,Bronx,10453
+2017-08-24,Pit Bull,Unknown,No,Bronx,10459
+2017-08-29,American Pit Bull Mix - Pit Bull Mix,Female,Yes,Bronx,10466
+2017-08-26,Saint Bernard,Male,No,Bronx,10471
+2017-08-28,Labrador Retriever,Unknown,No,Bronx,NA
+2017-08-22,Pit Bull,Unknown,No,Bronx,10454
+2017-08-27,Pit Bull,Unknown,No,Bronx,10470
+2017-08-31,Pit Bull,Unknown,No,Bronx,10473
+2017-08-31,N-A,Unknown,No,Bronx,10466
+2017-09-01,Shetland Sheepdog,Male,Yes,Bronx,NA
+2017-08-31,American Pit Bull Mix - Pit Bull Mix,Male,Yes,Bronx,10458
+2017-08-31,Pit Bull,Female,No,Bronx,10457
+2017-09-05,Poodle-Miniature,Male,Yes,Bronx,10468
+2017-09-01,Pit Bull,Female,No,Bronx,10465
+2017-09-01,Scottish Terrier,Male,No,Bronx,10459
+2017-09-02,Shih Tzu,Female,No,Bronx,10452
+2017-09-01,Pit Bull,Unknown,No,Bronx,NA
+2017-09-04,Bull Dog,Unknown,No,Bronx,NA
+2017-09-10,Beagle Crossbreed,Male,Yes,Bronx,10463
+2017-09-04,Yorkshire Terrier,Unknown,No,Bronx,10452
+2017-09-08,Pit Bull,Female,No,Bronx,10466
+2017-09-10,Yorkshire Terrier Crossbreed,Male,No,Bronx,10467
+2017-07-30,Maltese,Unknown,No,Bronx,10453
+2017-09-13,Pit Bull,Unknown,No,Bronx,10463
+2017-09-11,Pit Bull,Female,No,Bronx,10467
+2017-09-11,Pit Bull,Female,Yes,Bronx,10467
+2017-09-09,Dachshund Mix Terrier,Male,Yes,Bronx,NA
+2017-09-09,Shepherd,Unknown,No,Bronx,NA
+2017-09-10,Pit Bull,Unknown,No,Bronx,10466
+2017-09-10,Pit Bull,Unknown,No,Bronx,10466
+2017-09-17,Pit Bull - Shepherd Mix,Male,No,Bronx,10467
+2017-09-18,Pit Bull,Unknown,No,Bronx,10458
+2017-09-18,Pit Bull,Male,No,Bronx,10472
+2017-09-18,Pit Bull,Unknown,No,Bronx,10466
+2017-09-14,Yorkshire Terrier,Unknown,No,Bronx,10453
+2017-09-18,Labradoodle,Male,No,Bronx,NA
+2017-09-19,American Pit Bull Mix - Pit Bull Mix,Female,No,Bronx,10451
+2017-09-19,Beagle Crossbreed,Male,No,Bronx,NA
+2017-09-18,Pit Bull,Unknown,No,Bronx,10457
+2017-09-19,Chihuahua,Unknown,No,Bronx,10468
+2017-09-16,American Pit Bull Mix - Pit Bull Mix,Male,No,Bronx,10473
+2017-09-16,Pit Bull,Male,No,Bronx,10471
+2017-09-16,American Pit Bull Mix - Pit Bull Mix,Male,No,Bronx,10453
+2017-09-03,Pit Bull,Female,No,Bronx,NA
+2017-09-20,American Pit Bull Mix - Pit Bull Mix,Female,Yes,Bronx,10457
+2017-09-25,Boxer,Male,No,Bronx,10466
+2017-09-19,Pit Bull,Unknown,No,Bronx,NA
+2017-09-25,Terrier Mix,Male,No,Bronx,10467
+2017-09-09,Pit Bull,Unknown,No,Bronx,NA
+2017-09-25,Poodle,Unknown,No,Bronx,NA
+2017-09-27,Pit Bull,Unknown,No,Bronx,NA
+2017-09-27,Mixed-Other,Unknown,No,Bronx,10472
+2017-09-30,Maltese,Female,No,Bronx,10458
+2017-09-30,Bull Dog-English,Female,No,Bronx,10474
+2017-09-29,Pit Bull,Female,Yes,Bronx,NA
+2017-10-03,Pit Bull,Unknown,No,Bronx,NA
+2017-09-28,Bull Dog-English,Unknown,Yes,Bronx,10454
+2017-10-05,Chihuahua Mix,Male,Yes,Bronx,10454
+2017-09-22,Pit Bull,Male,No,Bronx,10460
+2017-10-01,Pit Bull,Unknown,No,Bronx,NA
+2017-10-07,Pit Bull,Unknown,No,Bronx,10460
+2017-10-09,Terrier Mix,Female,No,Bronx,10468
+2017-06-14,Poodle-Standard,Unknown,No,Bronx,10455
+2017-10-02,Pit Bull,Unknown,No,Bronx,10467
+2017-10-11,Pit Bull,Female,No,Bronx,NA
+2017-10-13,Shih Tzu,Male,No,Bronx,NA
+2017-10-10,Maltese,Male,No,Bronx,10459
+2017-10-10,Shih Tzu,Male,No,Bronx,10459
+2017-10-11,Pit Bull,Unknown,No,Bronx,10468
+2017-09-20,Pit Bull,Unknown,No,Bronx,10456
+2017-10-14,Uncertain,Unknown,No,Bronx,10460
+2017-10-19,Poodle-Standard,Unknown,Yes,Bronx,10454
+2017-10-22,Mixed-Other,Unknown,No,Bronx,NA
+2017-10-26,Siberian Husky,Male,No,Bronx,10453
+2017-10-23,Mixed-Other,Male,No,Bronx,10455
+2017-10-24,Pit Bull,Unknown,No,Bronx,10454
+2017-10-20,Pit Bull,Unknown,No,Bronx,NA
+2017-10-27,Dachshund Smooth Coat,Unknown,No,Bronx,10458
+2017-10-27,Poodle-Standard,Male,No,Bronx,10457
+2017-10-28,Large Dog,Male,No,Bronx,10467
+2017-10-27,Pit Bull,Male,No,Bronx,10432
+2017-10-28,Pit Bull,Unknown,No,Bronx,10455
+2017-10-28,Maltese,Unknown,No,Bronx,10452
+2017-10-27,Pit Bull,Unknown,No,Bronx,10459
+2017-10-29,Shih Tzu,Male,Yes,Bronx,10456
+2017-10-28,Miniature Pinscher,Male,No,Bronx,10462
+2017-11-01,Yorkshire Terrier,Unknown,No,Bronx,10456
+2017-10-28,Pit Bull,Male,Yes,Bronx,10462
+2017-11-03,Bully,Female,No,Bronx,10460
+2017-11-07,Medium Mixed Breed,Male,No,Bronx,10453
+2017-11-08,Rottweiler,Unknown,No,Bronx,NA
+2017-11-11,Siberian Husky,Female,Yes,Bronx,10460
+2017-11-09,Pit Bull,Unknown,No,Bronx,10455
+2017-11-05,American Pit Bull Mix - Pit Bull Mix,Male,No,Bronx,10451
+2017-11-07,Pit Bull,Unknown,No,Bronx,NA
+2017-11-16,Chihuahua,Unknown,No,Bronx,10457
+2017-11-10,American Pit Bull Terrier-Pit Bull,Female,No,Bronx,NA
+2017-11-12,Pit Bull,Male,No,Bronx,10469
+2017-11-11,Pit Bull,Unknown,No,Bronx,10467
+2017-11-15,Shih Tzu,Female,No,Bronx,10467
+2017-11-15,Dachshund Smooth Coat,Female,No,Bronx,10454
+2017-11-06,Yorkshire Terrier,Male,No,Bronx,10453
+2017-11-20,Pit Bull,Male,No,Bronx,10454
+2017-11-20,Pit Bull,Unknown,No,Bronx,10469
+2017-11-15,Mixed-Other,Female,No,Bronx,10461
+2017-11-11,Shih Tzu,Unknown,No,Bronx,10461
+2017-11-17,Shih Tzu,Unknown,No,Bronx,10463
+2017-11-19,Hound,Male,Yes,Bronx,10465
+2017-11-15,Shepherd - Pit Bull Mix,Female,Yes,Bronx,10463
+2017-11-12,Pit Bull,Unknown,No,Bronx,10466
+2017-11-26,Pit Bull,Male,Yes,Bronx,10473
+2017-07-23,Shih Tzu,Unknown,No,Bronx,10452
+2017-07-29,Pit Bull,Unknown,No,Bronx,10459
+2017-11-25,Shih Tzu,Male,No,Bronx,10472
+2017-11-22,Pit Bull,Male,Yes,Bronx,10456
+2017-11-28,Pit Bull,Unknown,No,Bronx,10466
+2017-11-28,Chihuahua,Male,Yes,Bronx,10475
+2017-12-01,Jack Russ,Unknown,No,Bronx,10455
+2017-12-01,Pit Bull,Male,No,Bronx,10462
+2017-12-05,Pit Bull,Unknown,No,Bronx,10461
+2017-12-06,Pit Bull,Unknown,No,Bronx,10469
+2017-12-04,Pit Bull,Female,No,Bronx,10475
+2017-12-06,Large Mixed Breed,Male,No,Bronx,10452
+2017-12-03,Pit Bull,Unknown,No,Bronx,10472
+2017-12-11,German Shepherd Crossbreed,Female,Yes,Bronx,10463
+2017-12-17,Pit Bull,Male,Yes,Bronx,10474
+2017-12-17,Pit Bull,Female,No,Bronx,NA
+2017-12-17,Bull Dog,Female,No,Bronx,10457
+2017-12-17,Pit Bull,Unknown,No,Bronx,10466
+2017-12-19,Maltese,Female,No,Bronx,10469
+2017-12-19,Mixed-Other,Male,No,Bronx,10454
+2017-12-21,Mixed-Other,Male,No,Bronx,10472
+2017-12-24,American Pit Bull Terrier-Pit Bull,Male,Yes,Bronx,10457
+2017-12-23,Poodle-Miniature,Female,No,Bronx,10453
+2017-12-25,Pit Bull,Unknown,No,Bronx,NA
+2017-12-25,Pit Bull,Unknown,No,Bronx,NA
+2017-12-23,Large Mixed Dog,Unknown,No,Bronx,10458
+2017-12-26,Large Mixed Breed,Female,No,Bronx,10457
+2017-12-22,Pit Bull,Unknown,No,Bronx,10453
+2017-12-28,Yorkie- Shih Tzu,Male,No,Bronx,10456
+2017-12-27,Pit Bull,Unknown,No,Bronx,10473
+2017-12-26,Pit Bull,Unknown,No,Bronx,10469
+2017-12-28,Chihuahua,Unknown,No,Bronx,10457
+2017-12-30,Dachshund Mix,Male,No,Bronx,10466
+2017-12-28,Pit Bull,Unknown,No,Bronx,10472
+2017-12-28,Pit Bull X-Shepherd,Male,No,Bronx,10456
+2017-12-31,Pit Bull,Unknown,No,Bronx,NA
+2017-10-23,Bichon Frise,Unknown,No,Bronx,NA
+2017-12-31,Pit Bull,Male,Yes,Bronx,10472
+2017-10-08,Unknown,Unknown,No,Bronx,10471
+2017-12-31,Unknown,Unknown,No,Other,NA
+2017-01-02,Dalmatian,Male,No,Manhattan,NA
+2017-01-02,Beagle,Male,Yes,Manhattan,10028
+2017-01-02,Pit Bull,Unknown,No,Manhattan,10027
+2017-01-03,Labrador Retriever,Male,Yes,Manhattan,10028
+2017-01-03,Poodle-Standard,Unknown,No,Manhattan,NA
+2017-01-04,Boxer Mix,Female,Yes,Manhattan,NA
+2017-01-09,Pit Bull,Unknown,No,Manhattan,10002
+2017-01-04,Shih Tzu,Male,Yes,Manhattan,10128
+2017-01-10,Terrier,Unknown,No,Manhattan,NA
+2017-01-09,Yorkshire Terrier,Male,No,Manhattan,10036
+2017-01-12,Pit Bull,Unknown,No,Manhattan,NA
+2017-01-12,Lowchen,Male,Yes,Manhattan,10024
+2017-01-13,Australian Herd Dog,Unknown,No,Manhattan,10014
+2017-01-16,Maltese,Unknown,No,Manhattan,NA
+2017-01-16,Beagle,Unknown,No,Manhattan,10037
+2017-01-16,Pit Bull,Unknown,No,Manhattan,NA
+2017-01-18,Labrador Mix,Male,Yes,Manhattan,NA
+2017-01-11,Corgi Mix,Female,No,Manhattan,10023
+2017-01-17,Terrier,Unknown,No,Manhattan,10022
+2017-01-17,Poodle Mix,Male,No,Manhattan,10023
+2017-01-08,Mixed-Other,Female,No,Manhattan,10027
+2017-01-18,Mixed-Other,Female,Yes,Manhattan,10025
+2017-01-16,Pit Bull,Unknown,No,Manhattan,10011
+2017-01-19,Mixed-Other,Unknown,No,Manhattan,10029
+2017-01-19,Pit Bull,Female,No,Manhattan,10039
+2017-01-21,Siberian Husky,Male,Yes,Manhattan,10032
+2017-01-21,Labrador Retriever Mix,Male,Yes,Manhattan,10025
+2017-01-20,American Pit Bull Mix - Pit Bull Mix,Male,No,Manhattan,10029
+2017-01-23,Shepherd-Terrier X,Female,Yes,Manhattan,10039
+2017-01-21,Golden Retriever,Male,No,Manhattan,10021
+2017-01-25,German Shepherd,Female,No,Manhattan,10034
+2017-01-25,Shih Tzu,Male,Yes,Manhattan,NA
+2017-01-25,Pit Bull,Male,No,Manhattan,10029
+2017-01-25,Mixed-Other,Female,Yes,Manhattan,10012
+2017-01-24,Chihuahua,Unknown,No,Manhattan,10024
+2017-01-07,Pit Bull,Male,Yes,Manhattan,10011
+2017-01-26,Beagle,Male,Yes,Manhattan,10016
+2017-01-28,Yorkshire Terrier,Female,No,Manhattan,10003
+2017-01-28,American Pit Bull Mix - Pit Bull Mix,Male,No,Manhattan,10030
+2017-01-29,Labrador Retriever,Female,Yes,Manhattan,10028
+2017-01-28,Chihuahua,Unknown,No,Manhattan,NA
+2017-01-30,Shepherd,Unknown,No,Manhattan,NA
+2017-01-31,Mixed-Other,Unknown,No,Manhattan,10026
+2017-01-31,Great Dane,Male,Yes,Manhattan,10065
+2017-01-31,Boxer,Male,Yes,Manhattan,NA
+2017-02-03,Husky,Unknown,No,Manhattan,10022
+2017-02-06,Boxer - Pit Bull Mix,Female,Yes,Manhattan,10009
+2017-02-04,Siberian Husky,Male,Yes,Manhattan,10029
+2017-01-25,Tibetan Terrier,Male,Yes,Manhattan,10065
+2017-02-02,Bull Dog,Male,No,Manhattan,10002
+2017-02-04,Cavalier King Charles Spaniel,Male,Yes,Manhattan,NA
+2017-02-05,Pit Bull,Unknown,No,Manhattan,10032
+2017-02-09,Staffordshire Bull Terrier,Male,No,Manhattan,10039
+2017-02-08,Labrador Retriever,Male,No,Manhattan,10075
+2017-02-12,Bull Dog,Unknown,No,Manhattan,NA
+2017-02-12,Lhasa Apso Mix,Male,No,Manhattan,10029
+2017-02-13,Scott Terrier-Schnauzer X,Male,No,Manhattan,10029
+2017-02-13,Terrier Mix,Male,Yes,Manhattan,10003
+2017-02-11,Australian Cattle Dog,Male,No,Manhattan,10024
+2017-02-12,Bull Terrier,Male,Yes,Manhattan,10010
+2017-02-14,Pit Bull,Unknown,No,Manhattan,10003
+2017-02-17,Shih Tzu Mix,Male,No,Manhattan,10029
+2017-02-20,Staffordshire Mix,Male,No,Manhattan,NA
+2017-02-18,Chihuahua Crossbreed,Female,Yes,Manhattan,NA
+2017-02-21,American Pit Bull Mix - Pit Bull Mix,Male,No,Manhattan,NA
+2017-02-16,Bichon Frise,Female,Yes,Manhattan,10024
+2017-02-18,Pomeranian,Unknown,No,Manhattan,10026
+2017-02-23,American Pit Bull Terrier-Pit Bull,Male,No,Manhattan,10029
+2017-02-23,Chihuahua,Female,Yes,Manhattan,10013
+2017-02-27,Pekingese,Male,Yes,Manhattan,10012
+2017-02-25,Dachshund Smooth Coat,Unknown,No,Manhattan,10012
+2017-02-26,Pit Bull,Unknown,No,Manhattan,10002
+2017-02-28,Pit Bull,Male,Yes,Manhattan,10002
+2017-02-27,Golden Retriever,Unknown,No,Manhattan,10013
+2017-02-23,Pit Bull,Male,Yes,Manhattan,10025
+2017-03-01,Retriever,Unknown,No,Manhattan,10014
+2017-02-25,Golden Retriever,Unknown,No,Manhattan,NA
+2017-03-04,Pit Bull,Male,No,Manhattan,10029
+2017-03-04,Golden Retriever,Male,No,Manhattan,10019
+2017-03-03,Pit Bull,Unknown,No,Manhattan,10039
+2017-03-06,Pit Bull,Unknown,No,Manhattan,10031
+2017-03-03,French Bull Dog,Male,No,Manhattan,NA
+2017-03-03,Collie-Labradoe,Male,Yes,Manhattan,10005
+2017-03-01,Pit Bull,Unknown,No,Manhattan,NA
+2017-03-02,Briard,Male,No,Manhattan,10024
+2017-03-06,Spaniel Mix,Female,No,Manhattan,10026
+2017-03-05,Beagle,Male,Yes,Manhattan,10028
+2017-03-02,Jack Russ,Male,No,Manhattan,NA
+2017-03-08,German Shepherd,Male,No,Manhattan,NA
+2017-03-12,Pit Bull,Unknown,No,Manhattan,10033
+2017-03-12,Pit Bull,Male,Yes,Manhattan,10030
+2017-03-10,Collie Mix,Female,Yes,Manhattan,10023
+2017-02-24,Pit Bull,Unknown,No,Manhattan,10024
+2017-03-10,Mixed-Other,Unknown,No,Manhattan,NA
+2017-03-10,American Pit Bull Terrier-Pit Bull,Female,No,Manhattan,NA
+2017-03-16,Bull Dog,Unknown,No,Manhattan,10075
+2017-03-16,American Staffordshire Terrier,Female,Yes,Manhattan,10009
+2017-03-18,Havanese,Male,Yes,Manhattan,NA
+2017-03-19,Bull Dog,Male,Yes,Manhattan,10033
+2017-03-18,Poodle-Standard,Unknown,No,Manhattan,NA
+2017-03-19,Boxer,Unknown,No,Manhattan,NA
+2017-03-18,Chihuahua,Female,No,Manhattan,10033
+2017-03-21,American Pit Bull Mix - Pit Bull Mix,Female,Yes,Manhattan,10025
+2017-03-12,Pit Bull,Male,Yes,Manhattan,10128
+2017-03-19,Dachshund-Long Haired Miniature,Male,Yes,Manhattan,NA
+2017-03-22,Chihuahua,Unknown,No,Manhattan,10035
+2017-03-22,Yorkshire Terrier,Male,Yes,Manhattan,10065
+2017-03-12,American Staffordshire Terrier,Male,No,Manhattan,10027
+2017-03-25,Chihuahua,Unknown,No,Manhattan,10033
+2017-03-24,Shih Tzu Mix,Male,Yes,Manhattan,10024
+2017-03-25,Collie Crossbreed,Unknown,No,Manhattan,10019
+2017-03-25,Chihuahua,Male,No,Manhattan,10028
+2017-03-27,Shih Tzu,Unknown,No,Manhattan,10013
+2017-03-23,Possibly Pitbull Mix,Unknown,No,Manhattan,10026
+2017-03-31,Labrador Retriever Crossbreed,Female,No,Manhattan,10023
+2017-03-31,Beagle,Unknown,No,Manhattan,10065
+2017-04-02,Pit Bull,Male,Yes,Manhattan,10025
+2017-03-30,Poodle-Miniature,Male,Yes,Manhattan,NA
+2017-04-02,Boxer Mix,Female,Yes,Manhattan,NA
+2017-04-06,Englih Bulldog,Female,Yes,Manhattan,10013
+2017-04-03,Chihuahua,Unknown,No,Manhattan,NA
+2017-03-22,Terrier Mix,Unknown,No,Manhattan,10012
+2017-04-06,American Staffordshire Terrier,Male,No,Manhattan,10037
+2017-03-31,American Staffordshire Terrier,Male,Yes,Manhattan,10029
+2017-04-05,Pit Bull,Unknown,No,Manhattan,10025
+2017-04-04,Sheperd,Unknown,No,Manhattan,10036
+2017-03-06,Pit Bull,Unknown,No,Manhattan,10006
+2017-04-06,Collie-Smooth Coat,Unknown,No,Manhattan,10019
+2017-04-09,Mixed-Other,Unknown,No,Manhattan,10029
+2017-04-04,Tibetan Terrier,Male,Yes,Manhattan,10039
+2017-04-09,Jack Russell Terrier Mix,Male,Yes,Manhattan,10035
+2017-04-08,Collie-Smooth Coat,Unknown,No,Manhattan,10019
+2017-04-11,Pit Bull,Unknown,No,Manhattan,10002
+2017-04-10,Poodle X,Unknown,No,Manhattan,10027
+2017-03-30,Pit Bull,Female,No,Manhattan,10029
+2017-04-12,Morkie,Male,Yes,Manhattan,10027
+2017-04-11,Pit Bull - Labrador Mix,Female,Yes,Manhattan,10035
+2017-04-07,Bull Dog-French,Male,Yes,Manhattan,10024
+2017-04-15,Maltese - Shih Tzu Mix,Male,Yes,Manhattan,10034
+2017-04-16,Shih Tzu,Female,Yes,Manhattan,10128
+2017-04-14,Shiba Inu,Male,Yes,Manhattan,10016
+2017-04-14,Poodle-Standard,Male,Yes,Manhattan,10019
+2017-04-15,Lhasa Apso,Unknown,No,Manhattan,10019
+2017-04-15,Doberman Pinscher,Unknown,No,Manhattan,NA
+2017-04-18,Mixed-Other,Male,Yes,Manhattan,10031
+2017-04-13,Brussels Griffon- Shih Tzu,Male,Yes,Manhattan,10017
+2017-04-15,Mixed Breed,Male,Yes,Manhattan,10025
+2017-04-18,Chihuahua,Male,Yes,Manhattan,NA
+2017-04-20,Pit Bull,Male,Yes,Manhattan,10011
+2017-04-17,Shih Tzu,Male,No,Manhattan,10128
+2017-04-20,Bull Dog,Male,Yes,Manhattan,NA
+2017-04-20,Staffordshire Mix,Male,Yes,Manhattan,10031
+2017-04-21,American Pit Bull Terrier-Pit Bull,Male,No,Manhattan,10029
+2017-04-21,American Pit Bull Mix - Pit Bull Mix,Unknown,No,Manhattan,10029
+2017-04-20,Pit Bull,Female,Yes,Manhattan,10029
+2017-04-23,Chihuahua- Dachschund Mix,Male,Yes,Manhattan,10019
+2017-04-22,Pit Bull,Male,No,Manhattan,NA
+2017-04-23,Labrador Retriever,Female,No,Manhattan,10024
+2017-04-25,Rottweiler,Unknown,No,Manhattan,NA
+2017-04-24,Pit Bull,Unknown,No,Manhattan,NA
+2017-02-28,Mixed-Other,Unknown,No,Manhattan,10001
+2017-04-21,American Pit Bull Terrier-Pit Bull,Male,No,Manhattan,10029
+2017-04-21,Pitbull-Lab Mix,Female,No,Manhattan,10029
+2017-04-26,Schnauzer-Miniature,Male,Yes,Manhattan,10022
+2017-04-26,Bouvier Des Flandres,Male,No,Manhattan,10065
+2017-04-29,American Pit Bull Terrier-Pit Bull,Male,No,Manhattan,10029
+2017-04-29,Yorkshire Terrier,Female,No,Manhattan,10040
+2017-04-30,Golden Retriever- Lab Retriever,Male,Yes,Manhattan,10040
+2017-04-30,Brussels Griffon,Male,No,Manhattan,10039
+2017-04-29,Labrador Mix,Male,Yes,Manhattan,10031
+2017-05-01,Chihuahua,Male,Yes,Manhattan,10013
+2017-04-30,Rat Terrier,Female,No,Manhattan,10028
+2017-05-01,Pit Bull,Female,No,Manhattan,10019
+2017-05-02,Yorkshire Terrier,Unknown,No,Manhattan,10029
+2017-04-30,Golden Retriever,Male,Yes,Manhattan,10023
+2017-04-29,American Pit Bull Mix - Pit Bull Mix,Female,Yes,Manhattan,10029
+2017-04-30,American Pit Bull Mix - Pit Bull Mix,Female,Yes,Manhattan,NA
+2017-04-27,Chihuahua,Male,Yes,Manhattan,10065
+2017-05-03,Maltese,Unknown,No,Manhattan,NA
+2017-05-04,Shih Tzu,Female,No,Manhattan,10032
+2017-05-04,Beagle,Male,Yes,Manhattan,10031
+2017-05-06,Bull Dog,Unknown,No,Manhattan,10024
+2017-05-06,Pit Bull,Unknown,No,Manhattan,10032
+2017-05-06,Shih Tzu,Unknown,No,Manhattan,10040
+2017-05-06,Shih Tzu,Unknown,No,Manhattan,10040
+2017-05-06,Collie-Border,Unknown,No,Manhattan,NA
+2017-04-28,Chihuahua,Male,Yes,Manhattan,10065
+2017-05-08,Maltese Mix,Female,Yes,Manhattan,10028
+2017-05-06,Labrador Retriever,Male,No,Manhattan,10128
+2017-05-08,Mixed-Other,Unknown,No,Manhattan,NA
+2017-05-06,Lhasa Apso - Poodle Mix,Male,Yes,Manhattan,10027
+2017-05-09,Pug,Unknown,No,Manhattan,10001
+2017-05-10,Pit Bull,Male,No,Manhattan,10128
+2017-05-11,American Pit Bull Mix - Pit Bull Mix,Female,No,Manhattan,NA
+2017-05-15,Dachshund,Male,Yes,Manhattan,10065
+2017-05-12,Brittany Spaniel,Female,Yes,Manhattan,10065
+2017-05-13,Portuguese Water Dog,Male,Yes,Manhattan,10033
+2017-05-12,Terrier Mix,Male,Yes,Manhattan,10019
+2017-05-13,Papillon,Male,Yes,Manhattan,10011
+2017-05-05,Mixed Breed,Male,Yes,Manhattan,10031
+2017-05-17,Chihuahua Crossbreed,Female,No,Manhattan,10018
+2017-05-17,Jack Russ,Female,Yes,Manhattan,10027
+2017-05-18,Golden Retriever,Unknown,No,Manhattan,NA
+2017-05-05,Pit Bull,Unknown,No,Manhattan,NA
+2017-05-19,Labrador Retriever,Male,Yes,Manhattan,10065
+2017-05-11,African Boerboel,Male,No,Manhattan,10025
+2017-05-17,Terrier,Unknown,No,Manhattan,NA
+2017-05-11,Mixed-Other,Male,No,Manhattan,10003
+2017-05-19,Boxer,Unknown,No,Manhattan,NA
+2017-05-21,Shih Tzu,Unknown,No,Manhattan,10011
+2017-05-22,Mixed Breed,Female,Yes,Manhattan,NA
+2017-05-19,Labrador Retriever,Male,No,Manhattan,10039
+2017-05-20,Pug,Male,No,Manhattan,10128
+2017-05-20,Pit Bull,Female,No,Manhattan,NA
+2017-05-22,Mixed-Other,Female,Yes,Manhattan,10024
+2017-05-21,Unknown,Unknown,No,Manhattan,10003
+2017-05-23,"Jindo Dog,",Female,Yes,Manhattan,10023
+2017-05-20,Mastiff,Female,No,Manhattan,NA
+2017-05-23,Pomeranian,Male,Yes,Manhattan,NA
+2017-05-20,American Pit Bull Mix - Pit Bull Mix,Male,No,Manhattan,10029
+2017-05-21,Pit Bull,Male,Yes,Manhattan,10040
+2017-04-18,Labradoodle,Unknown,No,Manhattan,10065
+2017-05-23,Pit Bull,Unknown,No,Manhattan,10034
+2017-05-23,German Shepherd,Unknown,No,Manhattan,10029
+2017-05-20,Great Dane,Unknown,No,Manhattan,NA
+2017-05-22,Chihuahua,Unknown,No,Manhattan,NA
+2017-05-24,Terrier,Male,No,Manhattan,10031
+2017-05-24,Plott Hound,Male,Yes,Manhattan,10016
+2017-05-24,Labrador Retriever,Female,No,Manhattan,NA
+2017-05-24,Chihuahua,Female,No,Manhattan,10029
+2017-05-25,Pit Bull,Female,No,Manhattan,10128
+2017-05-27,Catahoula Terrier Mix,Female,Yes,Manhattan,10016
+2017-05-27,Dachshund Smooth Coat,Unknown,No,Manhattan,10038
+2017-06-01,Bichon Frise,Male,Yes,Manhattan,11209
+2017-05-30,American Pit Bull Mix - Pit Bull Mix,Male,Yes,Manhattan,10029
+2017-05-28,Staffordshire Mix,Male,Yes,Manhattan,10013
+2017-05-27,Shiba Inu,Unknown,No,Manhattan,10014
+2017-05-30,Mixed-Other,Unknown,No,Manhattan,NA
+2017-06-02,Bull Dog,Male,Yes,Manhattan,10028
+2017-06-01,Clumber Spaniel,Male,Yes,Manhattan,10024
+2017-05-24,Jack Russ,Unknown,No,Manhattan,NA
+2017-05-24,Jack Russ,Unknown,No,Manhattan,10030
+2017-06-03,Pit Bull,Male,No,Manhattan,10002
+2017-06-03,Pit Bull,Unknown,No,Manhattan,10003
+2017-06-02,Pit Bull,Unknown,No,Manhattan,NA
+2017-06-02,Pit Bull,Unknown,No,Manhattan,10023
+2017-06-06,Bull Dog,Male,Yes,Manhattan,10007
+2017-06-07,Australian Shepherd,Female,Yes,Manhattan,10004
+2017-06-08,Terrier,Unknown,No,Manhattan,10040
+2017-06-08,Terrier Mix,Male,Yes,Manhattan,10011
+2017-06-09,Pit Bull,Unknown,Yes,Manhattan,10023
+2017-06-09,West High White Terrier,Male,Yes,Manhattan,10023
+2017-06-12,Pomeranian Mix,Male,Yes,Manhattan,10032
+2017-06-10,Chihuahua Mix,Female,Yes,Manhattan,NA
+2017-06-02,Chihuahua,Unknown,No,Manhattan,10009
+2017-06-11,American Pit Bull Terrier-Pit Bull,Unknown,No,Manhattan,10029
+2017-06-06,Shih Tzu,Male,Yes,Manhattan,NA
+2017-06-10,Weimaraner,Female,Yes,Manhattan,NA
+2017-06-12,Wheaton Terrier,Female,Yes,Manhattan,10128
+2017-06-06,Pit Bull,Male,Yes,Manhattan,10037
+2017-06-11,Wheaton Terrier,Male,No,Manhattan,10028
+2017-06-11,Boston Terrier,Female,Yes,Manhattan,10028
+2017-06-14,American Pit Bull Mix - Pit Bull Mix,Female,Yes,Manhattan,10029
+2017-06-15,Weimaraner,Unknown,No,Manhattan,NA
+2017-06-16,Unknown,Unknown,No,Manhattan,NA
+2017-06-07,Terrier Mix,Male,Yes,Manhattan,10038
+2017-06-02,Mixed-Other,Male,Yes,Manhattan,10003
+2017-05-21,Australian Shepherd,Female,Yes,Manhattan,10019
+2017-05-15,Doberman Pinscher,Female,Yes,Manhattan,10025
+2017-06-09,Pit Bull,Unknown,No,Manhattan,10033
+2017-06-17,American Pit Bull Mix - Pit Bull Mix,Male,Yes,Manhattan,10023
+2017-06-18,American Pit Bull Mix - Pit Bull Mix,Male,Yes,Manhattan,10024
+2017-06-16,Schnauzer-Giant,Male,Yes,Manhattan,10040
+2017-06-09,Mixed-Other,Male,No,Manhattan,10025
+2017-06-20,French Bulldog- Stafforshire Terrier Mix,Female,Yes,Manhattan,10003
+2017-06-16,Bull Dog-English,Male,Yes,Manhattan,10003
+2017-06-16,Mixed,Female,Yes,Manhattan,NA
+2017-06-17,Bull Dog-English,Male,Yes,Manhattan,10025
+2017-06-20,Pit Bull,Female,No,Manhattan,10032
+2017-04-04,Pit Bull,Unknown,No,Manhattan,10011
+2017-06-16,Shih Tzu,Female,Yes,Manhattan,10029
+2017-06-15,Terrier Mix,Female,Yes,Manhattan,10013
+2017-06-21,Jack Russ,Male,No,Manhattan,NA
+2017-06-25,German Shepherd,Unknown,No,Manhattan,10022
+2017-06-24,Greyhound,Male,No,Manhattan,10040
+2017-05-04,Pit Bull,Female,No,Manhattan,10009
+2017-06-26,Beagle,Unknown,No,Manhattan,NA
+2017-06-06,Siberian Husky,Male,No,Manhattan,10005
+2017-06-23,Pit Bull,Unknown,No,Manhattan,10025
+2017-06-22,Poodle-Standard,Male,No,Manhattan,10002
+2017-06-24,Cocker Spaniel,Female,No,Manhattan,NA
+2017-06-23,Siberian Husky,Female,Yes,Manhattan,10019
+2017-06-03,Pit Bull,Unknown,No,Manhattan,10002
+2017-06-25,Pit Bull,Male,No,Manhattan,10032
+2017-06-27,American Pit Bull Mix - Pit Bull Mix,Female,No,Manhattan,10031
+2017-06-27,Pit Bull,Unknown,No,Manhattan,10026
+2017-06-22,Labrador Retriever,Male,Yes,Manhattan,10029
+2017-06-28,Chihuahua,Unknown,No,Manhattan,10031
+2017-06-27,American Pit Bull Mix - Pit Bull Mix,Male,Yes,Manhattan,NA
+2017-06-29,Unknown,Unknown,No,Manhattan,NA
+2017-06-30,Pit Bull,Male,No,Manhattan,NA
+2017-06-29,Bull Dog,Unknown,No,Manhattan,10128
+2017-06-29,Miniature Pinscher,Male,Yes,Manhattan,NA
+2017-06-29,Pit Bull,Unknown,No,Manhattan,10009
+2017-06-28,Shih Tzu,Unknown,No,Manhattan,NA
+2017-06-28,German Shepherd,Unknown,No,Manhattan,NA
+2017-05-18,Akita,Male,Yes,Manhattan,NA
+2017-06-30,Bichon Frise,Male,Yes,Manhattan,10029
+2017-07-02,American Pit Bull Mix - Pit Bull Mix,Male,No,Manhattan,10029
+2017-07-03,Collie-Border,Unknown,No,Manhattan,10019
+2017-07-04,Puggle,Male,Yes,Manhattan,10028
+2017-07-04,Jack Russ,Female,No,Manhattan,10029
+2017-07-03,Maltese,Unknown,No,Manhattan,NA
+2017-06-14,Bull Dog,Male,Yes,Manhattan,10025
+2017-06-27,Poodle-Standard,Unknown,No,Manhattan,10023
+2017-07-05,Labrador Retriever,Female,No,Manhattan,NA
+2017-07-05,Golden Retriever,Unknown,No,Manhattan,10019
+2017-07-07,Mixed-Other,Unknown,No,Manhattan,NA
+2017-07-06,Tibetan Terrier,Male,Yes,Manhattan,10065
+2017-07-09,Pit Bull Mix,Male,Yes,Manhattan,10025
+2017-06-20,Terrier,Male,No,Manhattan,10002
+2017-07-09,Yorkshire Terrier,Male,No,Manhattan,10011
+2017-07-08,Retreiver,Unknown,No,Manhattan,NA
+2017-07-10,Shih Tzu,Unknown,No,Manhattan,NA
+2017-07-02,Shih Tzu,Male,Yes,Manhattan,10013
+2017-07-08,Terrier,Female,Yes,Manhattan,10013
+2017-07-08,Chihuahua,Female,Yes,Manhattan,10033
+2017-07-07,Pit Bull,Male,No,Manhattan,10029
+2017-07-03,Shih Tzu- Cocker Spaniel,Male,Yes,Manhattan,10029
+2017-07-13,American Pit Bull Mix - Pit Bull Mix,Male,No,Manhattan,10039
+2017-07-06,American Pit Bull Mix - Pit Bull Mix,Female,No,Manhattan,NA
+2017-07-11,Pit Bull,Unknown,No,Manhattan,10026
+2017-07-15,Yorkshire Terrier,Male,Yes,Manhattan,10030
+2017-07-03,Maltese,Unknown,No,Manhattan,NA
+2017-07-07,Jack Russ,Unknown,No,Manhattan,10065
+2017-07-15,American Pit Bull Terrier-Pit Bull,Male,No,Manhattan,NA
+2017-07-16,Chihuahua Sh- Rat Terrier,Male,Yes,Manhattan,NA
+2017-07-18,Terrier Mix,Male,Yes,Manhattan,10026
+2017-07-16,Schnauzer-Miniature,Female,Yes,Manhattan,10004
+2017-07-17,Shepherd,Unknown,No,Manhattan,10028
+2017-07-17,Dachshund Smooth Coat,Male,No,Manhattan,10010
+2017-07-17,Boxer,Unknown,No,Manhattan,10033
+2017-07-19,Miniature Labradoodle,Female,Yes,Manhattan,10028
+2017-07-19,Shih Tzu,Male,No,Manhattan,10016
+2017-07-21,Bull Dog,Male,No,Manhattan,10075
+2017-07-22,Bull Dog-English,Male,No,Manhattan,10019
+2017-07-20,Bull Terrier,Unknown,No,Manhattan,10023
+2017-07-24,Parson Russell Terrier,Female,No,Manhattan,10065
+2017-07-24,Labrador Retriever Crossbreed,Unknown,No,Manhattan,10023
+2017-07-06,Cane Corso,Unknown,No,Manhattan,10030
+2017-07-06,Cane Corso,Unknown,No,Manhattan,10030
+2017-07-20,Pit Bull,Unknown,No,Manhattan,10009
+2017-07-24,Bull Terrier,Male,No,Manhattan,NA
+2017-07-22,Pit Bull,Unknown,No,Manhattan,NA
+2017-07-21,German Shepherd,Male,No,Manhattan,10034
+2017-07-22,American Pit Bull Mix - Pit Bull Mix,Male,No,Manhattan,NA
+2017-07-22,American Pit Bull Mix - Pit Bull Mix,Male,No,Manhattan,NA
+2017-07-25,Pit Bull,Female,No,Manhattan,10003
+2017-07-27,Australian Shepherd,Female,Yes,Manhattan,NA
+2017-07-26,Mixed-Other,Unknown,No,Manhattan,NA
+2017-07-21,American Pit Bull Mix - Pit Bull Mix,Male,No,Manhattan,10029
+2017-07-16,Pit Bull,Male,No,Manhattan,10031
+2017-07-30,Yorkshire Terrier Crossbreed,Male,No,Manhattan,10029
+2017-07-27,Great Dane,Unknown,No,Manhattan,10032
+2017-07-28,American Pit Bull Mix - Pit Bull Mix,Unknown,No,Manhattan,10012
+2017-07-29,Chihuahua,Unknown,No,Manhattan,10128
+2017-08-02,Terrier Mix,Female,No,Manhattan,10023
+2017-07-12,Havanese,Male,Yes,Manhattan,NA
+2017-08-03,Labrador Retriever,Unknown,No,Manhattan,10019
+2017-08-02,American Pit Bull Terrier-Pit Bull,Male,No,Manhattan,10128
+2017-08-02,Pit Bull,Unknown,No,Manhattan,NA
+2017-07-25,Shepard Mix,Male,No,Manhattan,NA
+2017-08-01,Border Collie-Lab,Female,Yes,Manhattan,10040
+2017-07-22,Pit Bull,Unknown,No,Manhattan,10032
+2017-08-06,Australian Shepherd,Male,Yes,Manhattan,10010
+2017-08-06,Wheaton Terrier,Male,No,Manhattan,NA
+2017-08-05,Australian Cattle Dog,Male,Yes,Manhattan,10009
+2017-08-08,Unknown,Unknown,No,Manhattan,10011
+2017-08-04,Chihuahua Crossbreed,Male,Yes,Manhattan,10031
+2017-08-08,Terrier Mix,Male,Yes,Manhattan,10013
+2017-08-04,Chihuahua Crossbreed,Unknown,No,Manhattan,10024
+2017-08-09,Pekingese,Unknown,No,Manhattan,10002
+2017-08-09,Boston Terrier,Male,Yes,Manhattan,10028
+2017-08-10,Cotton De Tulear,Male,Yes,Manhattan,10024
+2017-08-09,American Staffordshire Terrier,Male,No,Manhattan,10029
+2017-08-08,Terrier Mix,Male,Yes,Manhattan,10021
+2017-08-12,American Pit Bull Mix - Pit Bull Mix,Female,No,Manhattan,NA
+2017-08-12,Golden Retriever,Unknown,No,Manhattan,10023
+2017-08-08,Siberian Husky,Male,Yes,Manhattan,10040
+2017-08-10,Sharpei- Brittany,Male,Yes,Manhattan,10003
+2017-08-12,Pit Bull,Male,No,Manhattan,NA
+2017-08-12,American Pit Bull Mix - Pit Bull Mix,Female,No,Manhattan,NA
+2017-08-14,Chihuahua,Unknown,No,Manhattan,10028
+2017-08-14,Chihuahua,Unknown,No,Manhattan,10013
+2017-08-13,Pit Bull,Female,No,Manhattan,10030
+2017-08-17,Sheep Dog,Female,No,Manhattan,NA
+2017-08-15,Chihuahua Mix,Male,Yes,Manhattan,10012
+2017-08-16,Chihuahua,Unknown,No,Manhattan,10023
+2017-08-16,Doberman Pinscher,Male,No,Manhattan,10002
+2017-08-18,Brussels Griffon,Male,Yes,Manhattan,10019
+2017-08-11,German Shepherd,Male,No,Manhattan,10024
+2017-08-21,Siberian Husky,Unknown,No,Manhattan,10019
+2017-08-17,Mastiff Or Cane Corso,Unknown,No,Manhattan,10024
+2017-08-18,Mongrel Mix,Female,Yes,Manhattan,10014
+2017-08-22,Shih Tzu,Female,No,Manhattan,10128
+2017-08-22,Rhodesian Ridgeback,Male,No,Manhattan,10003
+2017-08-21,American Pit Bull Terrier-Pit Bull,Male,Yes,Manhattan,NA
+2017-08-23,Shih Tzu,Unknown,No,Manhattan,NA
+2017-08-19,Pit Bull,Unknown,No,Manhattan,10009
+2017-08-24,Schnauzer-Standard,Unknown,No,Manhattan,10009
+2017-08-27,German Shepherd,Female,Yes,Manhattan,10037
+2017-08-25,American Pit Bull Mix - Pit Bull Mix,Male,Yes,Manhattan,10036
+2017-08-12,German Shepherd,Unknown,No,Manhattan,NA
+2017-08-02,Pit Bull,Unknown,No,Manhattan,10001
+2017-08-22,Jack Russ,Female,Yes,Manhattan,10029
+2017-08-27,Cairn Terrier,Male,Yes,Manhattan,10027
+2017-08-27,Pomeranian,Unknown,No,Manhattan,NA
+2017-08-17,Pit Bull,Unknown,No,Manhattan,10032
+2017-08-27,Terrier Mix,Male,Yes,Manhattan,10012
+2017-08-25,Bull Dog,Unknown,No,Manhattan,NA
+2017-08-28,Yorkshire Terrier,Unknown,No,Manhattan,10069
+2017-08-30,Pit Bull,Male,Yes,Manhattan,10029
+2017-08-28,Pit Bull,Female,No,Manhattan,10032
+2017-08-29,Pit Bull,Male,No,Manhattan,NA
+2017-08-30,Bull Terrier,Male,Yes,Manhattan,10023
+2017-08-30,Siberian Husky,Unknown,No,Manhattan,10023
+2017-08-30,Pit Bull,Male,No,Manhattan,10029
+2017-08-31,Shepherd,Unknown,No,Manhattan,NA
+2017-08-22,Weimaraner,Male,Yes,Manhattan,10025
+2017-08-31,Newfoundland,Male,Yes,Manhattan,10019
+2017-08-31,Mixed-Other,Unknown,No,Manhattan,NA
+2017-09-02,Maltese,Male,Yes,Manhattan,10009
+2017-09-03,American Pit Bull Mix - Pit Bull Mix,Female,No,Manhattan,NA
+2017-09-03,Pit Bull,Male,Yes,Manhattan,NA
+2017-09-05,Cocker Spaniel,Male,Yes,Manhattan,10009
+2017-09-02,Yorkshire Terrier,Male,Yes,Manhattan,10033
+2017-09-07,Labrador Retriever,Male,Yes,Manhattan,10285
+2017-09-08,American Pit Bull Mix - Pit Bull Mix,Female,No,Manhattan,10009
+2017-09-10,Akita,Male,No,Manhattan,10031
+2017-09-09,Pit Bull,Unknown,No,Manhattan,10025
+2017-07-12,Bernese Mountain,Male,Yes,Manhattan,NA
+2017-09-11,Cockapoo,Male,Yes,Manhattan,NA
+2017-09-12,Pomeranian,Male,Yes,Manhattan,10032
+2017-09-12,Mixed-Other,Unknown,No,Manhattan,10001
+2017-09-06,Pit Bull - German Shepherd Mix,Male,No,Manhattan,10037
+2017-09-17,Pit Bull,Unknown,No,Manhattan,10029
+2017-09-16,American Staffordshire Terrier,Male,No,Manhattan,10018
+2017-09-14,Terrier Mix,Female,Yes,Manhattan,10037
+2017-09-16,Shih Tzu,Male,No,Manhattan,10065
+2017-09-17,Shih Tzu Crossbreed,Female,Yes,Manhattan,10003
+2017-09-16,Maltese,Male,Yes,Manhattan,10019
+2017-09-08,Pomeranian,Male,No,Manhattan,NA
+2017-09-16,Pomeranian- Husky,Male,Yes,Manhattan,10029
+2017-09-18,Greyhound,Male,No,Manhattan,10024
+2017-09-20,Pit Bull,Male,Yes,Manhattan,10030
+2017-09-09,Shih Tzu,Male,Yes,Manhattan,10128
+2017-09-17,Pomeranian,Male,No,Manhattan,10035
+2017-09-18,Terrier Mix,Male,Yes,Manhattan,NA
+2017-09-19,Dachshund Smooth Coat,Unknown,No,Manhattan,10023
+2017-09-21,Terrier,Unknown,No,Manhattan,NA
+2017-09-22,Portuguese Water Dog,Male,Yes,Manhattan,10022
+2017-09-22,Pit Bull,Male,No,Manhattan,10026
+2017-09-24,Pit Bull,Unknown,No,Manhattan,10128
+2017-09-23,American Staff Mix,Male,No,Manhattan,10029
+2017-09-22,Unknown,Unknown,No,Manhattan,10026
+2017-09-27,Terrier Mix,Female,Yes,Manhattan,10032
+2017-09-27,Chihuahua-Yorkshire Mix,Female,No,Manhattan,10035
+2017-09-27,Pomeranian,Male,Yes,Manhattan,10001
+2017-09-28,Shih Tzu,Female,Yes,Manhattan,10025
+2017-09-29,Pit Bull,Male,No,Manhattan,10035
+2017-09-29,Pit Bull,Unknown,No,Manhattan,NA
+2017-09-29,Saint Bernard,Male,No,Manhattan,10014
+2017-09-30,Yorkshire Terrier,Male,Yes,Manhattan,10024
+2017-09-29,Bull Dog,Unknown,No,Manhattan,10280
+2017-09-20,Bull Dog,Unknown,No,Manhattan,10065
+2017-09-24,Pit Bull,Male,Yes,Manhattan,10014
+2017-10-02,Bull Dog-French,Female,Yes,Manhattan,10003
+2017-09-30,Boxer,Male,Yes,Manhattan,10030
+2017-09-29,Mastiff-Bull,Female,Yes,Manhattan,NA
+2017-09-29,Shih Tzu,Male,No,Manhattan,NA
+2017-10-03,Boston Terrier,Unknown,No,Manhattan,10065
+2017-09-30,Jack Russ,Female,Yes,Manhattan,10003
+2017-10-02,Labrador Retriever,Male,Yes,Manhattan,10014
+2017-10-02,Bull Dog,Unknown,No,Manhattan,NA
+2017-09-30,Beagle,Unknown,No,Manhattan,NA
+2017-10-05,Australian Shepherd,Unknown,No,Manhattan,10009
+2017-09-28,American Pit Bull Mix - Pit Bull Mix,Female,Yes,Manhattan,10128
+2017-10-03,Maltipoo,Unknown,No,Manhattan,NA
+2017-10-04,Poodle-Standard,Unknown,No,Manhattan,NA
+2017-10-04,Jack Russell Terrier- Basenji Mix,Female,Yes,Manhattan,10282
+2017-10-06,German Shepherd,Male,No,Manhattan,10007
+2017-10-08,Shih Tzu Maltese Mix,Male,Yes,Manhattan,10075
+2017-10-09,Mixed-Other,Unknown,No,Manhattan,10010
+2017-10-05,Greyhound,Unknown,No,Manhattan,NA
+2017-10-05,Mixed-Other,Unknown,No,Manhattan,10025
+2017-09-28,Pit Bull,Female,No,Manhattan,10128
+2017-10-03,Pit Bull,Male,No,Manhattan,10128
+2017-10-07,Labrador Retriever,Unknown,No,Manhattan,NA
+2017-10-06,Pit Bull,Unknown,No,Manhattan,NA
+2017-10-13,Chihuahua,Unknown,No,Manhattan,NA
+2017-10-03,Pit Bull,Male,No,Manhattan,10029
+2017-10-11,Cotton De Tulear,Male,Yes,Manhattan,10044
+2017-10-12,Unknown,Unknown,No,Manhattan,NA
+2017-10-14,Mastiff,Male,No,Manhattan,10029
+2017-10-15,Rottweiler,Unknown,No,Manhattan,10128
+2017-10-16,Brussels Griffon,Male,Yes,Manhattan,10038
+2017-10-15,Yorkshire Terrier,Unknown,No,Manhattan,NA
+2017-10-14,Pit Bull,Unknown,No,Manhattan,10040
+2017-10-18,Pit Bull,Female,No,Manhattan,10032
+2017-10-17,Pit Bull,Unknown,No,Manhattan,10002
+2017-10-14,Chihuahua,Unknown,No,Manhattan,NA
+2017-10-12,Pit Bull,Unknown,No,Manhattan,10030
+2017-10-20,Shih Tzu,Male,Yes,Manhattan,10029
+2017-10-20,Puggle,Male,Yes,Manhattan,10027
+2017-10-17,Mixed-Other,Female,No,Manhattan,10065
+2017-10-18,Terrier Cross,Male,No,Manhattan,10029
+2017-10-21,Doberman Pinscher,Male,No,Manhattan,10036
+2017-10-25,Cocker Spaniel - Poodle Mix,Male,No,Manhattan,10022
+2017-10-25,Unknown,Unknown,No,Manhattan,NA
+2017-10-22,Labrador Retriever,Female,Yes,Manhattan,NA
+2017-10-25,Pit Bull,Unknown,No,Manhattan,10033
+2017-10-25,Shih Tzu- Yorkie,Male,Yes,Manhattan,10065
+2017-10-24,Shiba Inu,Female,Yes,Manhattan,10001
+2017-10-23,Chihuahua,Unknown,No,Manhattan,10128
+2017-10-18,Shih Tzu Mix Maltese,Female,No,Manhattan,10034
+2017-10-25,Mixed-Other,Male,No,Manhattan,10032
+2017-10-29,Pit Bull,Unknown,No,Manhattan,NA
+2017-05-20,Pit Bull,Unknown,No,Manhattan,10009
+2017-10-26,Yorkshire Terrier,Unknown,No,Manhattan,NA
+2017-10-24,Jack Russ,Unknown,No,Manhattan,NA
+2017-10-27,Scottish Terrier,Female,No,Manhattan,10021
+2017-10-26,Shih Tzu Mix,Male,Yes,Manhattan,10065
+2017-10-29,Yorkshire Terrier,Male,Yes,Manhattan,10075
+2017-10-29,Pit Bull,Unknown,No,Manhattan,10002
+2017-10-30,Maltese,Male,Yes,Manhattan,NA
+2017-11-01,Multi Collar Terrier,Female,Yes,Manhattan,10065
+2017-10-28,Potcake,Female,Yes,Manhattan,10128
+2017-10-29,Mixed-Other,Male,Yes,Manhattan,10003
+2017-10-21,Maltipoo,Male,Yes,Manhattan,10016
+2017-10-23,Pit Bull,Unknown,No,Manhattan,10009
+2017-10-25,Bull Dog,Unknown,No,Manhattan,NA
+2017-10-31,Poodle-Standard,Female,Yes,Manhattan,10025
+2017-11-01,Chihuahua,Male,Yes,Manhattan,10011
+2017-11-05,Mastiff-Bull,Male,Yes,Manhattan,10128
+2017-11-01,Maltese,Female,No,Manhattan,NA
+2017-11-02,Poodle-Miniature,Unknown,No,Manhattan,NA
+2017-11-02,German Shepherd,Unknown,No,Manhattan,10011
+2017-11-02,Poodle-Miniature,Unknown,No,Manhattan,10010
+2017-11-01,Boston Terrier,Male,Yes,Manhattan,NA
+2017-10-30,Mixed-Other,Male,No,Manhattan,NA
+2017-10-30,Mixed-Other,Female,No,Manhattan,NA
+2017-11-04,Pit Bull,Unknown,No,Manhattan,10029
+2017-11-05,Terrier Mix,Male,Yes,Manhattan,10024
+2017-11-06,Shiba Inu,Male,Yes,Manhattan,10009
+2017-11-06,Mixed-Other,Unknown,No,Manhattan,10009
+2017-11-06,Cocker Spaniel,Unknown,No,Manhattan,NA
+2017-11-07,Mixed-Other,Male,No,Manhattan,10035
+2017-10-30,Poodle-Miniature,Unknown,No,Manhattan,10012
+2017-11-06,Mixed-Other,Male,No,Manhattan,10029
+2017-11-07,Mixed-Other,Male,No,Manhattan,10019
+2017-09-16,American Staffordshire Terrier,Male,Yes,Manhattan,NA
+2017-11-10,Mixed-Other,Male,No,Manhattan,10009
+2017-11-11,Pit Bull,Unknown,No,Manhattan,10027
+2017-11-11,Pit Bull,Unknown,No,Manhattan,10027
+2017-11-09,American Staffordshire Terrier,Male,Yes,Manhattan,10013
+2017-11-12,Havanese,Male,No,Manhattan,10024
+2017-11-14,Mixed-Other,Male,No,Manhattan,10026
+2017-11-12,Mixed-Other,Male,No,Manhattan,10029
+2017-11-13,Terrier,Unknown,No,Manhattan,NA
+2017-11-11,West High White Terrier,Male,No,Manhattan,10034
+2017-11-17,Terrier-Pitbull,Male,No,Manhattan,10128
+2017-11-17,Cockapoo,Male,Yes,Manhattan,10023
+2017-11-16,Mixed-Other,Male,No,Manhattan,10029
+2017-11-14,Pit Bull,Male,Yes,Manhattan,10025
+2017-11-17,Staffordshire Bull Terrier,Male,Yes,Manhattan,10009
+2017-11-14,Samoyed,Unknown,No,Manhattan,10014
+2017-11-19,Australian Shepherd,Male,No,Manhattan,10011
+2017-11-19,Pit Bull,Female,Yes,Manhattan,10002
+2017-11-17,Large Mixed Breed,Male,No,Manhattan,10035
+2017-11-17,Mixed-Other,Female,No,Manhattan,10009
+2017-11-20,Shih Tzu,Male,Yes,Manhattan,10013
+2017-11-11,Pit Bull,Male,No,Manhattan,10026
+2017-11-11,Pit Bull,Unknown,No,Manhattan,NA
+2017-11-23,German Shepherd,Unknown,No,Manhattan,NA
+2017-11-23,Pit Bull,Unknown,No,Manhattan,NA
+2017-11-17,Large Mixed Navy,Male,No,Manhattan,NA
+2017-11-23,Unknown,Unknown,No,Manhattan,10023
+2017-11-22,Unknown,Unknown,No,Manhattan,NA
+2017-11-22,Pit Bull,Male,Yes,Manhattan,10030
+2017-11-24,Maltese,Unknown,No,Manhattan,10024
+2017-11-22,Golden Retriever,Unknown,No,Manhattan,10021
+2017-11-24,Golden Retriever,Male,Yes,Manhattan,10001
+2017-11-23,Unknown,Unknown,No,Manhattan,10035
+2017-11-24,Pit Bull,Unknown,No,Manhattan,10025
+2017-11-23,Mixed-Other,Male,No,Manhattan,10031
+2017-11-25,Bull Dog Mix,Male,No,Manhattan,NA
+2017-11-19,Pit Bull,Unknown,Yes,Manhattan,10128
+2017-11-27,Spitz,Unknown,No,Manhattan,NA
+2017-11-15,Pit Bull,Unknown,No,Manhattan,10022
+2017-11-23,Unknown,Unknown,No,Manhattan,NA
+2017-11-28,Siberian Husky,Unknown,No,Manhattan,10010
+2017-11-26,Pit Bull Mix,Female,Yes,Manhattan,10023
+2017-11-29,Shepherd - Labrador Mix,Male,Yes,Manhattan,10026
+2017-11-28,German Shepherd,Male,Yes,Manhattan,10009
+2017-11-30,Labrador Retriever,Male,Yes,Manhattan,10024
+2017-11-29,Lhasa Apso,Female,Yes,Manhattan,10037
+2017-12-04,Unknown,Unknown,No,Manhattan,10028
+2017-11-26,Dachshund Smooth Coat Miniature,Male,Yes,Manhattan,10009
+2017-11-27,Pit Bull,Unknown,No,Manhattan,NA
+2017-11-28,Shih Tzu,Unknown,No,Manhattan,NA
+2017-12-03,Mixed-Other,Female,No,Manhattan,10036
+2017-12-03,Mixed-Other,Female,No,Manhattan,10036
+2017-12-02,Mixed-Other,Male,No,Manhattan,10029
+2017-12-03,Pit-Boxer,Female,Yes,Manhattan,10026
+2017-12-05,Unknown,Unknown,No,Manhattan,NA
+2017-12-01,Labrador Retriever,Unknown,No,Manhattan,10012
+2017-12-06,Cocker Spaniel,Female,Yes,Manhattan,10017
+2017-12-08,Unknown,Unknown,No,Manhattan,NA
+2017-12-09,Shiba Inu,Female,No,Manhattan,10023
+2017-12-05,Pomeranian,Male,Yes,Manhattan,10128
+2017-12-05,Papillon,Male,Yes,Manhattan,NA
+2017-12-05,Siberian Husky,Unknown,No,Manhattan,10032
+2017-12-10,Pit Bull,Male,Yes,Manhattan,10007
+2017-12-09,Maltese- Yorkshire Terrier,Male,No,Manhattan,10019
+2017-12-10,American Pit Bull Mix - Pit Bull Mix,Unknown,No,Manhattan,10028
+2017-12-06,Mixed-Other,Female,No,Manhattan,10035
+2017-12-08,Shiba Inu,Female,Yes,Manhattan,NA
+2017-11-29,Mixed-Other,Male,No,Manhattan,10026
+2017-12-09,Mixed-Other,Male,No,Manhattan,10039
+2017-12-10,Siberian Husky,Female,No,Manhattan,10027
+2017-12-12,Mixed-Other,Male,No,Manhattan,10029
+2017-12-11,Mixed-Other,Male,No,Manhattan,10029
+2017-12-11,Mixed-Other,Female,No,Manhattan,10025
+2017-12-12,Shepherd,Unknown,No,Manhattan,NA
+2017-12-11,Bull Dog,Male,Yes,Manhattan,NA
+2017-12-13,Boston Terrier,Male,No,Manhattan,NA
+2017-12-10,Mixed-Other,Unknown,No,Manhattan,10026
+2017-12-16,Pit Bull,Unknown,No,Manhattan,NA
+2017-12-16,Mixed-Other,Male,No,Manhattan,10029
+2017-12-16,Chow Chow,Unknown,No,Manhattan,NA
+2017-12-15,Mixed-Other,Male,No,Manhattan,10023
+2017-12-18,Bull Dog-French,Male,Yes,Manhattan,10016
+2017-12-18,Pit Bull,Unknown,No,Manhattan,10025
+2017-12-19,Boxer,Male,No,Manhattan,10019
+2017-12-19,Mixed-Other,Female,No,Manhattan,10037
+2017-12-05,Golden Retriever,Male,No,Manhattan,NA
+2017-12-19,Mixed-Other,Male,No,Manhattan,10014
+2017-12-19,Mixed-Other,Male,No,Manhattan,10014
+2017-12-19,Yorkshire Terrier,Male,No,Manhattan,10025
+2017-11-21,Pit Bull,Unknown,No,Manhattan,NA
+2017-12-20,Pit Bull,Unknown,No,Manhattan,10002
+2017-12-21,Pit Bull,Male,Yes,Manhattan,10128
+2017-12-21,American Pit Bull Terrier-Pit Bull,Female,Yes,Manhattan,10025
+2017-12-22,Mixed Breed,Male,Yes,Manhattan,10128
+2017-12-21,Havanese,Male,Yes,Manhattan,10012
+2017-12-22,Terrier - Other,Unknown,No,Manhattan,10033
+2017-12-23,Goldendoodle,Male,Yes,Manhattan,10014
+2017-12-21,Dachschund- Pinscher Mix,Male,Yes,Manhattan,10019
+2017-11-16,Bull Dog-French,Unknown,No,Manhattan,10009
+2017-11-30,Unknown,Unknown,No,Manhattan,10028
+2017-10-09,Mixed-Other,Unknown,No,Manhattan,NA
+2017-12-29,Yorkshire Terrier,Female,No,Manhattan,10025
+2017-01-09,Unknown,Unknown,No,Manhattan,10040
+2017-01-11,Pit Bull,Unknown,No,Other,7652
+2017-01-15,Border Collie Mix,Female,No,Other,8221
+2017-01-15,German Shepherd,Female,No,Other,11040
+2017-01-21,Yorkshire Terrier,Male,No,Other,NA
+2017-01-16,Pit Bull,Male,No,Other,19125
+2017-02-05,Golden Doodle,Male,No,Other,8831
+2017-02-05,Golden Doodle,Male,No,Other,8831
+2017-02-10,Shih Tzu,Male,Yes,Other,18360
+2017-02-17,Maltese Mix,Female,No,Other,10701
+2017-02-24,Beagle-Pit Bull Mix,Male,Yes,Other,11040
+2017-03-06,Shih Tzu Mix,Male,Yes,Other,6880
+2017-03-03,Shih Tzu,Male,No,Other,10710
+2017-02-28,Cavalier King Charles Spaniel,Male,Yes,Other,NA
+2017-03-10,Cocker Spaniel,Male,Yes,Other,11710
+2017-03-10,Schnauzer-Standard,Unknown,No,Other,NA
+2017-02-28,American Staffordshire Terrier,Male,Yes,Other,19002
+2017-03-11,Jack Russ,Unknown,No,Other,NA
+2017-04-19,Pit Bull,Unknown,No,Other,NA
+2017-04-05,Pit Bull,Male,No,Other,1013
+2017-04-16,Pit Bull,Male,Yes,Other,6518
+2017-04-17,Poddle Mix,Male,Yes,Other,10701
+2017-04-21,Poodle,Unknown,No,Other,7030
+2017-05-03,Poodle-Standard,Unknown,No,Other,8098
+2017-05-23,Bull Dog,Male,No,Other,NA
+2017-05-25,Bull Dog-Pit Bull X,Male,Yes,Other,10530
+2017-05-27,Miniature Pinscher,Male,Yes,Other,13740
+2017-05-27,Australian Shepherd - Lphasa Apso,Male,No,Other,12446
+2017-06-05,Schnauzer-Miniature,Male,No,Other,NA
+2017-05-10,Dachshund Mix,Male,Yes,Other,94128
+2017-06-09,Pit Bull,Male,Yes,Other,10548
+2017-06-11,German Shepherd,Unknown,No,Other,12582
+2017-06-10,Shiba Mix,Female,Yes,Other,11706
+2017-06-20,Pit Bull,Male,No,Other,11580
+2017-06-18,Jack Russ Mix,Male,No,Other,NA
+2017-06-21,Shih Tzu,Female,No,Other,10803
+2017-06-18,Australian Shepherd,Unknown,No,Other,NA
+2017-06-25,German Shepherd,Female,No,Other,11221
+2017-06-25,Yorkshire Terrier,Male,Yes,Other,10710
+2017-06-29,Yorkshire Terrier,Male,Yes,Other,7403
+2017-07-03,Husky Mix,Female,Yes,Other,12564
+2017-07-04,Pekingese Mix,Male,Yes,Other,NA
+2017-07-03,Pekingese,Female,No,Other,NA
+2017-07-03,Pit Bull,Unknown,No,Other,NA
+2017-06-26,Bull Dog,Male,No,Other,NA
+2017-07-01,American Eskimo,Male,No,Other,NA
+2017-07-18,Shepherd Mix,Male,Yes,Other,14850
+2017-07-21,German Shepherd,Male,Yes,Other,NA
+2017-07-08,American Pit Bull Terrier-Pit Bull,Male,No,Other,11772
+2017-07-26,Chihuahua,Female,Yes,Other,18360
+2017-07-23,Terrier Mix,Male,Yes,Other,NA
+2017-07-26,Schnauzer-Miniature,Male,Yes,Other,NA
+2017-07-30,Akita,Unknown,No,Other,NA
+2017-07-31,Yorkie Poodle,Male,Yes,Other,10701
+2017-08-03,Siberian Husky,Unknown,No,Other,NA
+2017-08-05,Cocker Spaniel,Unknown,No,Other,NA
+2017-08-09,Mastiff-Bull,Unknown,No,Other,NA
+2017-08-11,Papillon,Female,Yes,Other,7030
+2017-08-13,Shepherd Mix,Male,Yes,Other,6460
+2017-08-12,Shih Tzu,Unknown,No,Other,NA
+2017-08-19,Beagle Mix,Male,Yes,Other,2633
+2017-08-20,Morkie,Male,Yes,Other,18301
+2017-08-20,Mastiff-Bull,Unknown,No,Other,NA
+2017-08-21,Jack Russ,Female,No,Other,7036
+2017-08-12,Labrador Boxer,Female,Yes,Other,13903
+2017-08-24,Mixed-Other,Male,No,Other,10512
+2017-08-25,Terrier Mix,Male,Yes,Other,6877
+2017-08-24,Labrador Retriever,Male,Yes,Other,NA
+2017-08-27,Terrier Mix,Female,No,Other,NA
+2017-08-25,Mixed-Other,Unknown,No,Other,NA
+2017-09-03,Poodle-Standard,Unknown,No,Other,NA
+2017-09-03,Mutt Mix,Male,Yes,Other,12581
+2017-09-03,Shih Tzu Coker Spaniel Mix,Male,Yes,Other,7726
+2017-09-16,Pit Bull Mix,Male,No,Other,18103
+2017-09-17,Chihuahua - Terrier Mix,Male,Yes,Other,7871
+2017-09-24,Malinois Mix,Female,Yes,Other,13731
+2017-09-22,Cock-A-Poo,Male,No,Other,NA
+2017-09-16,Wild Dog,Unknown,No,Other,NA
+2017-09-22,Schnauzer-Miniature,Male,Yes,Other,11362
+2017-09-12,Australian Shepherd,Male,Yes,Other,13865
+2017-10-07,Mixed-Other,Unknown,No,Other,NA
+2017-10-08,Rottweiler,Male,Yes,Other,12734
+2017-10-09,Labrador Retriever,Female,No,Other,18466
+2017-10-10,Terrier Mix,Male,No,Other,NA
+2017-10-12,Cocker Spaniel,Male,Yes,Other,NA
+2017-10-14,Scottish Terrier,Female,No,Other,NA
+2017-10-16,Unknown,Unknown,No,Other,NA
+2017-10-28,Husky,Unknown,No,Other,NA
+2017-10-29,Siberian Husky,Male,Yes,Other,NA
+2017-11-04,Mixed-Other,Female,No,Other,8816
+2017-11-07,Lab Mix,Male,Yes,Other,11050
+2017-11-12,Mixed-Other,Male,No,Other,10701
+2017-10-26,Siberian Husky,Unknown,No,Other,NA
+2017-11-23,Shih Tzu Mix,Male,Yes,Other,1720
+2017-11-23,Bull Dog-French,Female,Yes,Other,10533
+2017-11-25,Pit Bull -Bull Dog,Female,No,Other,NA
+2017-11-25,Pekingese Mix,Male,Yes,Other,28468
+2017-11-28,Rottweiler,Male,No,Other,11020
+2017-12-10,Siberian Husky,Unknown,No,Other,NA
+2017-12-12,Shiba Inu,Male,Yes,Other,13045
+2017-12-16,West High White Terrier,Female,No,Other,NA
+2017-12-05,Pit Bull,Male,No,Other,NA
+2017-12-14,Large Mixed Breed,Male,No,Other,3106
+2017-12-27,Shepherd Mix,Male,Yes,Other,NA
+2017-12-24,Yorkie Mix,Male,Yes,Other,10921
+2017-12-27,Lab- Pit Bull Mix,Female,Yes,Other,NA
+2017-12-20,Pit Bull,Unknown,No,Other,NA
+2017-12-26,Bull Dog-English,Male,Yes,Other,10940
+2017-12-29,Welsh Corgi-Cardigan,Unknown,No,Other,19426
+2017-01-01,Maltese,Male,No,Queens,11356
+2017-01-01,Corgi,Male,Yes,Queens,11354
+2017-01-01,Poodle Mix,Male,No,Queens,11373
+2017-01-02,Chow Chow,Unknown,No,Queens,NA
+2017-01-01,Pit Bull,Unknown,No,Queens,11691
+2017-01-05,Pit Bull,Male,No,Queens,11373
+2017-01-05,Pit Bull,Unknown,No,Queens,11429
+2017-01-10,Corgi,Male,No,Queens,11373
+2017-01-08,Chihuahua,Female,No,Queens,11421
+2017-01-13,German Shepherd Mix,Unknown,No,Queens,11364
+2017-01-15,Staffordshire Mix,Male,No,Queens,11436
+2017-01-15,Staffordshire Mix,Male,No,Queens,11436
+2017-01-13,Black Mouth Cur Mix,Female,No,Queens,11433
+2017-01-15,Pit Bull,Female,No,Queens,11433
+2017-01-12,Cane Corso,Unknown,No,Queens,11433
+2017-01-12,Siberian Husky,Unknown,No,Queens,11419
+2017-01-15,Siberian Husky,Female,No,Queens,11691
+2017-01-14,Shih Tzu,Unknown,No,Queens,11385
+2017-01-18,Bichon Frise,Male,No,Queens,11365
+2017-01-18,Pit Bull,Unknown,No,Queens,NA
+2017-01-16,Pit Bull - Boxer Mix (F) And Pit Bull (M),Unknown,Yes,Queens,11434
+2017-01-11,Cocker Spaniel,Female,Yes,Queens,11354
+2017-01-21,Wheaton Terrier,Male,Yes,Queens,11365
+2017-01-25,Shih Tzu,Male,Yes,Queens,11372
+2017-01-24,Lhasa Apso,Female,No,Queens,11427
+2017-01-25,Siberian Husky,Male,Yes,Queens,11355
+2017-01-25,American Pit Bull Mix - Pit Bull Mix,Male,Yes,Queens,11103
+2017-01-28,Shih Tzu - Maltese Mix,Male,Yes,Queens,11368
+2017-01-27,American Pit Bull Mix - Pit Bull Mix,Unknown,Yes,Queens,11434
+2017-01-30,Pit Bull Terrier Mix,Male,Yes,Queens,11417
+2017-01-13,Shepherd Mix,Female,Yes,Queens,11361
+2017-01-22,Shepherd Mix,Male,Yes,Queens,11360
+2017-01-31,Pit Bull,Unknown,No,Queens,11691
+2017-02-01,Labrador Retriever,Unknown,No,Queens,11385
+2017-02-03,German Shepherd,Unknown,No,Queens,11370
+2017-02-02,Pit Bull,Male,No,Queens,11434
+2017-02-02,Pit Bull,Male,No,Queens,11102
+2017-02-03,Pit Bull,Unknown,No,Queens,11418
+2017-02-04,Bull Dog,Unknown,No,Queens,11413
+2017-02-05,Alaskan Husky,Male,Yes,Queens,11377
+2017-01-28,Chihuahua - Corgi Mix,Unknown,No,Queens,11368
+2017-01-25,English Bull Dog - Beagle Mix,Male,No,Queens,11361
+2017-02-05,Labrador Mix,Male,Yes,Queens,11692
+2017-02-07,American Pit Bull Mix - Pit Bull Mix,Male,No,Queens,11429
+2017-02-07,Pit Bull,Male,No,Queens,11413
+2017-02-07,German Shepherd,Male,No,Queens,NA
+2017-02-08,Pit Bull,Unknown,No,Queens,11435
+2017-02-08,Pit Bull,Male,Yes,Queens,11435
+2017-02-08,Pit Bull,Male,Yes,Queens,11435
+2017-02-08,Pit Bull,Male,Yes,Queens,11435
+2017-02-09,Dachshund Mix,Female,Yes,Queens,11101
+2017-02-09,Maltese,Male,Yes,Queens,NA
+2017-02-12,Mastiff-Bull,Male,Yes,Queens,11101
+2017-02-13,Mastiff-Bull,Male,Yes,Queens,11101
+2017-02-10,German Shepherd,Unknown,No,Queens,NA
+2017-02-10,Bull Terrier,Male,No,Queens,11385
+2017-02-09,Pit Bull,Unknown,No,Queens,11429
+2017-02-11,Collie,Unknown,No,Queens,11361
+2017-02-14,Pit Bull,Male,Yes,Queens,11371
+2017-02-15,Dachshund Mix,Female,No,Queens,11421
+2017-02-07,Chihuahua,Male,Yes,Queens,11358
+2017-02-16,American Eskimo Mix,Male,Yes,Queens,11106
+2017-02-16,Staffordshire Bull Terrier,Male,Yes,Queens,11691
+2017-02-17,American Staffordshire Terrier,Male,No,Queens,11434
+2017-02-18,Mini Goldendoodle,Male,No,Queens,11370
+2017-02-19,Dachshund Mix,Female,Yes,Queens,11435
+2017-02-20,Rottweiler Mix,Male,Yes,Queens,11354
+2017-02-11,Pit Bull,Unknown,No,Queens,11101
+2017-01-31,Dachshund-Long Haired,Male,Yes,Queens,11357
+2017-02-01,Terrier Mix,Female,Yes,Queens,11426
+2017-02-14,Labrador - Pit Bull Mix,Female,Yes,Queens,11367
+2017-02-20,Akita,Male,No,Queens,11691
+2017-02-20,Shih Tzu,Male,Yes,Queens,11379
+2017-02-21,Pit Bull,Unknown,No,Queens,11691
+2017-02-18,American Pit Bull Mix - Pit Bull Mix,Female,Yes,Queens,11364
+2017-02-23,Beagle - Hound Mix,Male,Yes,Queens,11433
+2017-02-25,Chihuahua,Male,No,Queens,11356
+2017-02-24,Terrier,Unknown,No,Queens,11433
+2017-02-24,Cane Corso,Female,Yes,Queens,11418
+2017-02-27,"Jindo Dog,",Female,No,Queens,11357
+2017-02-27,Hound Mix,Male,Yes,Queens,11109
+2017-03-01,Terrier,Unknown,No,Queens,NA
+2017-03-02,Rottweiler Mix,Male,Yes,Queens,11102
+2017-03-05,Chow Chow - German Shephered Mix,Male,No,Queens,11372
+2017-03-04,Dachshund Smooth Coat,Female,Yes,Queens,11375
+2017-03-04,Pit Bull,Unknown,No,Queens,11433
+2017-03-06,Scottish Terrier,Male,Yes,Queens,11101
+2017-02-24,Pit Bull,Unknown,No,Queens,11692
+2017-02-28,Pit Bull,Female,Yes,Queens,11373
+2017-02-28,Pit Bull,Female,Yes,Queens,11373
+2017-02-23,American Pit Bull Terrier-Pit Bull,Female,No,Queens,11372
+2017-03-08,Shih Tzu,Male,Yes,Queens,11419
+2017-03-09,Pit Bull,Unknown,No,Queens,NA
+2017-03-09,Shiba Inu,Male,No,Queens,11103
+2017-03-09,Chihuahua,Unknown,No,Queens,NA
+2017-03-09,Pomeranian,Female,Yes,Queens,11385
+2017-03-12,Shiba Inu,Female,Yes,Queens,11358
+2017-03-11,Pit Bull,Female,No,Queens,11375
+2017-03-10,Bull Dog-French,Male,Yes,Queens,11364
+2017-03-12,Pit Bull - American Foxhound Mix,Male,No,Queens,11693
+2017-03-02,Pit Bull,Unknown,No,Queens,11692
+2017-03-13,Pit Bull,Unknown,No,Queens,NA
+2017-03-13,Maltese,Female,No,Queens,11354
+2017-03-13,Terrier,Unknown,No,Queens,11103
+2017-03-13,Pit Bull,Female,No,Queens,11691
+2017-03-13,Pit Bull,Unknown,No,Queens,11435
+2017-03-14,Rottweiler,Female,No,Queens,11426
+2017-03-15,Bull Dog-English,Male,Yes,Queens,11363
+2017-03-16,Hound - German Shepherd Mix,Female,Yes,Queens,11105
+2017-03-17,American Pit Bull Terrier-Pit Bull,Male,No,Queens,11375
+2017-03-17,Shih Tzu Mix,Male,Yes,Queens,11426
+2017-03-20,German Shepherd,Male,No,Queens,11414
+2017-03-18,Pit Bull,Male,Yes,Queens,11692
+2017-03-18,Jack Russ,Unknown,No,Queens,11432
+2017-03-12,Mix Breed,Male,No,Queens,11355
+2017-03-22,German Shepherd,Male,No,Queens,11435
+2017-03-17,Pit Bull,Unknown,No,Queens,11369
+2017-03-04,Pit Bull Mix,Female,Yes,Queens,11357
+2017-03-23,Pit Bull,Unknown,No,Queens,11691
+2017-03-24,Chihuahua,Unknown,No,Queens,11354
+2017-03-23,Chihuahua - Bijon Mix,Unknown,Yes,Queens,11436
+2017-03-24,American Pit Bull Terrier-Pit Bull,Male,No,Queens,11367
+2017-03-23,German Shepherd,Female,No,Queens,11354
+2017-03-25,Dalmation Mix,Male,Yes,Queens,11426
+2017-03-25,Pit Bull,Unknown,No,Queens,11692
+2017-03-26,American Pit Bull Terrier-Pit Bull,Male,No,Queens,11423
+2017-03-27,West High White Terrier,Male,Yes,Queens,11375
+2017-03-27,Cocker Spaniel,Unknown,No,Queens,11106
+2017-03-29,Bichon Frise - Terrier Mix,Female,Yes,Queens,11372
+2017-03-27,Yorkshire Terrier,Unknown,No,Queens,11417
+2017-03-31,Norfolk Terrier,Female,Yes,Queens,11355
+2017-03-31,Dachshund - Schnauzer,Unknown,Yes,Queens,11101
+2017-03-26,Pekingese - Poodle Mix,Male,Yes,Queens,11416
+2017-03-30,Pit Bull - Rottweiler Mix,Male,No,Queens,11372
+2017-03-26,Pit Bull,Female,Yes,Queens,11354
+2017-04-02,Pit Bull,Male,No,Queens,11385
+2017-03-24,Maltese,Male,No,Queens,11358
+2017-03-20,Maltese - Yorkshire Mix,Male,No,Queens,11373
+2017-04-04,Maltese,Male,Yes,Queens,11368
+2017-03-11,Puggle - Hound Mix,Male,Yes,Queens,11358
+2017-03-22,Kerry Blue Terrier,Male,No,Queens,11363
+2017-04-06,Shih Tzu,Male,Yes,Queens,11375
+2017-04-05,German Shepherd,Male,No,Queens,11433
+2017-04-09,Labrador Retriever,Male,Yes,Queens,11358
+2017-04-10,Rottweiler,Female,No,Queens,11426
+2017-04-05,Corgi - Cattle Mix,Male,Yes,Queens,11375
+2017-04-10,Mix Breed,Male,No,Queens,11106
+2017-04-11,Pit Bull,Male,No,Queens,11368
+2017-04-10,Jack Russ,Female,No,Queens,11378
+2017-04-12,Bull Dog-French,Male,Yes,Queens,11106
+2017-04-09,Pit Bull,Unknown,No,Queens,11365
+2017-04-10,Pit Bull,Male,No,Queens,11369
+2017-04-09,Pomeranian,Unknown,No,Queens,NA
+2017-04-15,Pit Bull,Male,No,Queens,11426
+2017-04-16,American Pit Bull Terrier-Pit Bull,Female,No,Queens,11375
+2017-04-14,Cocker Spaniel,Unknown,No,Queens,11375
+2017-04-14,Labrador - Pit Bull Mix,Male,Yes,Queens,11103
+2017-04-16,Cocker Spaniel,Female,No,Queens,11104
+2017-04-17,Pit Bull,Female,No,Queens,11420
+2017-04-17,Cairn Terrier,Male,Yes,Queens,11434
+2017-04-17,Pug,Unknown,No,Queens,11355
+2017-04-09,Shiba Inu,Male,Yes,Queens,11360
+2017-04-19,Beagle,Female,No,Queens,11102
+2017-04-16,Pomeranian,Female,Yes,Queens,11101
+2017-04-20,Mixed Breed,Male,Yes,Queens,11434
+2017-04-20,Labrador Mix,Male,No,Queens,11361
+2017-04-20,Pit Bull Mix,Male,Yes,Queens,11106
+2017-04-20,Terrier - Chihuahua Mix,Female,No,Queens,11378
+2017-04-24,Jack Russell Mix,Male,Yes,Queens,11372
+2017-04-23,Yorkshire Terrier,Male,Yes,Queens,11423
+2017-04-23,German Shepherd Mix,Male,Yes,Queens,11004
+2017-04-23,Pit Bull - Labrador Mix,Male,No,Queens,11385
+2017-04-23,Poodle Mix,Male,No,Queens,NA
+2017-04-24,Pit Bull,Unknown,No,Queens,11375
+2017-04-27,Labrador - Pit Bull Mix,Male,Yes,Queens,11417
+2017-04-02,Pit Bull,Male,No,Queens,NA
+2017-04-02,Pit Bull,Female,Yes,Queens,NA
+2017-04-26,Pit Bull,Unknown,No,Queens,11691
+2017-04-29,Pomeranian,Male,No,Queens,11366
+2017-04-28,Shih Tzu,Male,Yes,Queens,11368
+2017-05-01,American Pit Bull Terrier-Pit Bull,Male,No,Queens,11368
+2017-04-25,American Pit Bull Terrier-Pit Bull,Female,No,Queens,11691
+2017-04-10,Pit Bull Mix,Male,No,Queens,11434
+2017-04-16,Pit Bull,Female,No,Queens,11435
+2017-04-18,Scottish Terrier,Male,Yes,Queens,11370
+2017-04-19,Mini Schnauzer - Yorkshire Mix,Male,Yes,Queens,11102
+2017-04-28,Pit Bull,Male,Yes,Queens,11103
+2017-04-29,Pit Bull Mix,Male,No,Queens,11692
+2017-04-29,Pit Bull,Unknown,No,Queens,11385
+2017-04-29,American Pit Bull Terrier-Pit Bull,Male,Yes,Queens,11361
+2017-05-03,American Bully,Female,Yes,Queens,11354
+2017-05-04,Pit Bull,Unknown,No,Queens,11367
+2017-01-31,Maltese,Male,No,Queens,11433
+2017-04-30,American Eskimo - Husky Mix,Male,Yes,Queens,11374
+2017-05-02,Beagle,Female,No,Queens,11414
+2017-05-06,Bull Dog-English,Male,No,Queens,11354
+2017-05-08,Pit Bull,Unknown,No,Queens,NA
+2017-05-08,American Staffordshire Terrier,Female,No,Queens,11692
+2017-05-08,Staffordshire Bull Terrier,Male,No,Queens,11692
+2017-05-08,American Pit Bull Terrier-Pit Bull,Male,No,Queens,11692
+2017-05-08,American Pit Bull Terrier-Pit Bull,Female,Yes,Queens,11692
+2017-05-07,German Shepherd,Male,Yes,Queens,11416
+2017-05-05,Pug - Chihuahua Mix,Male,Yes,Queens,11412
+2017-05-08,Shih Tzu,Male,No,Queens,11104
+2017-04-26,French Poodle,Male,No,Queens,11103
+2017-05-06,Bull Terrier,Female,Yes,Queens,11385
+2017-05-10,Staffordshire Bull Terrier,Female,No,Queens,11373
+2017-05-09,Pit Bull,Female,Yes,Queens,11694
+2017-05-11,Pit Bull,Unknown,No,Queens,11365
+2017-05-11,Shih Tzu,Male,No,Queens,11356
+2017-05-03,Pit Bull,Male,No,Queens,11691
+2017-05-12,Shih Tzu,Unknown,No,Queens,11412
+2017-05-13,Labrador - Hound Mix,Male,No,Queens,11432
+2017-05-14,Newfoundland Or Tibetan Mastiff,Unknown,No,Queens,11364
+2017-05-12,Shih Tzu,Male,No,Queens,11357
+2017-05-15,Terrier,Unknown,No,Queens,11368
+2017-05-09,Boxer,Male,Yes,Queens,11101
+2017-05-16,Siberian Husky,Male,Yes,Queens,11369
+2017-05-10,Pit Bull,Unknown,No,Queens,11361
+2017-05-18,Pekingese,Female,No,Queens,11377
+2017-05-19,Shih Tzu,Female,No,Queens,11420
+2017-05-16,Mixed Breed,Unknown,No,Queens,11377
+2017-05-18,Labrador - Chow Chow Mix,Female,Yes,Queens,11373
+2017-05-15,Siberian Husky,Unknown,No,Queens,11415
+2017-05-20,Pit Bull,Male,No,Queens,11421
+2017-05-18,Pomeranian,Female,No,Queens,11103
+2017-05-20,Pit Bull,Female,No,Queens,11420
+2017-05-20,Boxer,Female,No,Queens,11422
+2017-05-21,West Highland Mix,Male,Yes,Queens,11377
+2017-05-22,German Shepherd,Male,No,Queens,11354
+2017-05-23,Maltese - Yorkshire Mix,Male,Yes,Queens,11361
+2017-05-23,Siberian Husky,Male,Yes,Queens,11373
+2017-05-23,Pit Bull Mix,Male,Yes,Queens,11419
+2017-05-24,American Pit Bull Terrier-Pit Bull,Male,Yes,Queens,NA
+2017-05-24,Jack Russ,Male,Yes,Queens,11434
+2017-05-24,Poodle-Toy,Male,Yes,Queens,11377
+2017-05-24,Unknown,Unknown,No,Queens,NA
+2017-05-25,Pit Bull,Female,No,Queens,11354
+2017-05-20,Rottweiler,Male,No,Queens,11375
+2017-05-25,Pit Bull,Male,Yes,Queens,11356
+2017-05-27,German Shepherd,Female,No,Queens,11420
+2017-05-28,Boston Terrier,Unknown,No,Queens,11101
+2017-05-25,Chihuahua,Male,Yes,Queens,11368
+2017-05-27,Shih Tzu,Female,Yes,Queens,11367
+2017-05-27,Pit Bull,Unknown,No,Queens,11368
+2017-05-28,Pit Bull,Unknown,No,Queens,NA
+2017-05-28,Unknown,Unknown,No,Queens,NA
+2017-05-29,Pit Bull,Unknown,No,Queens,NA
+2017-05-26,Labrador Retriever,Male,No,Queens,11434
+2017-05-27,Unknown,Unknown,No,Queens,NA
+2017-05-30,Terrier Mix,Female,Yes,Queens,11374
+2017-05-22,Pit Bull,Male,No,Queens,11691
+2017-05-31,American Pit Bull Terrier-Pit Bull,Male,Yes,Queens,11691
+2017-05-31,American Pit Bull Terrier-Pit Bull,Male,Yes,Queens,11691
+2017-05-28,Unknown,Unknown,No,Queens,NA
+2017-05-06,Mixed Breed,Unknown,No,Queens,11691
+2017-05-06,Pit Bull,Unknown,No,Queens,11692
+2017-05-24,German Shepherd,Unknown,No,Queens,11364
+2017-05-29,Labrador Retriever,Female,Yes,Queens,11378
+2017-06-01,Siberian Husky,Unknown,No,Queens,NA
+2017-06-03,Unknown,Unknown,No,Queens,11377
+2017-06-02,American Pit Bull Mix - Pit Bull Mix,Female,Yes,Queens,11364
+2017-06-03,Silky Terrier,Male,Yes,Queens,11360
+2017-06-04,Unknown,Unknown,No,Queens,11413
+2017-06-04,Siberian Husky,Male,No,Queens,11385
+2017-06-05,Pit Bull,Unknown,No,Queens,11428
+2017-06-03,Belgian Malinois,Male,No,Queens,11374
+2017-06-05,Unknown,Unknown,No,Queens,11377
+2017-06-04,Rottweiler And Boxer Mix,Male,Yes,Queens,11368
+2017-06-07,Mixed Breed,Female,Yes,Queens,11372
+2017-06-07,Rottweiler - Shepherd Mix,Male,Yes,Queens,NA
+2017-06-03,Chihuahua,Female,No,Queens,11379
+2017-06-08,Unknown,Unknown,No,Queens,NA
+2017-06-08,Mixed Breed,Unknown,No,Queens,11413
+2017-06-08,Shih Tzu,Male,Yes,Queens,11368
+2017-06-01,Maltese - Poodle Mix,Female,Yes,Queens,11360
+2017-06-08,Unknown,Unknown,No,Queens,11378
+2017-06-10,Mixed Breed,Unknown,No,Queens,11105
+2017-06-11,Unknown,Unknown,No,Queens,NA
+2017-06-11,Labrador Mix,Male,Yes,Queens,11421
+2017-06-12,American Stafford And Labrador Mix,Male,No,Queens,11365
+2017-06-12,Shih Tzu,Female,Yes,Queens,11106
+2017-06-09,Unknown,Unknown,No,Queens,NA
+2017-06-13,Maltese Terrier,Male,Yes,Queens,11357
+2017-06-05,Unknown,Unknown,No,Queens,NA
+2017-06-12,Yorkshire Terrier,Unknown,No,Queens,11421
+2017-06-08,Unknown,Unknown,No,Queens,11101
+2017-06-11,Unknown,Unknown,No,Queens,11367
+2017-06-10,Unknown,Unknown,No,Queens,NA
+2017-06-09,Shih Tzu,Male,No,Queens,11370
+2017-06-07,Shih Tzu,Male,No,Queens,11368
+2017-06-06,Bull Dog,Unknown,No,Queens,NA
+2017-06-12,Pit Bull,Unknown,No,Queens,11435
+2017-06-13,Jack Russ,Unknown,No,Queens,11434
+2017-06-14,Pit Bull,Unknown,No,Queens,11433
+2017-06-13,Pit Bull - Boxer Mix,Male,No,Queens,11435
+2017-06-14,Unknown,Unknown,No,Queens,11361
+2017-06-13,Siberian Husky,Male,No,Queens,11434
+2017-06-15,Maltese,Unknown,No,Queens,NA
+2017-06-13,American Pit Bull Terrier-Pit Bull,Female,Yes,Queens,NA
+2017-06-15,German Shepherd,Male,Yes,Queens,11365
+2017-06-12,Rottweiler,Unknown,No,Queens,NA
+2017-06-16,Golden Retriever,Male,Yes,Queens,11368
+2017-06-15,Jack Russ,Male,No,Queens,11432
+2017-06-17,Yorkshire Terrier,Male,Yes,Queens,11355
+2017-06-16,Maltese,Male,Yes,Queens,NA
+2017-06-16,Golden - Chow Mix,Male,Yes,Queens,11106
+2017-06-04,Poodle Mix,Unknown,No,Queens,NA
+2017-06-12,Siberian Husky,Male,Yes,Queens,11385
+2017-06-18,German Shepherd,Male,No,Queens,11419
+2017-06-16,Pit Bull,Unknown,No,Queens,NA
+2017-06-14,Mastiff,Male,Yes,Queens,11373
+2017-06-18,Pit Bull,Unknown,No,Queens,11418
+2017-06-17,German Shepherd Mix,Male,Yes,Queens,11416
+2017-06-19,Unknown,Unknown,No,Queens,11374
+2017-06-17,Shiba Inu,Male,Yes,Queens,11691
+2017-06-14,Pit Bull,Unknown,No,Queens,11413
+2017-06-19,Cane Corso - Mastiff Mix,Male,No,Queens,11427
+2017-06-16,German Shepherd,Female,No,Queens,11414
+2017-06-19,Labrador Retriever,Male,No,Queens,11379
+2017-06-14,Bull Dog,Male,No,Queens,11357
+2017-06-16,Yorkshire Terrier,Female,No,Queens,11354
+2017-06-14,Pit Bull,Unknown,No,Queens,11413
+2017-06-20,Unknown,Unknown,No,Queens,NA
+2017-06-21,Pit Bull,Male,No,Queens,NA
+2017-06-21,Poodle Or Dalmation,Unknown,No,Queens,11378
+2017-06-21,German Shepherd,Male,Yes,Queens,11379
+2017-06-21,Shih Tzu,Male,Yes,Queens,11360
+2017-06-22,Rottweiler,Male,Yes,Queens,11367
+2017-05-30,Pit Bull Mix,Female,Yes,Queens,11379
+2017-06-26,Rottweiler,Unknown,No,Queens,11365
+2017-06-01,Shih Tzu,Female,No,Queens,11413
+2017-06-23,Pit Bull,Male,No,Queens,11428
+2017-06-24,Pomeranian,Female,No,Queens,11364
+2017-06-25,Alaskan Klee Kai,Female,No,Queens,11378
+2017-06-24,Shih Tzu - Chihuahua Mix,Male,Yes,Queens,11419
+2017-06-25,Pit Bull,Unknown,No,Queens,11434
+2017-06-18,Unknown,Unknown,No,Queens,11434
+2017-06-25,Chihuahua,Male,Yes,Queens,11691
+2017-06-26,American Pit Bull Terrier-Pit Bull,Male,No,Queens,11368
+2017-06-23,Pit Bull,Male,No,Queens,11354
+2017-06-23,Pit Bull,Male,Yes,Queens,11356
+2017-06-26,Border Terrier,Unknown,No,Queens,NA
+2017-06-24,Unknown,Unknown,No,Queens,NA
+2017-06-18,Chiweenie,Unknown,No,Queens,11691
+2017-06-26,German Shepherd - Labrador Mix,Male,Yes,Queens,11385
+2017-06-25,Pug,Male,No,Queens,11368
+2017-06-27,Terrier Mix,Female,No,Queens,11367
+2017-06-13,German Shepherd - Chow Mix,Male,Yes,Queens,11102
+2017-06-26,Border Terrier,Unknown,No,Queens,11433
+2017-06-24,Maltese - Poodle,Female,Yes,Queens,11373
+2017-06-27,Unknown,Unknown,No,Queens,11435
+2017-06-28,Border Collie Mix,Female,Yes,Queens,11361
+2017-06-28,Morkie Mix,Male,No,Queens,11419
+2017-06-27,Pit Bull,Unknown,No,Queens,11693
+2017-06-28,Yorkshire Terrier,Male,Yes,Queens,11365
+2017-06-21,Unknown,Unknown,No,Queens,11423
+2017-06-29,Staffordshire Bull Terrier,Male,Yes,Queens,11105
+2017-06-29,Chihuahua,Male,No,Queens,11357
+2017-06-29,German Shepherd Mix,Male,Yes,Queens,11355
+2017-07-02,Pit Bull,Unknown,No,Queens,11416
+2017-07-01,American Staffordshire Terrier,Female,Yes,Queens,11422
+2017-07-01,Poodle Mix,Male,Yes,Queens,11375
+2017-07-02,Pit Bull,Unknown,No,Queens,11416
+2017-07-03,American Bully,Male,No,Queens,11419
+2017-07-02,American Pit Bull Mix - Pit Bull Mix,Male,No,Queens,11368
+2017-07-04,Pit Bull,Unknown,No,Queens,11413
+2017-07-05,Unknown,Unknown,No,Queens,NA
+2017-07-03,Maltese - Poodle Mix,Male,Yes,Queens,11420
+2017-07-05,Shih Tzu,Unknown,No,Queens,11102
+2017-07-05,Jack Russ,Male,Yes,Queens,11419
+2017-06-29,Pit Bull,Unknown,No,Queens,11435
+2017-06-30,Siberian Husky,Unknown,No,Queens,11377
+2017-06-29,Pit Bull,Unknown,No,Queens,11412
+2017-07-05,Central Asian Shepherd,Male,No,Queens,11435
+2017-07-06,Unknown,Unknown,No,Queens,11104
+2017-07-07,Unknown,Unknown,No,Queens,11385
+2017-06-24,German Shepherd,Male,No,Queens,11434
+2017-07-07,Pit Bull,Male,Yes,Queens,11691
+2017-07-09,American Bully,Male,No,Queens,11370
+2017-07-08,Shih Tzu,Male,Yes,Queens,11357
+2017-07-09,Golden Retriever,Male,Yes,Queens,11417
+2017-07-08,English Cocker Spaniel,Male,No,Queens,11413
+2017-07-07,Unknown,Unknown,No,Queens,NA
+2017-07-10,Rottweiler - Pit Bull Mix,Male,No,Queens,11385
+2017-07-09,Maltese,Female,Yes,Queens,11373
+2017-07-08,Yorkshire Terrier,Male,Yes,Queens,11101
+2017-07-09,German Shepherd,Male,No,Queens,11432
+2017-07-11,Unknown,Unknown,No,Queens,NA
+2017-07-10,Unknown,Unknown,No,Queens,11354
+2017-07-11,Pomeranian - Chihuahua Mix,Female,No,Queens,11354
+2017-07-11,Pit Bull,Male,No,Queens,11435
+2017-07-11,Pit Bull,Female,No,Queens,11435
+2017-07-11,Japanese Chin - Maltese Mix,Male,No,Queens,11368
+2017-06-25,Puggle,Male,No,Queens,11423
+2017-05-16,Pit Bull,Female,Yes,Queens,11418
+2017-05-16,Pit Bull,Female,Yes,Queens,11418
+2017-06-28,Pit Bull,Unknown,No,Queens,11691
+2017-07-12,Mixed Breed,Male,Yes,Queens,11377
+2017-07-12,Tibetan Terrier,Male,Yes,Queens,11422
+2017-07-11,Beagle - Cockerspaniel Mix,Male,No,Queens,11354
+2017-07-12,German Shepherd,Unknown,No,Queens,11429
+2017-07-13,Samoyed,Female,No,Queens,11378
+2017-07-13,Poodle-Standard,Male,No,Queens,11370
+2017-07-13,Bull Dog-English,Female,No,Queens,NA
+2017-07-13,Unknown,Unknown,No,Queens,11377
+2017-07-14,Unknown,Unknown,No,Queens,11106
+2017-07-05,Cocker Spaniel,Unknown,No,Queens,11412
+2017-07-15,Jack Russ - Shih Tzu Mix,Female,No,Queens,11378
+2017-07-16,Boxer,Female,Yes,Queens,11368
+2017-07-16,Siberian Husky,Male,Yes,Queens,11358
+2017-07-17,Chihuahua,Male,No,Queens,11377
+2017-07-14,Yorkshire Terrier,Female,Yes,Queens,11385
+2017-07-16,Unknown,Unknown,No,Queens,NA
+2017-07-15,Tibetan Terrier,Male,Yes,Queens,11358
+2017-07-15,Jack Russ,Female,Yes,Queens,11691
+2017-07-16,Beagle Crossbreed,Female,Yes,Queens,11361
+2017-07-17,Pit Bull,Female,Yes,Queens,11420
+2017-07-18,Rhodesian Ridgeback,Unknown,No,Queens,NA
+2017-06-17,Beagle,Male,No,Queens,11367
+2017-07-01,Chinese Crested,Male,Yes,Queens,11368
+2017-07-18,Pekingese,Female,No,Queens,11365
+2017-07-18,Unknown,Unknown,No,Queens,11434
+2017-07-11,American Pit Bull Terrier-Pit Bull,Female,Yes,Queens,11377
+2017-07-15,Bichon Frise,Female,Yes,Queens,11370
+2017-07-17,Unknown,Unknown,No,Queens,11428
+2017-07-19,Unknown,Unknown,No,Queens,11365
+2017-07-19,American Pit Bull Terrier-Pit Bull,Female,Yes,Queens,11102
+2017-07-08,German Shepherd Mix,Male,Yes,Queens,11694
+2017-07-10,Staffordshire - Pit Bull Mix,Female,Yes,Queens,11413
+2017-07-09,Pit Bull,Unknown,No,Queens,11428
+2017-07-20,Poodle Mix,Male,Yes,Queens,11368
+2017-07-20,Lhasa - Shih Tzu Mix,Male,Yes,Queens,11415
+2017-07-21,Unknown,Unknown,No,Queens,11377
+2017-07-21,Pit Bull,Unknown,No,Queens,11417
+2017-07-21,Unknown,Unknown,No,Queens,NA
+2017-07-21,German Shepherd,Unknown,No,Queens,NA
+2017-07-22,Malti Tzu,Male,No,Queens,11419
+2017-07-21,Unknown,Unknown,No,Queens,11415
+2017-07-21,Unknown,Unknown,No,Queens,11356
+2017-07-15,Bull Dog,Unknown,No,Queens,11691
+2017-07-18,Pit Bull,Male,No,Queens,11102
+2017-07-15,Pit Bull,Female,No,Queens,11413
+2017-07-25,Cocker Spaniel - Poodle Mix,Male,Yes,Queens,11377
+2017-07-25,Yorkshire Terrier,Male,No,Queens,11417
+2017-07-26,Beagle,Male,Yes,Queens,11421
+2017-06-28,Unknown,Unknown,No,Queens,11413
+2017-07-26,German Shepherd,Male,No,Queens,11426
+2017-07-17,Bichon Frise,Male,Yes,Queens,11354
+2017-07-26,Cane Corso,Unknown,No,Queens,11416
+2017-07-23,Chihuahua,Male,No,Queens,11368
+2017-07-26,Unknown,Unknown,No,Queens,NA
+2017-07-22,Morkie,Male,Yes,Queens,11434
+2017-07-27,Unknown,Unknown,No,Queens,11360
+2017-07-27,Shar-Pei-Chinese,Male,No,Queens,11417
+2017-07-26,Unknown,Unknown,No,Queens,NA
+2017-07-24,French Hound Mix,Male,Yes,Queens,11432
+2017-07-28,"Jindo Dog,",Unknown,No,Queens,NA
+2017-07-28,Jack Russ,Male,Yes,Queens,11105
+2017-07-30,Poodle-Standard,Female,No,Queens,11375
+2017-07-29,Cockapoo Mix,Male,Yes,Queens,11377
+2017-07-29,American Pit Bull Mix - Pit Bull Mix,Male,No,Queens,NA
+2017-08-01,Chihuahua Mix,Male,Yes,Queens,NA
+2017-07-29,Unknown,Unknown,No,Queens,11421
+2017-07-29,Pit Bull,Unknown,No,Queens,11377
+2017-07-31,Cane Corso,Male,No,Queens,11361
+2017-07-31,Shih Tzu - Yorkshire Mix,Male,Yes,Queens,11367
+2017-07-31,Spaniel Mixed Breed,Male,Yes,Queens,11102
+2017-08-01,German Shepherd,Female,No,Queens,11419
+2017-08-01,Mixed Breed,Female,No,Queens,11368
+2017-07-30,Dogo,Male,No,Queens,11423
+2017-08-02,American Pit Bull Mix - Pit Bull Mix,Female,Yes,Queens,11369
+2017-08-03,Unknown,Unknown,No,Queens,11422
+2017-08-02,Unknown,Unknown,No,Queens,NA
+2017-08-02,Bull Dog-French,Male,No,Queens,11374
+2017-08-03,Pit Bull,Unknown,No,Queens,11366
+2017-08-04,Pit Bull Mix,Female,No,Queens,11434
+2017-08-04,Pit Bull,Male,No,Queens,11434
+2017-08-04,Pit Bull Mix (F) And Pit Bull,Male,No,Queens,11434
+2017-08-02,Shih Tzu,Male,No,Queens,NA
+2017-08-04,Pit Bull Mix (F) And Pit Bull (M),Male,No,Queens,11434
+2017-07-28,Boxer Mix,Unknown,No,Queens,11354
+2017-08-06,Mixed Breed,Unknown,No,Queens,NA
+2017-08-05,Unknown,Unknown,No,Queens,11693
+2017-08-05,Unknown,Unknown,No,Queens,11378
+2017-08-06,German Shepherd,Female,Yes,Queens,11368
+2017-08-07,Unknown,Unknown,No,Queens,11377
+2017-08-05,Unknown,Unknown,No,Queens,NA
+2017-08-02,Unknown,Unknown,No,Queens,NA
+2017-08-08,Mixed Breed,Female,No,Queens,11413
+2017-08-08,Pit Bull - Staffordshire,Male,Yes,Queens,11412
+2017-08-08,Boston Terrier,Male,Yes,Queens,11419
+2017-08-08,Boston Terrier,Male,Yes,Queens,11419
+2017-08-04,Maltese - Poodle Mix,Male,Yes,Queens,11361
+2017-08-10,Pomeranian,Male,Yes,Queens,11362
+2017-08-11,Siberian Husky,Unknown,No,Queens,11368
+2017-08-09,Chihuahua,Unknown,No,Queens,NA
+2017-08-09,Yorkshire Terrier,Female,Yes,Queens,11370
+2017-08-11,Cocker Spaniel,Unknown,No,Queens,NA
+2017-08-11,Doberman Pinscher,Female,No,Queens,11354
+2017-08-01,Staffordshire,Female,Yes,Queens,11414
+2017-08-12,Cocker Spaniel,Unknown,No,Queens,NA
+2017-08-12,Rottweiler - Pit Bull Mix,Unknown,No,Queens,11434
+2017-08-12,Rottweiler,Male,No,Queens,11368
+2017-08-12,Pit Bull - Shepherd Mix,Female,Yes,Queens,11375
+2017-08-13,Maltese,Male,Yes,Queens,11372
+2017-08-13,Terrier,Unknown,No,Queens,NA
+2017-08-13,Labrador Retriever,Male,Yes,Queens,11413
+2017-08-13,Shetland Sheepdog,Male,Yes,Queens,11004
+2017-08-02,Saint Bernard,Unknown,No,Queens,11435
+2017-08-14,Chihuahua,Male,Yes,Queens,11373
+2017-08-15,Beagle - Chihuahua Mix,Male,No,Queens,11432
+2017-08-15,"Jindo Dog,",Male,Yes,Queens,11421
+2017-08-15,Unknown,Unknown,No,Queens,NA
+2017-08-15,Unknown,Unknown,No,Queens,11435
+2017-08-16,Pit Bull,Male,Yes,Queens,11385
+2017-08-16,Shiba Inu Mix,Male,Yes,Queens,11361
+2017-08-16,Unknown,Unknown,No,Queens,11104
+2017-08-15,Poodle Mix,Male,Yes,Queens,11368
+2017-08-17,French - English Bull Dog Mix,Female,No,Queens,11417
+2017-08-18,Shih Tzu,Male,Yes,Queens,11365
+2017-08-17,Maltese - Poodle Mix,Male,Yes,Queens,11372
+2017-08-14,Unknown,Unknown,No,Queens,11373
+2017-08-12,Unknown,Unknown,No,Queens,NA
+2017-08-17,Poodle-Standard,Unknown,No,Queens,11433
+2017-08-15,Shih Tzu (Male) & Shih Tzu Mix (Female),Unknown,Yes,Queens,11436
+2017-08-17,American Pit Bull Mix - Pit Bull Mix,Female,Yes,Queens,11385
+2017-08-19,West High White Terrier,Male,Yes,Queens,11357
+2017-08-20,Bichon Frise,Male,No,Queens,11357
+2017-08-20,Unknown,Unknown,No,Queens,NA
+2017-08-21,American Pit Bull Mix - Pit Bull Mix,Male,Yes,Queens,11367
+2017-08-16,Doberman Pinscher,Male,No,Queens,11378
+2017-08-21,Pomeranian,Male,No,Queens,11364
+2017-08-07,Labrador Mix,Male,Yes,Queens,11366
+2017-08-12,Unknown,Unknown,No,Queens,NA
+2017-08-22,American Pit Bull Terrier-Pit Bull,Male,No,Queens,11364
+2017-08-20,Unknown,Unknown,No,Queens,11420
+2017-08-23,Pug,Unknown,No,Queens,11385
+2017-08-24,Pit Bull,Unknown,No,Queens,11418
+2017-08-22,Bull Terrier,Male,No,Queens,11375
+2017-08-24,German Shepherd - Rottweiler Mix,Male,Yes,Queens,11421
+2017-08-25,Bichon Frise,Male,No,Queens,11357
+2017-08-27,Unknown,Unknown,No,Queens,11362
+2017-08-27,Maltese,Male,No,Queens,11433
+2017-08-26,Jack Russ,Male,No,Queens,11368
+2017-08-24,Pit Bull - German Shepherd Mix,Female,No,Queens,11412
+2017-08-20,Pug - Retriever - Shih Tzu Mix,Male,No,Queens,11368
+2017-08-26,Unknown,Unknown,No,Queens,NA
+2017-08-29,Corgi - Beagle Mix,Male,No,Queens,11412
+2017-08-30,Unknown,Unknown,No,Queens,NA
+2017-04-07,Unknown,Unknown,No,Queens,NA
+2017-08-28,Pit Bull,Female,Yes,Queens,11691
+2017-08-30,Shih Tzu - Bichon Mix,Male,Yes,Queens,11427
+2017-08-30,Siberian Husky,Female,Yes,Queens,11430
+2017-08-31,Pit Bull,Unknown,No,Queens,11101
+2017-08-31,Cockapoo Mix,Male,Yes,Queens,11414
+2017-08-31,Shih Tzu,Male,No,Queens,11420
+2017-08-30,Unknown,Unknown,No,Queens,NA
+2017-08-09,Unknown,Unknown,No,Queens,NA
+2017-09-04,Pit Bull - Rottweiler Mix,Female,Yes,Queens,11415
+2017-08-31,Maltese,Male,Yes,Queens,11103
+2017-09-04,Mixed Breed,Male,Yes,Queens,11106
+2017-09-01,Pit Bull,Unknown,No,Queens,11434
+2017-09-02,Cocker Spaniel,Unknown,No,Queens,11354
+2017-09-01,Maltese,Unknown,No,Queens,11432
+2017-09-03,Pit Bull,Unknown,No,Queens,11102
+2017-09-04,Chihuahua,Unknown,No,Queens,11104
+2017-09-04,Unknown,Unknown,No,Queens,11421
+2017-09-05,Unknown,Unknown,No,Queens,11420
+2017-09-05,Wheaton Terrier,Male,Yes,Queens,11377
+2017-09-06,Unknown,Unknown,No,Queens,11358
+2017-09-04,Unknown,Unknown,No,Queens,NA
+2017-09-05,Yorkshire Terrier,Male,No,Queens,11355
+2017-09-06,Rottweiler,Male,No,Queens,11693
+2017-07-30,Unknown,Unknown,No,Queens,11354
+2017-09-06,Pit Bull,Unknown,No,Queens,11368
+2017-09-07,Cocker Spaniel,Male,Yes,Queens,11102
+2017-08-11,Unknown,Unknown,No,Queens,11374
+2017-09-09,Unknown,Unknown,No,Queens,11433
+2017-09-09,Pug And French Bull Mix,Unknown,No,Queens,11377
+2017-09-10,German Shepherd Mix,Male,Yes,Queens,11357
+2017-09-10,Pomeranian - Poodle Mix,Male,No,Queens,11372
+2017-09-11,Pit Bull - Labrador Mix,Female,Yes,Queens,11435
+2017-09-07,Terrier Mix,Male,Yes,Queens,11367
+2017-09-12,Poodle - French Bull Dog,Male,Yes,Queens,11374
+2017-09-11,Chihuahua,Male,No,Queens,11363
+2017-09-11,Mixed Breed,Unknown,No,Queens,11354
+2017-09-11,Unknown,Unknown,No,Queens,NA
+2017-09-13,American Pit Bull Terrier-Pit Bull,Male,No,Queens,11435
+2017-09-13,Coated Xolo,Female,Yes,Queens,11369
+2017-09-13,Labrador - Pit Bull Mix,Female,Yes,Queens,11427
+2017-09-14,Pit Bull,Male,No,Queens,11434
+2017-09-03,Pit Bull,Male,No,Queens,11377
+2017-09-13,Rottweiler,Male,No,Queens,11385
+2017-09-14,Pit Bull,Unknown,No,Queens,11433
+2017-09-11,Unknown,Unknown,No,Queens,NA
+2017-09-15,Siberian Husky,Unknown,No,Queens,11377
+2017-09-17,Shiba Inu,Female,No,Queens,11355
+2017-09-16,Golden Retriever,Unknown,No,Queens,11355
+2017-09-17,German Shepherd,Male,No,Queens,11421
+2017-09-16,Shih Tzu,Female,No,Queens,11369
+2017-09-16,Pomeranian Mix,Male,Yes,Queens,11104
+2017-09-17,Cane Corso,Male,Yes,Queens,11379
+2017-08-19,Unknown,Unknown,No,Queens,11364
+2017-09-14,Jack Russ,Male,No,Queens,11358
+2017-09-17,American Staffordshire Terrier - Pit Bull,Female,Yes,Queens,11358
+2017-09-09,Multi Poo,Unknown,No,Queens,11354
+2017-09-14,Cocker Spaniel - Beagle Mix,Male,No,Queens,11354
+2017-09-18,Labrador Retriever,Unknown,No,Queens,11375
+2017-09-20,Rottweiler,Unknown,No,Queens,11105
+2017-09-19,Lhasa Apso Mix,Female,Yes,Queens,11372
+2017-09-20,Chihuahua Mix,Male,No,Queens,11372
+2017-09-15,Unknown,Unknown,No,Queens,11367
+2017-09-20,Yorkshire Terrier,Male,Yes,Queens,11355
+2017-09-20,Unknown,Unknown,No,Queens,11103
+2017-09-21,American Staffordshire - Pit Bull Mix,Male,No,Queens,11418
+2017-09-21,American Staffordshire - Pit Bull,Male,No,Queens,11418
+2017-09-13,Pit Bull -German Shepherd Mix,Female,No,Queens,11434
+2017-09-22,Pomeranian,Female,Yes,Queens,11372
+2017-09-24,Pit Bull,Unknown,No,Queens,11368
+2017-09-24,Unknown,Unknown,No,Queens,11373
+2017-09-22,Shih Tzu,Male,No,Queens,11417
+2017-09-25,Puggle,Male,Yes,Queens,11358
+2017-09-22,Siberian Husky,Unknown,No,Queens,11372
+2017-09-22,Pointer,Unknown,No,Queens,11377
+2017-09-23,Mixed Breed (Mini Aussie Mix),Female,Yes,Queens,11365
+2017-09-23,Bull Terrier,Male,No,Queens,NA
+2017-09-25,American Pit Bull Mix - Pit Bull Mix,Female,No,Queens,11373
+2017-09-24,German Shepherd,Female,Yes,Queens,11375
+2017-09-25,German Pinscher,Male,Yes,Queens,11370
+2017-09-25,Pit Bull,Male,No,Queens,11357
+2017-09-26,American Stafford Mix,Female,Yes,Queens,11105
+2017-09-26,Maltese,Unknown,No,Queens,11421
+2017-09-27,Unknown,Unknown,No,Queens,11372
+2017-10-01,Beagle Mix,Male,No,Queens,11106
+2017-09-30,Pit Bull,Female,No,Queens,11429
+2017-09-28,Mixed Breed,Female,Yes,Queens,11697
+2017-09-27,Unknown,Unknown,No,Queens,11436
+2017-10-01,Pit Bull,Male,No,Queens,11691
+2017-09-23,Unknown,Unknown,No,Queens,NA
+2017-10-04,American Pit Bull Mix - Pit Bull Mix,Unknown,No,Queens,11365
+2017-09-22,Pit Bull,Male,No,Queens,11385
+2017-09-29,Bull Dog-English,Male,No,Queens,11354
+2017-09-30,Jindo - Jack Russ Mix,Female,Yes,Queens,11373
+2017-10-06,Pomeranian - Chihuahua Mix,Male,Yes,Queens,11433
+2017-10-01,Jack Russ,Male,No,Queens,11368
+2017-10-04,Unknown,Unknown,No,Queens,NA
+2017-10-06,Poodle-Toy,Female,No,Queens,11368
+2017-10-05,Unknown,Unknown,No,Queens,11375
+2017-10-06,Unknown,Unknown,No,Queens,NA
+2017-10-08,Pit Bull Mix,Male,Yes,Queens,11103
+2017-10-09,Siberian Husky Mix,Female,No,Queens,11354
+2017-10-09,American Pit Bull Mix - Pit Bull Mix,Male,No,Queens,11368
+2017-09-15,Siberian Husky,Female,Yes,Queens,11365
+2017-09-01,Shih Tzu,Male,Yes,Queens,11357
+2017-10-12,American Eskimo,Male,No,Queens,11420
+2017-10-07,Unknown,Unknown,No,Queens,NA
+2017-10-10,Unknown,Unknown,No,Queens,NA
+2017-10-11,West High White Terrier,Male,Yes,Queens,11435
+2017-10-12,Maltese,Female,No,Queens,11356
+2017-10-11,Cocker Spaniel - Poodle Mix,Male,Yes,Queens,11377
+2017-10-13,Unknown,Unknown,No,Queens,11375
+2017-10-12,Pit Bull,Unknown,No,Queens,11435
+2017-10-15,Bull Dog-English,Male,No,Queens,11369
+2017-10-16,Unknown,Unknown,No,Queens,11106
+2017-10-13,Pit Bull,Male,Yes,Queens,11691
+2017-10-07,Pit Bull - Labrador Mix,Male,Yes,Queens,11418
+2017-10-10,Cane Charles - Shih Tzu Mix,Male,Yes,Queens,NA
+2017-10-10,Pit Bull,Unknown,No,Queens,NA
+2017-10-14,Boxer,Unknown,No,Queens,NA
+2017-10-18,American Pit Bull Mix - Pit Bull Mix,Female,Yes,Queens,11417
+2017-10-17,Unknown,Unknown,No,Queens,NA
+2017-10-18,Dachshund,Male,Yes,Queens,11420
+2017-10-14,Unknown,Unknown,No,Queens,NA
+2017-10-17,Pomeranian,Male,No,Queens,11368
+2017-10-22,Shih Tzu Mix,Male,Yes,Queens,11358
+2017-10-21,Doberman Pinscher,Male,No,Queens,11414
+2017-10-21,Shih Tzu,Female,Yes,Queens,11373
+2017-10-21,Siberian Husky,Male,No,Queens,11004
+2017-10-21,Pit Bull,Unknown,No,Queens,11432
+2017-10-21,Shepherd - Greyhound Mix,Male,Yes,Queens,11423
+2017-10-22,Boxer,Male,Yes,Queens,11106
+2017-10-21,Golden Retriever - Doodle Mix,Female,No,Queens,11385
+2017-10-22,Unknown,Unknown,No,Queens,11106
+2017-10-21,Unknown,Unknown,No,Queens,11697
+2017-10-23,German Shepherd,Male,Yes,Queens,11435
+2017-10-20,Siberian Husky,Female,Yes,Queens,NA
+2017-10-22,Shih Tzu,Male,No,Queens,11372
+2017-10-18,Unknown,Unknown,No,Queens,11377
+2017-10-23,Cocker Spaniel,Male,No,Queens,11435
+2017-10-23,Pit Bull,Male,Yes,Queens,11358
+2017-10-24,German Shepherd,Unknown,No,Queens,NA
+2017-10-24,Unknown,Unknown,No,Queens,NA
+2017-10-25,Shih Tzu - Poodle Mix,Male,Yes,Queens,11106
+2017-10-24,German Shepherd,Female,No,Queens,11368
+2017-10-28,Labrador Retriever,Unknown,No,Queens,11419
+2017-10-26,Yorkshire Terrier,Female,No,Queens,11369
+2017-10-28,Unknown,Unknown,No,Queens,11433
+2017-10-28,Bichon Frise - Poodle Mix,Male,Yes,Queens,11377
+2017-10-28,American Pit Bull Terrier-Pit Bull,Male,Yes,Queens,11361
+2017-10-28,Labrador Mix,Male,Yes,Queens,11106
+2017-10-30,Labrador - Hound Mix,Female,Yes,Queens,11377
+2017-10-30,Pit Bull,Unknown,No,Queens,11358
+2017-10-30,Chihuahua - Dachshung Mix,Male,Yes,Queens,11426
+2017-08-28,Yorkshire Terrier,Male,Yes,Queens,11379
+2017-10-08,Yorkshire Terrier,Male,Yes,Queens,11379
+2017-10-21,Pit Bull - Labrador Mix,Male,Yes,Queens,11365
+2017-10-30,Bull Dog-English,Male,Yes,Queens,11378
+2017-10-29,Pit Bull,Unknown,No,Queens,11385
+2017-10-12,Labrador Retriever,Unknown,No,Queens,11355
+2017-10-31,Chihuahua Mix,Male,No,Queens,11368
+2017-10-31,Cocker Spaniel,Male,Yes,Queens,11373
+2017-11-01,Bichon Frise,Male,No,Queens,11373
+2017-11-02,Hound Mix,Male,Yes,Queens,11104
+2017-11-02,Schnauzer-Standard,Male,Yes,Queens,11102
+2017-11-04,Mixed,Male,Yes,Queens,11429
+2017-11-03,Chihuahua,Unknown,No,Queens,11691
+2017-11-07,Yorkie Chon,Male,Yes,Queens,11368
+2017-11-04,Unknown,Unknown,No,Queens,11385
+2017-11-06,Pit Bull,Unknown,No,Queens,NA
+2017-11-08,Boxer,Unknown,No,Queens,NA
+2017-11-08,Shiba Inu,Male,Yes,Queens,11368
+2017-11-08,Pit Bull,Male,Yes,Queens,11368
+2017-11-10,Maltese,Female,No,Queens,11355
+2017-11-10,American Pit Bull Mix - Pit Bull Mix,Female,No,Queens,11367
+2017-11-10,Labrador - Hound Mix,Male,No,Queens,11433
+2017-11-11,Cocker Spaniel,Female,Yes,Queens,11364
+2017-11-12,Bull Dog,Unknown,No,Queens,11429
+2017-11-13,Pit Bull,Unknown,No,Queens,NA
+2017-11-11,Pit Bull,Unknown,No,Queens,11417
+2017-11-08,Unknown,Unknown,No,Queens,NA
+2017-11-11,Unknown,Unknown,No,Queens,NA
+2017-11-13,Beagle,Male,Yes,Queens,11365
+2017-11-13,Labrador Retriever,Unknown,No,Queens,11417
+2017-11-11,Yorkshire Terrier,Unknown,No,Queens,NA
+2017-11-13,Unknown,Unknown,No,Queens,NA
+2017-11-15,Pit Bull,Male,No,Queens,11367
+2017-11-15,Mixed Breed,Male,Yes,Queens,11360
+2017-11-15,Chihuahua,Female,Yes,Queens,11356
+2017-11-16,American Bully,Female,Yes,Queens,11377
+2017-11-17,Unknown,Unknown,No,Queens,11356
+2017-11-18,Maltese,Male,Yes,Queens,11364
+2017-11-17,Bull Dog,Male,No,Queens,11412
+2017-11-19,Bull Dog-French,Male,No,Queens,11354
+2017-11-19,Unknown,Unknown,No,Queens,11414
+2017-11-17,Unknown,Unknown,No,Queens,11427
+2017-11-17,Unknown,Unknown,No,Queens,NA
+2017-11-17,English Sheepdog,Female,No,Queens,11364
+2017-11-20,Shih Tzu - Poodle Mix,Male,No,Queens,11434
+2017-11-20,Pit Bull,Unknown,No,Queens,NA
+2017-11-22,German Sheperd - Pit Bull Mix,Unknown,No,Queens,11420
+2017-11-22,Terrier,Unknown,No,Queens,11368
+2017-11-21,Boston Terrier,Female,Yes,Queens,11105
+2017-11-22,Pekingese,Male,Yes,Queens,11354
+2017-11-24,Shih Tzu,Male,No,Queens,11432
+2017-11-25,Pit Bull,Unknown,No,Queens,NA
+2017-11-08,Chihuahua,Female,Yes,Queens,11357
+2017-11-19,Labrador Mix,Male,Yes,Queens,11372
+2017-11-18,Unknown,Unknown,No,Queens,NA
+2017-11-28,Pit Bull,Unknown,No,Queens,NA
+2017-10-30,German Shepherd,Male,No,Queens,11432
+2017-11-28,Siberian Husky,Female,Yes,Queens,11364
+2017-11-27,American Pit Bull Mix - Pit Bull Mix,Female,Yes,Queens,11356
+2017-11-30,Boston Terrier,Female,Yes,Queens,11373
+2017-12-02,Labrador Retriever,Unknown,No,Queens,11372
+2017-12-03,Yorkshire Terrier,Unknown,No,Queens,11427
+2017-11-17,Yorkshire Terrier Crossbreed,Unknown,No,Queens,11419
+2017-12-04,Siberian Husky,Unknown,No,Queens,NA
+2017-12-02,Pit Bull,Unknown,No,Queens,NA
+2017-11-26,Terrier,Unknown,No,Queens,11691
+2017-12-02,Mixed Breed,Male,No,Queens,11422
+2017-12-06,Unknown,Unknown,No,Queens,NA
+2017-12-04,Maltese,Female,Yes,Queens,11358
+2017-12-04,Beagle Mix,Female,Yes,Queens,11375
+2017-12-08,Beagle Mix,Male,Yes,Queens,11418
+2017-12-03,Siberian Husky,Male,Yes,Queens,11434
+2017-12-09,Maltese,Unknown,No,Queens,11368
+2017-12-07,Yorkie - Jack Russell Mix,Female,No,Queens,11372
+2017-12-07,Shar-Pei - Beagle Mix,Male,Yes,Queens,11372
+2017-12-08,Unknown,Unknown,No,Queens,NA
+2017-12-13,Beagle Mix,Female,Yes,Queens,11102
+2017-12-13,Unknown,Unknown,No,Queens,NA
+2017-12-10,Cockapoo,Male,Yes,Queens,11375
+2017-12-13,Poodle-Toy,Unknown,No,Queens,11375
+2017-12-14,Maltese,Male,No,Queens,11368
+2017-12-16,Collie Mix,Male,No,Queens,11358
+2017-12-16,Unknown,Unknown,No,Queens,NA
+2017-12-16,Bull Dog-French,Male,No,Queens,11358
+2017-12-17,Pit Bull,Male,No,Queens,11372
+2017-12-18,Unknown,Unknown,No,Queens,11357
+2017-12-08,Dachshund,Unknown,No,Queens,11105
+2017-12-12,Maltese,Male,Yes,Queens,NA
+2017-12-19,German Shepherd,Male,Yes,Queens,11377
+2017-12-19,Unknown,Unknown,No,Queens,11379
+2017-12-18,Pit Bull,Unknown,No,Queens,NA
+2017-12-20,Collie,Female,No,Queens,11362
+2017-12-20,Pit Bull,Unknown,No,Queens,11693
+2017-12-21,Unknown,Unknown,No,Queens,NA
+2017-12-22,Poodle-Standard,Male,No,Queens,11435
+2017-12-22,Pug - Jack Russ Mix,Female,Yes,Queens,11105
+2017-12-22,Beagle,Male,No,Queens,11422
+2017-12-25,Pit Bull,Unknown,No,Queens,11417
+2017-12-09,Pit Bull - Boston Terrier Mix,Male,Yes,Queens,11385
+2017-12-26,Chihuahua,Male,No,Queens,11354
+2017-12-20,Schnauzer-Miniature,Male,Yes,Queens,11385
+2017-12-27,Unknown,Unknown,No,Queens,NA
+2017-12-26,Pit Bull,Unknown,No,Queens,11691
+2017-12-25,Mixed Breed,Male,No,Queens,11385
+2017-12-29,Pomeranian,Female,No,Queens,11355
+2017-12-30,Poodle - Maltese Mix,Female,No,Queens,11103
+2017-12-31,American Pit Bull Mix - Pit Bull Mix,Male,Yes,Queens,11434
+2017-12-21,Dachshund - Poodle Mix,Male,No,Queens,11365
+2017-12-27,Pit Bull Mix - Terrier Mix,Male,Yes,Queens,11434
+2017-12-29,Mixed Breed,Male,No,Queens,NA
+2017-12-27,Shar-Pei-Chinese,Female,Yes,Queens,11358
+2017-12-03,Miniature Pinscher,Unknown,No,Queens,11416
+2017-09-10,Wheaton Terrier,Unknown,No,Queens,11418
+2017-01-01,Pit Bull,Female,No,Staten Island,NA
+2017-01-04,Poodle-Standard,Unknown,No,Staten Island,NA
+2017-01-01,Pit Bull,Unknown,No,Staten Island,10314
+2017-01-06,Pit Bull,Female,No,Staten Island,10301
+2017-01-04,Mixed-Other,Male,No,Staten Island,NA
+2017-01-10,Pit Bull,Male,No,Staten Island,NA
+2017-01-08,Maltese,Unknown,No,Staten Island,10306
+2017-01-10,Russell Terrier,Male,Yes,Staten Island,NA
+2017-01-14,Rottweiler,Male,Yes,Staten Island,10305
+2017-01-14,Mixed-Other,Unknown,No,Staten Island,NA
+2017-01-15,Terrier,Unknown,No,Staten Island,10308
+2017-01-18,Pit Bull,Unknown,No,Staten Island,10301
+2017-01-20,Labrador Retriever,Unknown,No,Staten Island,NA
+2017-01-22,Australian Shepherd,Male,Yes,Staten Island,10303
+2017-01-18,Pit Bull,Male,No,Staten Island,10308
+2017-01-28,Pit Bull Mix,Male,Yes,Staten Island,10308
+2017-01-28,Pit Bull,Female,Yes,Staten Island,10306
+2017-01-30,Pit Bull,Unknown,No,Staten Island,10302
+2017-01-31,Beagle,Male,Yes,Staten Island,10314
+2017-02-01,German Shepherd,Male,Yes,Staten Island,10314
+2017-01-30,Pit Bull,Unknown,No,Staten Island,NA
+2017-02-06,Pit Bull,Male,No,Staten Island,10312
+2017-02-05,Lhasa Apso Mix,Male,Yes,Staten Island,10306
+2017-02-06,Pit Bull,Male,No,Staten Island,10303
+2017-02-06,Yorkshire Terrier,Male,Yes,Staten Island,10312
+2017-02-07,Akita,Male,No,Staten Island,NA
+2017-02-08,Pit Bull,Male,Yes,Staten Island,10310
+2017-02-12,Pit Bull,Male,Yes,Staten Island,10303
+2017-02-18,Pit Bull,Unknown,No,Staten Island,NA
+2017-02-18,Brussel-Pu,Male,Yes,Staten Island,10314
+2017-02-20,Pit Bull,Unknown,No,Staten Island,10314
+2017-02-13,Puggle,Female,Yes,Staten Island,10305
+2017-02-14,Pit Bull Mix,Female,No,Staten Island,10301
+2017-02-17,Pit Bull,Male,No,Staten Island,10303
+2017-02-18,Pit Bull,Male,No,Staten Island,10303
+2017-02-24,Beagle,Female,No,Staten Island,10314
+2017-02-25,Chihuahua,Male,Yes,Staten Island,10306
+2017-02-24,Pit Bull,Unknown,No,Staten Island,NA
+2017-02-27,Jack Russ,Female,No,Staten Island,10312
+2017-03-06,Pit Bull,Female,Yes,Staten Island,10301
+2017-03-09,Bull Dog,Male,No,Staten Island,10304
+2017-03-03,Pit Bull,Female,Yes,Staten Island,10301
+2017-03-16,Schnauzer Poodle Mix,Male,No,Staten Island,10306
+2017-02-28,Jack Russ,Male,Yes,Staten Island,10312
+2017-03-19,Dalmatian,Male,Yes,Staten Island,10306
+2017-03-19,Boxer,Male,Yes,Staten Island,NA
+2017-03-20,Schnauzer,Unknown,No,Staten Island,10309
+2017-03-20,Sheperd,Unknown,No,Staten Island,10314
+2017-03-21,Boston Terrier,Male,Yes,Staten Island,10314
+2017-03-21,Boxer,Male,Yes,Staten Island,10309
+2017-03-21,Pekingese -Poodie Mix,Male,Yes,Staten Island,10314
+2017-03-19,Labrador - Pit Bull Mix,Male,Yes,Staten Island,10309
+2017-03-15,Pit Bull - Beagle Mix,Male,Yes,Staten Island,10312
+2017-03-20,German Shepherd,Unknown,No,Staten Island,10309
+2017-03-21,Labrador Retriever,Male,Yes,Staten Island,10312
+2017-03-23,Scottish Terrier,Male,Yes,Staten Island,10314
+2017-03-24,Pit Bull,Female,No,Staten Island,10314
+2017-03-21,Pit Bull,Male,Yes,Staten Island,10306
+2017-03-19,American Pit Bull Mix - Pit Bull Mix,Male,No,Staten Island,10301
+2017-03-25,Terrier,Unknown,No,Staten Island,NA
+2017-03-23,Golden Retriever,Female,Yes,Staten Island,10309
+2017-03-28,Terrier,Unknown,No,Staten Island,10308
+2017-03-21,Maltese,Male,Yes,Staten Island,10310
+2017-04-01,Pit Bull,Male,No,Staten Island,NA
+2017-04-01,Pit Bull,Male,No,Staten Island,NA
+2017-04-03,Pit Bull,Unknown,No,Staten Island,10314
+2017-04-08,Chihuahua Mix,Male,Yes,Staten Island,10314
+2017-04-07,American Pit Bull Terrier-Pit Bull,Male,No,Staten Island,10310
+2017-04-08,Yorkshire Terrier,Unknown,No,Staten Island,10312
+2017-04-10,Mixed-Other,Unknown,No,Staten Island,NA
+2017-04-09,Pug Mix,Female,No,Staten Island,10312
+2017-04-10,Shih Tzu,Unknown,No,Staten Island,10304
+2017-04-11,Husky,Unknown,No,Staten Island,NA
+2017-04-11,Pit Bull,Female,Yes,Staten Island,10314
+2017-04-12,Pit Bull,Unknown,No,Staten Island,10310
+2017-04-15,Cane Corso,Male,No,Staten Island,10306
+2017-04-18,Pit Bull,Male,No,Staten Island,10305
+2017-04-14,Rhodesian Ridgeback,Male,No,Staten Island,10310
+2017-04-13,Bull Dog-French,Male,No,Staten Island,NA
+2017-04-13,Maltese,Male,No,Staten Island,10304
+2017-04-03,Italian Masiff,Male,No,Staten Island,10306
+2017-04-03,Italian Masif,Male,No,Staten Island,10306
+2017-04-16,Pit Bull,Male,Yes,Staten Island,10308
+2017-04-17,German Shepherd,Male,No,Staten Island,NA
+2017-04-16,German Shepherd,Unknown,No,Staten Island,NA
+2017-04-02,Mixed-Other,Male,Yes,Staten Island,10312
+2017-04-28,Pit Bull,Unknown,No,Staten Island,10310
+2017-04-29,Mixed-Other,Unknown,No,Staten Island,10305
+2017-05-02,Maltese,Male,Yes,Staten Island,10309
+2017-05-02,Bosten Terrier- French Bull Dog,Male,Yes,Staten Island,10314
+2017-05-01,Pit Bull,Female,Yes,Staten Island,10306
+2017-04-30,Beaver Terriers,Male,Yes,Staten Island,10314
+2017-05-03,Pit Bull,Male,No,Staten Island,10303
+2017-05-02,Yorkshire Terrier,Female,No,Staten Island,10304
+2017-05-06,Labrador-Staffordshire,Male,Yes,Staten Island,10314
+2017-05-07,Chihuahua Crossbreed,Male,Yes,Staten Island,10314
+2017-05-08,Portuguese Water Dog,Male,Yes,Staten Island,10306
+2017-05-08,German Shepherd,Male,No,Staten Island,NA
+2017-04-27,Shiba Inu,Female,No,Staten Island,10308
+2017-05-02,Hound Mutt Mix,Male,Yes,Staten Island,10309
+2017-05-11,Pit Bull,Female,No,Staten Island,10306
+2017-05-12,Chihuahua,Male,Yes,Staten Island,NA
+2017-05-14,Yorkshire Terrier,Male,Yes,Staten Island,10306
+2017-05-13,Maltese,Unknown,Yes,Staten Island,NA
+2017-05-19,German Shepherd,Male,Yes,Staten Island,NA
+2017-05-19,Shih Tzu,Male,No,Staten Island,NA
+2017-05-16,German Shepherd,Male,No,Staten Island,10309
+2017-05-19,Labrador Retriever Crossbreed,Male,Yes,Staten Island,10306
+2017-05-22,Maltipoo,Male,Yes,Staten Island,10307
+2017-05-23,Pit Bull,Male,No,Staten Island,10309
+2017-05-23,German Shepherd,Male,No,Staten Island,10314
+2017-05-26,Labrador Retriever,Male,Yes,Staten Island,10314
+2017-05-28,Labrador Retriever,Unknown,No,Staten Island,NA
+2017-05-30,German Shepherd,Female,Yes,Staten Island,10309
+2017-05-21,Pit Bull,Unknown,No,Staten Island,10301
+2017-05-31,Pit Bull,Male,Yes,Staten Island,10314
+2017-06-03,Pit Bull,Unknown,No,Staten Island,NA
+2017-06-05,American Staffordshire Terrier,Female,No,Staten Island,10314
+2017-06-05,Siberian Husky,Male,No,Staten Island,10312
+2017-06-06,Mixed-Other,Unknown,No,Staten Island,NA
+2017-06-04,Chihuahua,Male,Yes,Staten Island,10304
+2017-05-31,German Shepherd,Male,No,Staten Island,NA
+2017-05-31,Boston Terrier,Male,Yes,Staten Island,NA
+2017-06-07,Jack Russ,Male,Yes,Staten Island,10305
+2017-06-08,Miniature Pinscher,Male,Yes,Staten Island,10308
+2017-06-07,Beagle Mix,Male,Yes,Staten Island,10305
+2017-06-07,Mixed Breed,Male,Yes,Staten Island,10312
+2017-06-08,Pit Bull,Male,No,Staten Island,10312
+2017-06-08,Cane Corso,Male,No,Staten Island,10306
+2017-06-12,English Terrior,Male,No,Staten Island,NA
+2017-06-10,Great Dane,Male,No,Staten Island,10312
+2017-06-15,Chihuahua,Male,Yes,Staten Island,10310
+2017-06-18,Rottweiler,Male,No,Staten Island,10306
+2017-06-16,Springer Spaniel,Male,Yes,Staten Island,NA
+2017-06-20,Shiba Inu,Female,Yes,Staten Island,10310
+2017-06-20,Pit Bull,Male,Yes,Staten Island,10314
+2017-06-21,Shih Tzu- Poodle Mix,Female,Yes,Staten Island,10310
+2017-06-15,Pit Bull,Male,No,Staten Island,10304
+2017-06-22,Shiba Inu,Male,No,Staten Island,10314
+2017-06-22,German Shepherd,Male,Yes,Staten Island,10314
+2017-06-23,Pit Bull,Unknown,No,Staten Island,NA
+2017-06-25,Maltese,Female,No,Staten Island,10301
+2017-06-24,Rottweiler,Female,No,Staten Island,NA
+2017-06-25,Rottweiler,Female,Yes,Staten Island,10314
+2017-06-22,Golden Retriever- Basset Hound,Male,Yes,Staten Island,10312
+2017-06-26,German Shepherd,Female,No,Staten Island,10307
+2017-07-02,Chihuahua,Unknown,No,Staten Island,10314
+2017-07-01,Collie-Rough Coat,Male,No,Staten Island,10312
+2017-07-03,Staffordshire Bull Terrier,Male,No,Staten Island,10314
+2017-06-26,Boxer,Female,Yes,Staten Island,10308
+2017-07-06,Cocker Spaniel,Unknown,No,Staten Island,NA
+2017-07-06,Pomeranian,Female,Yes,Staten Island,10301
+2017-07-10,Silky Terrier,Male,No,Staten Island,NA
+2017-07-09,Pit Bull,Female,No,Staten Island,10305
+2017-07-11,Poodle-Miniature,Unknown,No,Staten Island,NA
+2017-07-04,Pit Bull Mix,Female,No,Staten Island,10314
+2017-07-11,Pit Bull,Unknown,No,Staten Island,10312
+2017-07-16,German Shepherd,Unknown,No,Staten Island,10314
+2017-07-17,Yorkshire Terrier,Male,No,Staten Island,10304
+2017-07-17,Pit Bull,Unknown,No,Staten Island,10302
+2017-07-21,Chihuahua,Male,Yes,Staten Island,10314
+2017-07-08,Beagle,Male,Yes,Staten Island,10303
+2017-07-24,Rottweiler,Male,No,Staten Island,10312
+2017-07-27,Pit Bull,Male,No,Staten Island,10301
+2017-07-27,Pit Bull,Male,No,Staten Island,10301
+2017-07-30,Labrador Retriever,Male,Yes,Staten Island,10306
+2017-07-30,Yorkshire Terrier,Unknown,No,Staten Island,NA
+2017-08-01,German Shepherd,Male,Yes,Staten Island,10314
+2017-07-28,Pit Bull,Female,No,Staten Island,NA
+2017-08-02,Akita,Male,No,Staten Island,NA
+2017-08-02,Mastiff-Bull,Male,No,Staten Island,10309
+2017-07-23,Shih Tzu,Male,No,Staten Island,10309
+2017-07-20,Mixed-Other,Male,Yes,Staten Island,10312
+2017-07-21,Chihuahua,Male,No,Staten Island,10314
+2017-07-27,Pit Bull Mix,Female,Yes,Staten Island,NA
+2017-07-28,Jack Russ,Female,Yes,Staten Island,10309
+2017-08-05,Pit Bull,Unknown,No,Staten Island,10309
+2017-08-05,Pit Bull,Male,Yes,Staten Island,10312
+2017-08-06,Pit Bull,Male,No,Staten Island,10305
+2017-08-04,Chihuahua,Male,No,Staten Island,10314
+2017-08-10,Beagle,Male,Yes,Staten Island,10314
+2017-08-10,Mixed-Other,Male,Yes,Staten Island,10308
+2017-08-10,Rottweiler,Male,No,Staten Island,NA
+2017-08-15,Beagle,Unknown,No,Staten Island,NA
+2017-08-16,Pit Bull,Male,No,Staten Island,10301
+2017-08-14,Rottweiler,Unknown,No,Staten Island,NA
+2017-08-14,Rottweiler,Unknown,No,Staten Island,NA
+2017-08-13,Siberian Husky,Male,No,Staten Island,10309
+2017-08-13,Bull Dog,Unknown,No,Staten Island,10309
+2017-08-11,American Bull Dog,Male,No,Staten Island,10305
+2017-08-20,Mixed-Other,Unknown,No,Staten Island,NA
+2017-08-23,Boston Terrier,Male,Yes,Staten Island,NA
+2017-08-23,Pit Bull,Male,Yes,Staten Island,10312
+2017-08-23,Yorkshire Terrier,Female,Yes,Staten Island,10306
+2017-08-25,Mixed Breed,Unknown,No,Staten Island,10305
+2017-08-26,German Shepherd,Unknown,No,Staten Island,NA
+2017-08-30,Cocker Spaniel,Male,Yes,Staten Island,10306
+2017-08-25,American Pit Bull Terrier-Pit Bull,Female,Yes,Staten Island,10302
+2017-08-30,Yorkshire Terrier,Male,Yes,Staten Island,10314
+2017-08-31,Australian Shepherd,Unknown,Yes,Staten Island,NA
+2017-09-04,Pit Bull,Unknown,No,Staten Island,10301
+2017-09-04,German Shepherd,Male,Yes,Staten Island,10302
+2017-09-05,American Staffordshire Terrier,Female,Yes,Staten Island,10306
+2017-08-27,Pit Bull,Unknown,No,Staten Island,NA
+2017-09-03,Chow Chow,Male,No,Staten Island,NA
+2017-09-04,Hound Mix,Female,Yes,Staten Island,NA
+2017-09-06,Pit Bull,Female,No,Staten Island,10303
+2017-09-08,Mixed-Other,Male,No,Staten Island,10310
+2017-09-01,Labrador Retriever,Male,Yes,Staten Island,10308
+2017-09-10,Chihuahua,Unknown,No,Staten Island,NA
+2017-09-10,Shitzu Mix,Male,Yes,Staten Island,10312
+2017-09-18,Pit Bull,Unknown,No,Staten Island,NA
+2017-09-17,Pit Bull,Male,No,Staten Island,10312
+2017-09-17,Terrier Mix,Male,No,Staten Island,10309
+2017-09-20,Mastiff-Bull,Unknown,No,Staten Island,NA
+2017-09-20,Bull Dog,Unknown,No,Staten Island,10312
+2017-09-19,Terrier-Jack Russ,Male,Yes,Staten Island,10301
+2017-09-24,Shih Tzu,Male,Yes,Staten Island,10314
+2017-10-01,Dachshund Smooth Coat,Male,No,Staten Island,10312
+2017-10-02,Labrador Retriever,Male,No,Staten Island,10301
+2017-10-03,Labrador Retriever,Male,Yes,Staten Island,10304
+2017-10-03,Laborador Mastiff,Male,Yes,Staten Island,10308
+2017-10-03,Mixed-Other,Male,Yes,Staten Island,10309
+2017-09-22,Dachshund-Wirehaired-Miniature,Male,Yes,Staten Island,10306
+2017-10-05,Labrador - Great Dane Mix,Female,Yes,Staten Island,10305
+2017-09-29,Pit Bull,Male,No,Staten Island,NA
+2017-10-04,Golden Retriever,Male,No,Staten Island,10312
+2017-10-09,Pit Bull,Male,Yes,Staten Island,10306
+2017-10-11,German Shepherd,Male,No,Staten Island,10310
+2017-10-12,Pit Bull,Female,No,Staten Island,10307
+2017-10-13,Labrador Retriever,Unknown,No,Staten Island,10303
+2017-10-15,Rottweiler,Male,No,Staten Island,10314
+2017-10-16,Pomeranian,Female,Yes,Staten Island,10312
+2017-10-19,Yorkshire Terrier,Unknown,No,Staten Island,10312
+2017-10-18,Labrador Retriever,Male,Yes,Staten Island,10308
+2017-10-20,American Staffordshire Terrier,Male,Yes,Staten Island,10312
+2017-10-23,Pit Bull,Unknown,No,Staten Island,NA
+2017-10-24,West High White Terrier,Female,Yes,Staten Island,10309
+2017-10-21,Pit Bull,Female,No,Staten Island,10304
+2017-10-26,Pit Bull,Male,No,Staten Island,10304
+2017-10-29,Shih Tzu,Female,No,Staten Island,10314
+2017-10-31,Saint Bernard,Unknown,No,Staten Island,NA
+2017-10-31,Chihuahua,Male,Yes,Staten Island,10310
+2017-11-03,Lhasa Apso,Female,No,Staten Island,10308
+2017-10-22,Beagle Mixed,Male,Yes,Staten Island,10312
+2017-11-05,West High White Terrier,Male,Yes,Staten Island,10312
+2017-11-04,Yorkshire Terrier,Male,Yes,Staten Island,10314
+2017-11-02,Medium Mixed Breed,Male,No,Staten Island,10312
+2017-10-30,Australian Shepherd,Male,Yes,Staten Island,NA
+2017-11-06,Norfolk Terrier,Male,Yes,Staten Island,10314
+2017-11-06,Cocker Spaniel,Male,Yes,Staten Island,10312
+2017-11-07,Shih Tzu Habanese Mix,Male,Yes,Staten Island,10312
+2017-11-15,American Pit Bull Mix - Pit Bull Mix,Male,No,Staten Island,10314
+2017-11-15,Pointer,Unknown,No,Staten Island,NA
+2017-11-10,Boxer & Pit Bull Mix,Female,No,Staten Island,10314
+2017-11-19,Cane Corso,Male,Yes,Staten Island,10314
+2017-11-09,Pit Bull,Unknown,No,Staten Island,10303
+2017-11-16,Maltese,Male,Yes,Staten Island,10312
+2017-11-23,Pit Bull Mix,Female,Yes,Staten Island,10308
+2017-11-27,German Shepherd,Unknown,No,Staten Island,10314
+2017-11-28,Boxer- Pit Bull Mix,Male,Yes,Staten Island,10314
+2017-11-29,Yorkshire Terrier,Unknown,No,Staten Island,NA
+2017-12-05,German Shepherd,Male,No,Staten Island,NA
+2017-12-07,Pit Bull,Unknown,No,Staten Island,NA
+2017-12-10,Shih Tzu,Male,Yes,Staten Island,10312
+2017-12-10,Maltese,Unknown,No,Staten Island,NA
+2017-12-02,Pit Bull,Male,Yes,Staten Island,10310
+2017-12-09,Australian Shepherd,Male,No,Staten Island,10310
+2017-11-30,Rottweiler,Male,No,Staten Island,10305
+2017-12-12,Terrier,Female,No,Staten Island,10304
+2017-12-13,Pit Bull,Female,No,Staten Island,10303
+2017-12-14,Pit Bull,Unknown,No,Staten Island,NA
+2017-12-15,Pit Bull,Female,No,Staten Island,10301
+2017-12-17,Unknown,Unknown,No,Staten Island,NA
+2017-12-14,Maltese,Male,No,Staten Island,10304
+2017-12-18,Mixed-Other,Unknown,No,Staten Island,NA
+2017-12-17,Pit Bull,Female,No,Staten Island,NA
+2017-12-09,Mutt,Male,No,Staten Island,10312
+2017-12-21,Shih Tzu,Unknown,No,Staten Island,NA
+2017-12-21,Pit Bull,Male,No,Staten Island,10303
+2017-12-24,Chiweenie Mix,Male,Yes,Staten Island,10303
+2017-12-24,Dunker,Female,Yes,Staten Island,10303
+2017-12-21,Schnauzer-Miniature,Male,Yes,Staten Island,10312
+2017-12-28,Mixed-Other,Female,No,Staten Island,10308
