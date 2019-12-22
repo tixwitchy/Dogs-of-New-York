@@ -55,13 +55,17 @@ output:
 
 ## Exercise
 
-- Go to this link to download folder with this excercise:
+- Go to this [link](https://github.com/tixwitchy/Dogs-of-New-York) to download folder with this excercise
 
 - Open **DogsofNewYork.Rproj** file
 
-## R Interface {data-background="Interface.png" data-background-size=60% }
+- Find the presentation [here](https://tixwitchy.github.io/Dogs-of-New-York/Testhtmlpres.html#/).
 
+## R Interface 
 
+<section>
+    <img class="center" height="500" src="Interface.png">
+</section>
 
 ## Packages and Libraries 
 
@@ -73,7 +77,7 @@ An **R package** is a bundle of functions (code), data, documentation, vignettes
 
 **Important note** - R is **case-sensitive** so make sure to check spelling and capitalization!
 
-## 
+## Packages and Libraries-Code
 
 To access information in R packages they first need to be installed and then accessed through their libraries. Use the following code to install packages  and load libraries. 
 
@@ -157,9 +161,11 @@ Categorical:
 - **Factor (Ordinal)**: Cold, mild, warm, hot
 
 
-## Creating R markdown dashboard presentation {data-background="tempflexchoos.png" data-background-size=40% background-position=bottom }
+## Creating R markdown dashboard presentation 
 
 In top left corner press a document with the plus sign icon and choose R Markdown. Then open Flex Dashboard template.
+
+<IMG STYLE="position:relative; bottom:0; LEFT:170px; HEIGHT:300" SRC="tempflexchoos.png">
 
 ## Flexdashboard Template {data-background="flexdashboardtemplate.png" data-background-size=65% background-position=bottom }
 
