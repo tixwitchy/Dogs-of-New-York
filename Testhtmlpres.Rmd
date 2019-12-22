@@ -12,7 +12,7 @@ output:
 ---
 
 
-## **Dog Bites in New York Dataset Exercise** {data-background="DogCOV.jpg" data-background-size=50% }
+## **Dog Bites in New York Dataset Exercise** {data-background-size=40% }
 
 <style type="text/css">
   .reveal p {
@@ -24,8 +24,12 @@ output:
   .reveal ol {
     display: block;
   }
+  
 </style>
 
+<section>
+    <img class="center" height="400" src="DogCOV.jpg">
+</section>
 
 
 
