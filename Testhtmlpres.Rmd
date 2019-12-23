@@ -1,5 +1,5 @@
 ---
-title:
+title: 
 output: 
   revealjs::revealjs_presentation:
           theme: moon 
@@ -13,7 +13,7 @@ output:
 
 
 ## **Dog Bites in New York Dataset Exercise** 
-Tijana Blagojev R-Ladies Belgrade
+Tijana Blagojev - R-Ladies Belgrade
 <style type="text/css">
   .reveal p {
     text-align: justify;
@@ -50,13 +50,15 @@ Tijana Blagojev R-Ladies Belgrade
 
 - The best way to do this is to choose **File/New Project** which will automatically store all your information in same place.
 
-## Exercise
+## Exercise{align=right}
 
-- Go to this [link](https://github.com/tixwitchy/Dogs-of-New-York) to download folder with this excercise
+- Go to this link to download folder with this excercise:
+ https://github.com/tixwitchy/Dogs-of-New-York 
 
 - Open **DogsofNewYork.Rproj** file
 
-- Find the presentation [here](https://tixwitchy.github.io/Dogs-of-New-York/Testhtmlpres.html#/).
+- Find the presentation at this web address: 
+https://tixwitchy.github.io/Dogs-of-New-York/Testhtmlpres.html#/
 
 ## R Interface 
 
@@ -337,9 +339,7 @@ p <- ggplot (data = datadogsbreed) +           #data  mapping
           panel.background = element_rect (fill = "lightcyan"))  #removing legend and changing panelbackground color
 
 #Turn it interactive with plotly
-
 p <- ggplotly (p)
-
 p
 
 ```
@@ -417,9 +417,7 @@ p1<- ggplot (data = datadogsgenderspay)+ #data mapping
   theme (legend.position = "none",
     panel.background = element_blank())
 
-
 p1<-ggplotly(p1, tooltip = "Info") # adding in plotly label Info
-
 p1
 ```
 
