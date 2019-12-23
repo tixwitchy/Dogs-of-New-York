@@ -159,13 +159,15 @@ Categorical:
 
 
 ## Creating R markdown dashboard presentation 
-
 In top left corner press a document with the plus sign icon and choose R Markdown. Then open Flex Dashboard template.
 
-<IMG STYLE="position:relative; bottom:0; LEFT:170px; HEIGHT:300" SRC="tempflexchoos.png">
-
-## Flexdashboard Template {data-background="flexdashboardtemplate.png" data-background-size=50% background-position=center }
-
+<section>
+  <IMG STYLE="position:relative; top:400; LEFT:30px; HEIGHT:300" SRC="tempflexchoos.png">
+</section>
+## Flexdashboard Template 
+<section>
+<img class="center" height="500" src="flexdashboardtemplate.png">
+</section>
 ## Setting up the Appearance of Flexdashboard 
 ```{r,eval=FALSE}
 ---
@@ -238,8 +240,10 @@ and **`r datadogsborougs[2,3]`%** respectively.
     <img height="300" src="textualpart.png">
     <img height="300" src="resulttextual.png">
 </section>
-## Congratulations you just coded and knitted your first dashboard!!!{data-background="dogcongrats.gif" data-background-size=40%}
-
+## Congratulations you just coded and knitted your first dashboard!!!
+<section>
+<img class="center" height="500" src="dogcongrats.gif">
+</section>
 ## Creating a Searchable Datatable
 
 First, in a Setup part of our dashboard document we will create a table without last column related to zip codes.
@@ -256,8 +260,10 @@ DT :: datatable (datadogstable, options = list(
 ```
 
 
-## Dasboard progress {data-background="datatable.png" data-background-size=60% }
-
+## Dasboard progress 
+<section>
+<img class="center" height="500" src="datatable.png">
+</section>
 
 
 ## Creating a Bar Chart
@@ -357,9 +363,15 @@ p
 
 ```
 
-## Dasboard Progress {data-background="barchartdash1.png" data-background-size=60% }
+## Dasboard Progress 
+<section>
+<img class="center" height="500" src="barchartdash1.png" >
+</section>
 
-## Final Stage - Braaavoo!!!! {data-background="giphystagef.gif" data-background-size=50%}
+## Final Stage - Braaavoo!!!!
+<section>
+<img class="center" height="400" src="giphystagef.gif" >
+</section>
 
 ## Stacked Bar of Spayed/Neutered Dogs
 
@@ -431,6 +443,11 @@ p1<-ggplotly(p1, tooltip = "Info")
 p1
 ```
 
-## Dashboard Completed {data-background="Completedashboard.png" data-background-size=65% }
-
-## Great Work and Thank you!{data-background="endgiphy.gif" data-background-size=40% }
+## Dashboard Completed 
+<section>
+<img class="center" height="500" src="Completedashboard.png" >
+</section>
+## Great Work and Thank you!
+<section>
+<img class="center" height="500" src="endgiphy.gif">
+</section>
