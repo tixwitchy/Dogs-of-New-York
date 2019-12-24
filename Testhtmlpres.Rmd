@@ -31,9 +31,8 @@ Tijana Blagojev - R-Ladies Belgrade
     <img class="center" height="500" src="DogCOV.jpg">
 </section>
 
+
 ## Aim of the Exercise
-
-
 
 - We will get acquainted with how R is functioning
 
@@ -57,7 +56,7 @@ Tijana Blagojev - R-Ladies Belgrade
 
 - Open **DogsofNewYork.Rproj** file
 
-- Find the presentation at this web address: 
+- Find the step-by-atep instruction at this web address: 
 https://tixwitchy.github.io/Dogs-of-New-York/Testhtmlpres.html#/
 
 ## R Interface 
@@ -81,10 +80,10 @@ An **R package** is a bundle of functions (code), data, documentation, vignettes
 To access information in R packages they first need to be installed and then accessed through their libraries. Use the following code to install packages  and load libraries. 
 
 
-
-
-
 ```{r eval=FALSE, message=FALSE}
+
+
+
 
 install.packages("flexdashboard")
 
@@ -101,6 +100,7 @@ library (tidyverse)
 library (plotly)
 
 ```
+
 
 ## Simple use of R
 
@@ -162,10 +162,11 @@ Categorical:
 
 ## Creating R markdown dashboard presentation 
 In top left corner press a document with the plus sign icon and choose R Markdown. Then open Flex Dashboard template.
-
 <section>
   <IMG STYLE="position:relative; top:400; LEFT:30px; HEIGHT:300" SRC="tempflexchoos.png">
 </section>
+
+
 ## Flexdashboard Template 
 <section>
 <img class="center" height="500" src="flexdashboardtemplate.png">
