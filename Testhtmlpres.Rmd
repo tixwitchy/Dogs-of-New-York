@@ -162,10 +162,12 @@ Categorical:
 
 ## Creating R markdown dashboard presentation 
 In top left corner press a document with the plus sign icon and choose R Markdown. Then open Flex Dashboard template.
-<section>
-  <IMG STYLE="position:relative; top:400; LEFT:30px; HEIGHT:300" SRC="tempflexchoos.png">
-</section>
 
+## Creating R markdown dashboard presentation 
+
+<section>
+    <img class="center" height="500" src="tempflexchoos.png">
+</section>
 
 ## Flexdashboard Template 
 <section>
