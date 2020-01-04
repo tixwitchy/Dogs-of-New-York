@@ -10,10 +10,10 @@ output:
           
  
 ---
-
-
 ## **Dog Bites in New York Dataset Exercise** 
-Tijana Blagojev - R-Ladies Belgrade
+ <center> Tijana Blagojev - R-Ladies Belgrade </center>
+
+
 <style type="text/css">
   .reveal p {
     text-align: justify;
@@ -82,14 +82,13 @@ To access information in R packages they first need to be installed and then acc
 
 ```{r eval=FALSE, message=FALSE}
 
-
-
-
 install.packages("flexdashboard")
 
 install.packages("tidyverse")
 
 install.packages("plotly")
+
+install.packages("DT")
 
 ```
 ```{r,message=FALSE}
@@ -123,6 +122,8 @@ z
 ## Dataset
 
 The data set on dog bites is taken from [R package nycdogs by Kieran Healy](https://kjhealy.github.io/nycdogs/). For our exercise it is adapted only to include year 2017 and several variables. So let us see how the dataset looks like.
+
+**Important note**: You will rarely come accross the dataset that is already prepared for analysis. Usually, you will spend between 50% - 80% of your time on cleaning and preparing data. 
 
 ## Importing a dataset
 
@@ -448,6 +449,17 @@ p1
 <section>
 <img class="center" height="500" src="Completedashboard.png" >
 </section>
+
+## Word of Caution in this Tale
+
+- *"We infer that something we see in the data applies beyond the time, place and conditions in which it happened to surface."* Ben Jones Avoiding Data Pitfalls.
+
+- In order to say that **Pit Bulls** are really agressive we need to do additional research.
+
+- Is it relevant to make conclusions with this number of observations (is the data reliable)?
+
+- That is why experts need to be able to create this type of visualisations, they already have expertise needed to make conclusion and this tool can help them reach wider audiences.
+
 ## Great Work and Thank you!
 <section>
 <img class="center" height="500" src="endgiphy.gif">
