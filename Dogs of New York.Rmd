@@ -14,7 +14,6 @@ output:
 library (flexdashboard)
 library (tidyverse)
 library (plotly)
-library (nycdogs)
 
 #Importing the dataset
 datadogs2017 <- read_csv ("datadogs2017.csv")
@@ -36,7 +35,7 @@ datadogsborougs <- datadogs2017 %>%
 #Dataset for datatable
 
 datadogstable <- datadogs2017 %>%
-  select (-c (zip_code))
+  select (-zip_code)
 
 #Creating a subset for top three breeds for bar graph
 
@@ -45,7 +44,7 @@ datadogsbreed <- datadogs2017 %>%
   group_by (breed) %>%
   
   tally () %>%
-  
+
   rename (Number_of_bites = n) %>%
   
   arrange (desc (Number_of_bites)) %>%
@@ -54,8 +53,9 @@ datadogsbreed <- datadogs2017 %>%
 
 # Changing order of levels to be presented on the graph properly 
 
-datadogsbreed$breed <- factor (datadogsbreed$breed, levels = c ("Pit Bull", "Unknown", "Shih Tzu"))
-
+datadogsbreed$breed <- factor (datadogsbreed$breed,
+                               levels = c ("Pit Bull", "Unknown", "Shih Tzu"))
+ 
 
 # Creating subset for gender and spay/neutered for second stacked bar graph
 
@@ -74,8 +74,6 @@ datadogsgenderspay <- datadogs2017 %>%
                         "Number of bites:", n, '<br>',
                         
                         "Gender:", gender, '<br>'))
-
-
 
 
 ```
@@ -103,16 +101,16 @@ DT :: datatable (datadogstable, options = list(
 Column {data-width=350}
 -----------------------------------------------------------------------
 
-### **Three breeds with highest number of bites in 2017**
+### **Three breeds with the highest number of bites in 2017**
 
 ```{r}
 #Barchart for breed biters using ggplot and plotly package
 
-p <- ggplot (data = datadogsbreed, aes (x = breed,y = Number_of_bites))+
+p <- ggplot (data = datadogsbreed, aes (x = breed, y = Number_of_bites))+
   
      geom_col (fill = c("darkred", "darkgreen", "darkblue")) +
   
-     ylab ("Number of bites") +
+     ylab ("Number of Bites") +
   
      theme (legend.position = "none",
             
@@ -131,7 +129,6 @@ p
 ```{r}
 
 #Creating stacked bar using ggplot and plotly package
-
 p1<- ggplot (data = datadogsgenderspay)+
   
   geom_col (aes (x = spay_neuter, y = n, fill = gender, label = Info)) +
@@ -142,7 +139,6 @@ p1<- ggplot (data = datadogsgenderspay)+
   
   theme (legend.position = "none",
     panel.background = element_blank())
-
 
 p1<-ggplotly(p1,tooltip = "Info")
 

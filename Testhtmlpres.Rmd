@@ -42,13 +42,6 @@ output:
 
 - We will create a dashboard with information contained in dog bites dataset
 
-
-## First steps
-
-- After installing R and R studio you need to **set a working directory** where all your work will be stored.
-
-- The best way to do this is to choose **File/New Project** which will automatically store all your information in same place.
-
 ## Exercise{align=right}
 
 - Go to this link to download folder with this excercise:
@@ -58,6 +51,16 @@ output:
 
 - Find the step-by-atep instruction at this web address: 
 https://tixwitchy.github.io/Dogs-of-New-York/Testhtmlpres.html#/
+
+## First steps
+
+- After installing R and R studio you need to **set a working directory** where all your work will be stored.
+
+- The best way to do this is to choose **File/New Project** which will automatically store all your information in same place.
+
+- As we already opened  **DogsofNewYork.Rproj** file it has already set the working directory for us.
+
+
 
 ## R Interface 
 
@@ -146,15 +149,13 @@ glimpse (datadogs2017)
 
 ## Variables
 
-**Numeric** and  **Categorical**
-
-Numeric can be:
+**Measured** have the resulting outcome expressed in numerical terms (Numeric):
 
 - **Integer**: Age, number of kittens
 
 - **Double (Continuous)**: Height, weight
 
-Categorical:
+**Attribute** have their outcomes described in terms of their characteristics or attributes:
 
 - **Character**: Black, yellow, white
 
@@ -191,7 +192,7 @@ output:
 
 In tidyverse package there is a so-called "pipe" operator **%>%**. It passes the result of the left hand-side as the first operator argument of the function on the right handside. It is used to connect multiple operations on data together.
 
-## Setup part of the R-markdown-Dashboard Code
+## Setup part of the R-markdown-Dashboard Document
 
 In the **Setup part** code, we will import a dog bites data  set and create a subset for number of bites per boroughs that we will use in textual part of our dashboard.
 
@@ -209,6 +210,14 @@ datadogsborougs <- datadogs2017 %>%
   
   mutate (perc = round ((n/sum(n)) * 100, 0)) # adding new column for percentage called perc
 ```
+
+## Setup part of the R-markdown-Dashboard Document
+
+<section>
+<img class="center" height="500" src="flexdashboardtemplatesetup.png">
+</section>
+
+
 ## Number of Bites per Borough in New York
 
 Now let us take a look at the 5 boroughs with the highest number of bites
@@ -255,10 +264,10 @@ and **`r datadogsborougs[2,3]`%** respectively.
 First, in a Setup part of our dashboard document we will create a table without last column related to zip codes.
 ```{r}
 datadogstable <- datadogs2017 %>%
-  select (-c (zip_code))
+  select (-zip_code)
 ```
 
-Now we will add a searchable table in second row of the first column designated with **###** with the help of DT package. 
+Now we will add a searchable table just below the title **Table of Dog Bites in New York in 2017** with the help of DT package. 
 ```{r, eval=FALSE}
 DT :: datatable (datadogstable, options = list(
   bPaginate = TRUE))
@@ -274,7 +283,7 @@ DT :: datatable (datadogstable, options = list(
 
 ## Creating a Bar Chart
 
-First, we will create a subset to see which are the three top breed bitters. We will again put this part of code in the first **Setup part** of our R dashboard/R markdown file. We will also change breed variable from character into factor.
+First, we will create a subset to see which are the three top breed bitters. We will again put this part of code in the first **Setup part** of our R dashboard/R markdown file. 
 
 ```{r,message=FALSE}
 datadogsbreed <- datadogs2017 %>%
@@ -289,10 +298,7 @@ datadogsbreed <- datadogs2017 %>%
   
   top_n(3) #choosing only top three breeds
 
-# Changing order of levels to be presented on the graph properly 
 
-datadogsbreed$breed <- factor (datadogsbreed$breed,
-                               levels = c ("Pit Bull", "Unknown", "Shih Tzu"))
 
 ```
 
@@ -326,17 +332,16 @@ Enables you to specify building blocks of a plot and to combine them to create g
 
 ## Creating bar graph
 
-Instead of  Chart B we will write: **Three breeds with highest number of bites in 2017** and use this a code for a bar chart.
+Instead of  Chart B we will write: **Three breeds with the highest number of bites in 2017** and use this a code for a bar chart.
 
 ```{r, eval=FALSE}
 
-p <- ggplot (data = datadogsbreed) +           #data  mapping
+p <- ggplot (data = datadogsbreed) +  #data  mapping
   
-     geom_col (aes (x = breed,y = Number_of_bites),       #geometric object and aesthetic mapping 
-               
+     geom_col (aes (x = breed, y = Number_of_bites),#geometric object and aesthetic mapping we will reorder breed based on number of bites in descending order
                fill = c("darkred", "darkgreen", "darkblue")) +     #with colors for bars
-  
-     ylab ("Number of bites") +   #adding the title of y lab
+     xlab ("Breed")
+     ylab ("Number of Bites") +   #adding the title of y lab
   
      theme (legend.position = "none",
             
@@ -349,6 +354,7 @@ p
 ```
 
 ## Bar Chart 
+As you can see the order of bars is not quite right. 
 <style> div[id*="htmlwidget"] { margin: auto; } </style>
 ```{r,echo=FALSE}
 p <- ggplot (data = datadogsbreed) +     #data and aesthetic mapping
@@ -367,6 +373,21 @@ p
 
 ```
 
+## Changing Character Variable to a Factor
+
+We will add in the **Setup part** of our file the following code that will transform character variable-**breed** to a factor. We will specify levels so that we can create a proper order of dog breeds according to the number of bites - first level will be Pit Bull, followed by Unknown and then Shih Tzu. 
+
+Note: In order to use a particular column/variable in R, we connect dataset and needed column with the dollar sign.
+
+```{r}
+# Changing order of levels to be presented on the graph properly 
+
+datadogsbreed$breed <- factor (datadogsbreed$breed,
+                               levels = c ("Pit Bull", "Unknown", "Shih Tzu"))
+```
+
+
+
 ## Dasboard Progress 
 <section>
 <img class="center" height="500" src="barchartdash1.png" >
@@ -379,7 +400,7 @@ p
 
 ## Stacked Bar of Spayed/Neutered Dogs
 
-In this final part, we will create a stacked bar chart which will show how many dogs that bit were spayed/neutered and how many of them were male or female. So we will again in **Setup part** create a subset grouped by spay/neuter and gender. We will also create another column to use as pop-up label.
+In this final part, we will create a stacked bar chart which will show how many dogs that bit were spayed/neutered and how many of them were male or female. So we will again in **Setup part** create a subset grouped by spay/neuter and gender. We will also create another column to use it as a pop-up label.
 ```{r}
 datadogsgenderspay <- datadogs2017 %>%
   
@@ -406,7 +427,7 @@ kableExtra:: kable(datadogsgenderspay)
 
 ## Creating stacked bar graph
 
-Instead of  Chart C we will write and center title: **Bites based on dog's gender and whether they were spayed/neutered** {align=center} and use this a code for a stacked bar:
+Instead of  Chart C we will write and center the title: **Bites based on dog's gender and whether they were spayed/neutered** {align=center} and use this a code for a stacked bar:
 ```{r,eval=FALSE,warning=FALSE}
 p1<- ggplot (data = datadogsgenderspay)+ #data mapping
   
@@ -456,9 +477,9 @@ p1
 
 - In order to say that **Pit Bulls** are really agressive we need to do additional research.
 
-- Is it relevant to make conclusions with this number of observations (is the data reliable)?
+- Is it relevant to make conclusions with this number of observations? Is the data reliable?
 
-- That is why experts need to be able to create this type of visualisations, they already have expertise needed to make conclusion and this tool can help them reach wider audiences.
+- That is why experts need to be able to create this type of visualisations. They already have expertise needed to draw valid conclusion and this tool can help them reach wider audience as well as follow and contribute to other people's work.
 
 ## Great Work and Thank you!
 <section>
