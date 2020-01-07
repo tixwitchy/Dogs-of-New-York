@@ -31,7 +31,6 @@ output:
     <img class="center" height="500" src="DogCOV.jpg">
 </section>
 
-
 ## Aim of the Exercise
 
 - We will get acquainted with how R is functioning
