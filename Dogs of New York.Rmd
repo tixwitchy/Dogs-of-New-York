@@ -124,7 +124,7 @@ p
 
 ```
 
-### **Bites based on dog's gender and whether they were spayed/neutered** {align=center}
+### **Bites Based on Dog's Gender and Whether They were Spayed/neutered** {align=center}
 
 ```{r}
 
