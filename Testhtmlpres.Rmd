@@ -472,7 +472,11 @@ p1
 
 ## Word of Caution in this Tale
 
-- *"We infer that something we see in the data applies beyond the time, place and conditions in which it happened to surface."* Ben Jones Avoiding Data Pitfalls.
+> *"We infer that something we see in the data applies beyond the time, place and conditions in which it happened to surface."* 
+>
+> ---Ben Jones, Avoiding Data Pitfalls
+
+## Word of Caution in this Tale
 
 - In order to say that **Pit Bulls** are really agressive we need to do additional research.
 
