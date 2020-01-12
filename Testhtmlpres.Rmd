@@ -387,7 +387,7 @@ datadogsbreed$breed <- factor (datadogsbreed$breed,
 
 
 
-## Dasboard Progress 
+## Dashboard Progress 
 <section>
 <img class="center" height="500" src="barchartdash1.png" >
 </section>
