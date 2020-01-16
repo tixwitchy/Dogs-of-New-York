@@ -339,7 +339,7 @@ p <- ggplot (data = datadogsbreed) +  #data  mapping
   
      geom_col (aes (x = breed, y = Number_of_bites),#geometric object and aesthetic mapping we will reorder breed based on number of bites in descending order
                fill = c("darkred", "darkgreen", "darkblue")) +     #with colors for bars
-     xlab ("Breed")
+     xlab ("Breed") + 
      ylab ("Number of Bites") +   #adding the title of y lab
   
      theme (legend.position = "none",
