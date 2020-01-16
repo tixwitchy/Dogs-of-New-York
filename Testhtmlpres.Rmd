@@ -474,7 +474,9 @@ p1
 
 > *"We infer that something we see in the data applies beyond the time, place and conditions in which it happened to surface."* 
 >
-> ---Ben Jones, Avoiding Data Pitfalls
+> --- Ben Jones, Avoiding Data Pitfalls
+
+
 
 ## Word of Caution in this Tale
 
