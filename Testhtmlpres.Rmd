@@ -239,7 +239,7 @@ datadogsborougs[1, 1]
 
 This dashboard shows statistics of dog bites in New York City in 2017. It shows that there were total of 
 **`r nrow(datadogs2017)`** bites.The bar chart below shows which were the top three biters per breed. 
-Although, there are certain patterns that might suggest that **Pit Bulls**are the most aggressive, it might
+Although, there are certain patterns that might suggest that **Pit Bulls** are the most aggressive, it might
 just be the case that there are more of them in New York in comparison to other breeds. 
 **`r datadogsborougs[1,1]`** and **`r datadogsborougs[2,1]`** are the two boroughs with 
 the highest percentage of bites **`r datadogsborougs[1,3]`%** 
