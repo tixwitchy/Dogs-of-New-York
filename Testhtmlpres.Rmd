@@ -46,10 +46,16 @@ output:
 - Go to this link to download folder with this excercise:
  https://github.com/tixwitchy/Dogs-of-New-York 
 
+- Click on Clone or download green button and Download ZIP
+
 - Open **DogsofNewYork.Rproj** file
 
-- Find the step-by-atep instruction at this web address: 
-https://tixwitchy.github.io/Dogs-of-New-York/Testhtmlpres.html#/
+- In the left  part of R studio (Console) copy the following code and press enter:
+```{r eval=FALSE, message=FALSE}
+install.packages(c("flexdashboard", "tidyverse", "plotly", "DT"))
+```
+
+
 
 ## First steps
 
