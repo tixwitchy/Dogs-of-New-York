@@ -225,7 +225,7 @@ datadogsborougs <- datadogs2017 %>%
 
 ## Number of Bites per Borough in New York
 
-Now let us take a look at the 5 boroughs with the highest number of bites
+Now let us take a look at the 5 boroughs with the highest number of bites 
 
 ```{r}
 head (datadogsborougs, 5)
@@ -310,9 +310,9 @@ datadogsbreed <- datadogs2017 %>%
 
 
 
-## Using ggplot and plotly
+## Using ggplot2 and plotly
 
-We will use two packages, one (ggplot) to make a bar graph and another one (plotly) to make the graph's information pop up when hovering. Ggplot is a package created by [Hadley Wickam](https://resources.rstudio.com/authors/hadley-wickham) that is based on a grammar of graphics. 
+We will use two packages, one (ggplot2) to make a bar graph and another one (plotly) to make the graph's information pop up when hovering. Ggplot2 is a package created by [Hadley Wickam](https://resources.rstudio.com/authors/hadley-wickham) that is based on a grammar of graphics. 
 
 ## Grammar of Graphics
 
