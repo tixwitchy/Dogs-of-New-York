@@ -2,7 +2,7 @@
 title: 
 output: 
   revealjs::revealjs_presentation:
-          theme: moon 
+          theme: moon
           highlight: espresso
           transition: slide
           reveal_options:
@@ -491,6 +491,13 @@ p1
 - Is it relevant to make conclusions with this number of observations? Is the data reliable?
 
 - That is why experts need to be able to create this type of visualisations. They already have expertise needed to draw valid conclusion and this tool can help them reach wider audience as well as follow and contribute to other people's work.
+
+## Example of combining Flexdashboards and Shiny
+
+<section>
+<a href="https://tixwitchy.shinyapps.io/minority_media/">
+<img class="center" height="500" src="Minoritymedia.png"> </a>
+</section>
 
 ## Great Work and Thank you!
 <section>
