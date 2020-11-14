@@ -11,7 +11,7 @@ output:
  
 ---
 ## **Dog Bites in New York Dataset Exercise** 
- <center> Tijana Blagojev - R-Ladies Belgrade </center>
+ <center> Tijana Blagojev & Jovana Savić- R-Ladies Belgrade </center>
 
 
 <style type="text/css">
@@ -498,6 +498,8 @@ p1
 <a href="https://tixwitchy.shinyapps.io/minority_media/">
 <img class="center" height="500" src="Minoritymedia.png"> </a>
 </section>
+
+
 
 ## Great Work and Thank you!
 <section>
