@@ -499,6 +499,13 @@ p1
 <img class="center" height="500" src="Minoritymedia.png"> </a>
 </section>
 
+## Additional resources
+
+- [More about Flexdashboards](https://rmarkdown.rstudio.com/flexdashboard/)
+- [Flexdashboards and Shiny](https://rmarkdown.rstudio.com/flexdashboard/shiny.html)
+- [R-ladies Belgrade meetup page](https://www.meetup.com/rladies-belgrade/)
+- [Stay in touch and show me your dashboards :)](mailto:etijana@gmail.com)
+
 
 
 ## Great Work and Thank you!
