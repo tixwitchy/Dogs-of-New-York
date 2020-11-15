@@ -11,7 +11,7 @@ output:
  
 ---
 ## **Dog Bites in New York Dataset Exercise** 
- <center> Tijana Blagojev & Jovana Savić- R-Ladies Belgrade </center>
+ <center> Tijana Blagojev - R-Ladies Belgrade </center>
 
 
 <style type="text/css">
