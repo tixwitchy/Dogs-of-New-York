@@ -51,6 +51,7 @@ output:
 - Open **DogsofNewYork.Rproj** file
 
 - In the left  part of R studio (Console) copy the following code and press enter:
+
 ```{r eval=FALSE, message=FALSE}
 install.packages(c("flexdashboard", "tidyverse", "plotly", "DT"))
 ```
@@ -472,8 +473,10 @@ p1
 ```
 
 ## Dashboard Completed 
+
 <section>
-<img class="center" height="500" src="Completedashboard.png" >
+<a href="https://tixwitchy.github.io/Dogs-of-New-York/Dogs-of-New-York.html">
+<img class="center" height="500" src="Completedashboard.png"> </a>
 </section>
 
 ## Word of Caution in this Tale
