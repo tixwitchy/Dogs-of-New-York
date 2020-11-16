@@ -479,6 +479,8 @@ p1
 <img class="center" height="500" src="Completedashboard.png"> </a>
 </section>
 
+
+
 ## Word of Caution in this Tale
 
 > *"We infer that something we see in the data applies beyond the time, place and conditions in which it happened to surface."* 
@@ -501,6 +503,14 @@ p1
 <a href="https://tixwitchy.shinyapps.io/minority_media/">
 <img class="center" height="500" src="Minoritymedia.png"> </a>
 </section>
+
+## Where to publish your dashboard
+
+- [Netlify](https://app.netlify.com/drop)
+
+- [Github pages](https://pages.github.com/)
+
+- If your dashboard has shiny elements you can publish it through [Shinyapps.io](https://shiny.rstudio.com/deploy/)
 
 ## Additional resources
 
